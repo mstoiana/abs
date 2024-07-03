@@ -67,8 +67,7 @@ read_csv <- function(file_path) {
 }
 
 #write to csv func
-save_csv  <- function(data_df, file_name = "bronze_data.csv") {
-  file_path <- file.path(getwd(), file_name)
+save_csv  <- function(data_df, file_path) {
   write.csv(data_df, file_path, row.names = FALSE)
 }
 
