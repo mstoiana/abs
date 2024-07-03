@@ -50,18 +50,13 @@ process_to_bronze <- function(data_df) {
 #bronze metadata func
 create_metadata <- function(data_df) {
   #add columns for id and process time
-  data_df$process_id <- UUIDgenerate()
+  data_df$uID <- UUIDgenerate()
   data_df$load_datetime <- Sys.time()
   
   return(data_df)
 }
-
-
-
 # Example usage
 # create_metadata(data)
-
-#
 
 #read local data func
 #read_local_data <- Function(filepath, )
