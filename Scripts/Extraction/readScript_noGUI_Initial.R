@@ -44,8 +44,6 @@ process_to_bronze <- function(data_df) {
   
   return(distinct_data_df)
 }
-
-
 # Example usage of the function
 # data <- read_sdmx_data()
 
@@ -63,12 +61,17 @@ create_metadata <- function(data_df) {
 #read local data func
 read_csv <- function(file_path) {
   data_df <- read.csv(file_path, stringsAsFactors = FALSE)
+  
   return(data_df)
 }
+#Example usage
+#df <- read_csv("C:/Users/User/Documents/data.csv")
 
 #write to csv func
 save_csv  <- function(data_df, file_path) {
   write.csv(data_df, file_path, row.names = FALSE)
 }
+#Example usage
+#save_csv(df,"C:/Users/User/Documents/data.csv")
 
 
