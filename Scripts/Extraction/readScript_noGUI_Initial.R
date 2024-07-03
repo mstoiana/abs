@@ -59,8 +59,14 @@ create_metadata <- function(data_df) {
 # create_metadata(data)
 
 #read local data func
-#read_local_data <- Function(filepath, )
+read_csv <- function(file_path) {
+  data_df <- read.csv(file_path, stringsAsFactors = FALSE)
+  return(data_df)
+}
 
-
+#write to csv func
+save_csv <- function(data_df, file_path) {
+  write.csv(data_df, file_path, row.names = FALSE)
+}
 
 
