@@ -36,11 +36,13 @@ read_sdmx_data <- function(providerId = "ABS", resource = "data", flowRef = "ALC
 
 # Function to process data and add metadata
 process_to_bronze <- function(data_df) {
+  #distinct 
+  distinct_data_df <- unique(data_df)
   # Add process_id and load_datetime columns
-  data_df$process_id <- UUIDgenerate()
-  data_df$load_datetime <- Sys.time()
+  distinct_data_df$process_id <- UUIDgenerate()
+  distinct_data_df$load_datetime <- Sys.time()
   
-  return(data_df)
+  return(distinct_data_df)
 }
 
 
@@ -65,7 +67,8 @@ read_csv <- function(file_path) {
 }
 
 #write to csv func
-save_csv <- function(data_df, file_path) {
+save_csv  <- function(data_df, file_name = "bronze_data.csv") {
+  file_path <- file.path(getwd(), file_name)
   write.csv(data_df, file_path, row.names = FALSE)
 }
 
