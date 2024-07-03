@@ -4,6 +4,10 @@ if (!requireNamespace("rsdmx", quietly = TRUE)) {
 if (!requireNamespace("uuid", quietly = TRUE)) {
   install.packages("uuid")
 }
+if (!requireNamespace("uuid", quietly = TRUE)) {
+  install.packages("encryptr")
+}
+
 #variables
 providerId <- "ABS"
 resource <- "data"
@@ -14,6 +18,7 @@ endDate <- NULL
 # Load the necessary library
 library(rsdmx)
 library(uuid)
+library(encryptr)
 #read sdmx func
 read_sdmx_data <- function(providerId = "ABS", resource = "data", flowRef = "ALC", startDate = NULL, endDate = NULL) {
   # Prepare the parameters for readSDMX
@@ -38,7 +43,6 @@ read_sdmx_data <- function(providerId = "ABS", resource = "data", flowRef = "ALC
 # Example usage of the function
 # data <- read_sdmx_data()
 
-
 #bronze metadata func
 create_metadata <- function(data_df) {
   #add columns for id and process time
@@ -47,7 +51,15 @@ create_metadata <- function(data_df) {
   
   return(data_df)
 }
+
+
 # Example usage
 # create_metadata(data)
+
+#
+
+#read local data func
+
+
 
 
