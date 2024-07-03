@@ -21,25 +21,26 @@ library(uuid)
 library(encryptr)
 #read sdmx func
 read_sdmx_data <- function(providerId = "ABS", resource = "data", flowRef = "ALC", startDate = NULL, endDate = NULL) {
-  # Prepare the parameters for readSDMX
-  params <- list(providerId = providerId, resource = resource, flowRef = flowRef)
+  # Construct args for rsdmx
+  args <- list(providerId = providerId, resource = resource, flowRef = flowRef)
   
-  # Add date parameters if provided
-  if (!is.null(startDate) && startDate != "") {
-    params$start <- startDate
-  }
-  if (!is.null(endDate) && endDate != "") {
-    params$end <- endDate
-  }
-  
-  # Fetch the data using the readSDMX function
-  sdmx_data <- do.call(readSDMX, params)
-  
-  # Convert the data to a data frame
-  data_df <- as.data.frame(sdmx_data)
+  # Call readSDMX with the constructed argument list
+  sdmx <- do.call(readSDMX, args)
+  data_df <- as.data.frame(sdmx)
   
   return(data_df)
 }
+
+# Function to process data and add metadata
+process_to_bronze <- function(data_df) {
+  # Add process_id and load_datetime columns
+  data_df$process_id <- UUIDgenerate()
+  data_df$load_datetime <- Sys.time()
+  
+  return(data_df)
+}
+
+
 # Example usage of the function
 # data <- read_sdmx_data()
 
@@ -53,12 +54,14 @@ create_metadata <- function(data_df) {
 }
 
 
+
 # Example usage
 # create_metadata(data)
 
 #
 
 #read local data func
+#read_local_data <- Function(filepath, )
 
 
 
