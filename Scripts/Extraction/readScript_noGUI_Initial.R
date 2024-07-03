@@ -4,10 +4,12 @@ if (!requireNamespace("rsdmx", quietly = TRUE)) {
 if (!requireNamespace("uuid", quietly = TRUE)) {
   install.packages("uuid")
 }
-if (!requireNamespace("uuid", quietly = TRUE)) {
+if (!requireNamespace("encrypter", quietly = TRUE)) {
   install.packages("encryptr")
 }
-
+if (!requireNamespace("dplyr", quietly = TRUE)) {
+  install.packages("dplyr")
+}
 #variables
 providerId <- "ABS"
 resource <- "data"
@@ -19,6 +21,7 @@ endDate <- NULL
 library(rsdmx)
 library(uuid)
 library(encryptr)
+library(dplyr)
 #read sdmx func
 read_sdmx_data <- function(providerId = "ABS", resource = "data", flowRef = "ALC", startDate = NULL, endDate = NULL) {
   # Construct args for rsdmx
