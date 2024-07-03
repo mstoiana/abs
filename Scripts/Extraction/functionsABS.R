@@ -47,6 +47,17 @@ process_to_bronze <- function(data_df) {
 # Example usage of the function
 # data <- read_sdmx_data()
 
+#bronze metadata func
+create_metadata <- function(data_df) {
+  #add columns for id and process time
+  data_df$uID <- UUIDgenerate()
+  data_df$load_datetime <- Sys.time()
+  
+  return(data_df)
+}
+# Example usage
+# create_metadata(data)
+
 #read local data func
 read_csv <- function(file_path) {
   data_df <- read.csv(file_path, stringsAsFactors = FALSE)
@@ -65,6 +76,6 @@ save_csv  <- function(data_df, file_path) {
 
 #Encryption
 
-sdmx <- read_sdmx_data()
-bsdmx <- process_to_bronze(sdmx)
+
+
 
