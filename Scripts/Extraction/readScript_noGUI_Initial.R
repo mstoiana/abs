@@ -67,4 +67,4 @@ save_csv  <- function(data_df, file_path) {
 
 sdmx <- read_sdmx_data()
 bsdmx <- process_to_bronze(sdmx)
-
+save_csv(bsdmx, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/bsdmx.csv")
