@@ -1,0 +1,359 @@
+Unit_Group_key,Unit_Group,Description,Skill_Levels,Date
+b59c67bf196a4758191e42f76670ceba,1111,Chief Executives and Managing Directors,1,2024-07-09
+20d135f0f28185b84a4cf7aa51f29500,1112,General Managers,1,2024-07-09
+9c3b1830513cc3b8fc4b76635d32e692,1113,Legislators,1,2024-07-09
+285ab9448d2751ee57ece7f762c39095,1211,Aquaculture Farmers,1,2024-07-09
+a01610228fe998f515a72dd730294d87,1212,Crop Farmers,1,2024-07-09
+33ceb07bf4eeb3da587e268d663aba1a,1213,Livestock Farmers,1,2024-07-09
+c8ba76c279269b1c6bc8a07e38e78fa4,1214,Mixed Crop and Livestock Farmers,1,2024-07-09
+7bb060764a818184ebb1cc0d43d382aa,1311,"Advertising, Public Relations and Sales Managers",1,2024-07-09
+f9be311e65d81a9ad8150a60844bb94c,1321,Corporate Services Managers,1,2024-07-09
+dc960c46c38bd16e953d97cdeefdbc68,1322,Finance Managers,1,2024-07-09
+4671aeaf49c792689533b00664a5c3ef,1323,Human Resource Managers,1,2024-07-09
+bb7946e7d85c81a9e69fee1cea4a087c,1324,Policy and Planning Managers,1,2024-07-09
+3546ab441e56fa333f8b44b610d95691,1325,Research and Development Managers,1,2024-07-09
+e077e1a544eec4f0307cf5c3c721d944,1331,Construction Managers,1,2024-07-09
+28e209b61a52482a0ae1cb9f5959c792,1332,Engineering Managers,1,2024-07-09
+ff49cc40a8890e6a60f40ff3026d2730,1333,"Importers, Exporters and Wholesalers",1,2024-07-09
+8edd72158ccd2a879f79cb2538568fdc,1334,Manufacturers,1,2024-07-09
+9cb67ffb59554ab1dabb65bcb370ddd9,1335,Production Managers,1,2024-07-09
+3d779cae2d46cf6a8a99a35ba4167977,1336,"Supply, Distribution and Procurement Managers",1,2024-07-09
+33ebd5b07dc7e407752fe773eed20635,1341,Child Care Centre Managers,1,2024-07-09
+5e1b18c4c6a6d31695acbae3fd70ecc6,1342,Health and Welfare Services Managers,1,2024-07-09
+674bfc5f6b72706fb769f5e93667bd23,1343,School Principals,1,2024-07-09
+a50abba8132a77191791390c3eb19fe7,1344,Other Education Managers,1,2024-07-09
+3e313b9badf12632cdae5452d20e1af6,1351,ICT Managers,1,2024-07-09
+7f53f8c6c730af6aeb52e66eb74d8507,1391,Commissioned Officers (Management),1,2024-07-09
+c0826819636026dd1f3674774f06c51d,1392,Senior Non-commissioned Defence Force Members,1,2024-07-09
+602d1305678a8d5fdb372271e980da6a,1399,Other Specialist Managers,1,2024-07-09
+54072f485cdb7897ebbcaf7525139561,1411,Cafe and Restaurant Managers,2,2024-07-09
+0e4e946668cf2afc4299b462b812caca,1412,Caravan Park and Camping Ground Managers,2,2024-07-09
+59f51fd6937412b7e56ded1ea2470c25,1413,Hotel and Motel Managers,2,2024-07-09
+7a674153c63cff1ad7f0e261c369ab2c,1414,Licensed Club Managers,2,2024-07-09
+30c8e1ca872524fbf7ea5c519ca397ee,1419,Other Accommodation and Hospitality Managers,2,2024-07-09
+9aa42b31882ec039965f3c4923ce901b,1421,Retail Managers,2,2024-07-09
+226d1f15ecd35f784d2a20c3ecf56d7f,1491,"Amusement, Fitness and Sports Centre Managers",2,2024-07-09
+e655c7716a4b3ea67f48c6322fc42ed6,1492,Call or Contact Centre and Customer Service Managers,2,2024-07-09
+1714726c817af50457d810aae9d27a2e,1493,Conference and Event Organisers,2,2024-07-09
+fcdf25d6e191893e705819b177cddea0,1494,Transport Services Managers,2,2024-07-09
+6490791e7abf6b29a381288cc23a8223,1499,"Other Hospitality, Retail and Service Managers",2,2024-07-09
+1a0a283bfe7c549dee6c638a05200e32,2111,"Actors, Dancers and Other Entertainers",1,2024-07-09
+a29d1598024f9e87beab4b98411d48ce,2112,Music Professionals,1,2024-07-09
+01931a6925d3de09e5f87419d9d55055,2113,Photographers,2,2024-07-09
+51174add1c52758f33d414ceaf3fe6ba,2114,Visual Arts and Crafts Professionals,"1,2",2024-07-09
+02b1be0d48924c327124732726097157,2121,"Artistic Directors, and Media Producers and Presenters",1,2024-07-09
+abdbeb4d8dbe30df8430a8394b7218ef,2122,"Authors, and Book and Script Editors",1,2024-07-09
+5a1e3a5aede16d438c38862cac1a78db,2123,"Film, Television, Radio and Stage Directors",1,2024-07-09
+ef41d488755367316f04fc0e0e9dc9fc,2124,Journalists and Other Writers,1,2024-07-09
+3323fe11e9595c09af38fe67567a9394,2211,Accountants,1,2024-07-09
+05a70454516ecd9194c293b0e415777f,2212,"Auditors, Company Secretaries and Corporate Treasurers",1,2024-07-09
+598920e11d1eb2a49501d59fce5ecbb7,2221,Financial Brokers,2,2024-07-09
+934b535800b1cba8f96a5d72f72f1611,2222,Financial Dealers,"1 Aus,2 NZ",2024-07-09
+04048aeca2c0f5d84639358008ed2ae7,2223,Financial Investment Advisers and Managers,"1 Aus,2 NZ",2024-07-09
+2a8a812400df8963b2e2ac0ed01b07b8,2231,Human Resource Professionals,1,2024-07-09
+3e6260b81898beacda3d16db379ed329,2232,ICT Trainers,1,2024-07-09
+e0f7a4d0ef9b84b83b693bbf3feb8e6e,2233,Training and Development Professionals,1,2024-07-09
+b6e32320fa6bc5a588b90183b95dc028,2241,"Actuaries, Mathematicians and Statisticians",1,2024-07-09
+1a3f91fead97497b1a96d6104ad339f6,2242,"Archivists, Curators and Records Managers",1,2024-07-09
+90aef91f0d9e7c3be322bd7bae41617d,2243,Economists,1,2024-07-09
+3147da8ab4a0437c15ef51a5cc7f2dc4,2244,Intelligence and Policy Analysts,1,2024-07-09
+10907813b97e249163587e6246612e21,2245,Land Economists and Valuers,1,2024-07-09
+758a06618c69880a6cee5314ee42d52f,2246,Librarians,1,2024-07-09
+df1f1d20ee86704251795841e6a9405a,2247,Management and Organisation Analysts,1,2024-07-09
+243facb29564e7b448834a7c9d901201,2249,Other Information and Organisation Professionals,1,2024-07-09
+d5e2c0adad503c91f91df240d0cd4e49,2251,Advertising and Marketing Professionals,1,2024-07-09
+635440afdfc39fe37995fed127d7df4f,2252,ICT Sales Professionals,1,2024-07-09
+ce6c92303f38d297e263c7180f03d402,2253,Public Relations Professionals,1,2024-07-09
+38651c4450f87348fcbe1f992746a954,2254,Technical Sales Representatives,1,2024-07-09
+046ddf96c233a273fd390c3d0b1a9aa4,2311,Air Transport Professionals,1,2024-07-09
+69dafe8b58066478aea48f3d0f384820,2312,Marine Transport Professionals,2,2024-07-09
+761c7920f470038d4c8a619c79eddd62,2321,Architects and Landscape Architects,1,2024-07-09
+228bbc2f87caeb21bb7f6949fddcb91d,2322,Surveyors and Spatial Scientists,1,2024-07-09
+149815eb972b3c370dee3b89d645ae14,2323,"Fashion, Industrial and Jewellery Designers",1,2024-07-09
+d5e2fbef30a4eb668a203060ec8e5eef,2324,"Graphic and Web Designers, and Illustrators",1,2024-07-09
+6c97cd07663b099253bc569fe8d342bb,2325,Interior Designers,2,2024-07-09
+f1e2b2c9255d552500a833ac828cd635,2326,Urban and Regional Planners,1,2024-07-09
+273448411df1962cba1db6c05b3213c9,2331,Chemical and Materials Engineers,1,2024-07-09
+e77dbaf6759253c7c6d0efc5690369c7,2332,Civil Engineering Professionals,1,2024-07-09
+f7e0b956540676a129760a3eae309294,2333,Electrical Engineers,1,2024-07-09
+7e3b7a5bafcb0fa8e8dfe3ea6aca9186,2334,Electronics Engineers,1,2024-07-09
+7b4773c039d539af17c883eb9283dd14,2335,"Industrial, Mechanical and Production Engineers",1,2024-07-09
+a3eb043e7bf775de87763e9f8121c953,2336,Mining Engineers,1,2024-07-09
+35936504a37d53e03abdfbc7318d9ec7,2339,Other Engineering Professionals,1,2024-07-09
+c8dfece5cc68249206e4690fc4737a8d,2341,Agricultural and Forestry Scientists,1,2024-07-09
+2321994d85d661d792223f647000c65f,2342,"Chemists, and Food and Wine Scientists",1,2024-07-09
+7cc532d783a7461f227a5da8ea80bfe1,2343,Environmental Scientists,1,2024-07-09
+f52854cc99ae1c1966b0a21d0127975b,2344,"Geologists, Geophysicists and Hydrogeologists",1,2024-07-09
+81b073de9370ea873f548e31b8adc081,2345,Life Scientists,1,2024-07-09
+777669af68dbccabc30c3b6bcaa81825,2346,Medical Laboratory Scientists,1,2024-07-09
+b23975176653284f1f7356ba5539cfcb,2347,Veterinarians,1,2024-07-09
+70fcb77e6349f4467edd7227baa73222,2349,Other Natural and Physical Science Professionals,1,2024-07-09
+ddeebdeefdb7e7e7a697e1c3e3d8ef54,2411,Early Childhood (Pre-primary School) Teachers,1,2024-07-09
+186fb23a33995d91ce3c2212189178c8,2412,Primary School Teachers,1,2024-07-09
+72e6d3238361fe70f22fb0ac624a7072,2413,Middle School Teachers \ Intermediate School Teachers,1,2024-07-09
+cb2c2041d9763d84d7d655e81178f444,2414,Secondary School Teachers,1,2024-07-09
+e3ca0449fa2ea7701a7ac53fb719c51a,2415,Special Education Teachers,1,2024-07-09
+e139c454239bfde741e893edb46a06cc,2421,University Lecturers and Tutors,1,2024-07-09
+be1df9a5d08724971f64a511e24fc904,2422,Vocational Education Teachers \ Polytechnic Teachers,1,2024-07-09
+01a0683665f38d8e5e567b3b15ca98bf,2491,Education Advisers and Reviewers,1,2024-07-09
+46515dcd99ea50dd0671bc6840830404,2492,Private Tutors and Teachers,1,2024-07-09
+8a20a8621978632d76c43dfd28b67767,2493,Teachers of English to Speakers of Other Languages,1,2024-07-09
+f8b932c70d0b2e6bf071729a4fa68dfc,2511,Nutrition Professionals,1,2024-07-09
+831caa1b600f852b7844499430ecac17,2512,Medical Imaging Professionals,1,2024-07-09
+84b20b1f5a0d103f5710bb67a043cd78,2513,Occupational and Environmental Health Professionals,1,2024-07-09
+b06f50d1f89bd8b2a0fb771c1a69c2b0,2514,Optometrists and Orthoptists,1,2024-07-09
+415e1af7ea95f89f4e375162b21ae38c,2515,Pharmacists,1,2024-07-09
+4a8423d5e91fda00bb7e46540e2b0cf1,2519,Other Health Diagnostic and Promotion Professionals,1,2024-07-09
+4a1590df1d5968d41b855005bb8b67bf,2521,Chiropractors and Osteopaths,1,2024-07-09
+0d7363894acdee742caf7fe4e97c4d49,2522,Complementary Health Therapists,1,2024-07-09
+a6d259bfbfa2062843ef543e21d7ec8e,2523,Dental Practitioners,1,2024-07-09
+31c97cbb941d3e92d0e6f9925e9bc4d7,2524,Occupational Therapists,1,2024-07-09
+9407c826d8e3c07ad37cb2d13d1cb641,2525,Physiotherapists,1,2024-07-09
+234833147b97bb6aed53a8f4f1c7a7d8,2526,Podiatrists,1,2024-07-09
+ba3e9b6a519cfddc560b5d53210df1bd,2527,Audiologists and Speech Pathologists \ Therapists,1,2024-07-09
+217c0e01c1828e7279051f1b6675745d,2531,General Practitioners and Resident Medical Officers,1,2024-07-09
+9824f9c1543628a85bb51d2dd6fcf8a3,2532,Anaesthetists,1,2024-07-09
+4de754248c196c85ee4fbdcee89179bd,2533,Specialist Physicians,1,2024-07-09
+7827d1ec626c891d4b61a15c9dff296e,2534,Psychiatrists,1,2024-07-09
+0747b9be4f90056c30eb5241f06bfe9b,2535,Surgeons,1,2024-07-09
+2aedcba61ca55ceb62d785c6b7f10a83,2539,Other Medical Practitioners,1,2024-07-09
+e92d74ccacdc984afa0c517ad0d557a6,2541,Midwives,1,2024-07-09
+c3a690be93aa602ee2dc0ccab5b7b67e,2542,Nurse Educators and Researchers,1,2024-07-09
+1b113258af3968aaf3969ca67e744ff8,2543,Nurse Managers,1,2024-07-09
+f0f6ba4b5e0000340312d33c212c3ae8,2544,Registered Nurses,1,2024-07-09
+321cf86b4c9f5ddd04881a44067c2a5a,2611,ICT Business and Systems Analysts,1,2024-07-09
+1175defd049d3301e047ce50d93e9c7a,2612,Multimedia Specialists and Web Developers,1,2024-07-09
+6aed000af86a084f9cb0264161e29dd3,2613,Software and Applications Programmers,1,2024-07-09
+cc70903297fe1e25537ae50aea186306,2621,"Database and Systems Administrators, and ICT Security Specialists",1,2024-07-09
+e113bb92c69391dd39e2488f9f588382,2631,Computer Network Professionals,1,2024-07-09
+75455e062929d32a333868084286bb68,2632,ICT Support and Test Engineers,1,2024-07-09
+fc03d48253286a798f5116ec00e99b2b,2633,Telecommunications Engineering Professionals,1,2024-07-09
+65fc9fb4897a89789352e211ca2d398f,2711,Barristers,1,2024-07-09
+bbeb0c1b1fd44e392c7ce2fdbd137e87,2712,Judicial and Other Legal Professionals,1,2024-07-09
+403ea2e851b9ab04a996beab4a480a30,2713,Solicitors,1,2024-07-09
+362387494f6be6613daea643a7706a42,2721,Counsellors,1,2024-07-09
+33267e5dc58fad346e92471c43fcccdc,2722,Ministers of Religion,1,2024-07-09
+c315f0320b7cd4ec85756fac52d78076,2723,Psychologists,1,2024-07-09
+64a08e5f1e6c39faeb90108c430eb120,2724,Social Professionals,1,2024-07-09
+4bbdcc0e821637155ac4217bdab70d2e,2725,Social Workers,1,2024-07-09
+b1c00bcd4b5183705c134b3365f8c45e,2726,"Welfare, Recreation and Community Arts Workers",1,2024-07-09
+9e6a921fbc428b5638b3986e365d4f21,3111,Agricultural Technicians,2,2024-07-09
+87f4d79e36d68c3031ccf6c55e9bbd39,3112,Medical Technicians,"2,3",2024-07-09
+532b7cbe070a3579f424988a040752f2,3113,Primary Products Inspectors,2,2024-07-09
+bbb001ba009ed11717eaec9305b2feb6,3114,Science Technicians,2,2024-07-09
+097e26b2ffb0339458b55da17425a71f,3121,"Architectural, Building and Surveying Technicians",2,2024-07-09
+a2d10d355cdebc879e4fc6ecc6f63dd7,3122,Civil Engineering Draftspersons and Technicians,2,2024-07-09
+2e0aca891f2a8aedf265edf533a6d9a8,3123,Electrical Engineering Draftspersons and Technicians,2,2024-07-09
+7c78335a8924215ea5c22fda1aac7b75,3124,Electronic Engineering Draftspersons and Technicians,2,2024-07-09
+019f8b946a256d9357eadc5ace2c8678,3125,Mechanical Engineering Draftspersons and Technicians,2,2024-07-09
+9f8684e630c4c30cad7b1f0935cd62ab,3126,Safety Inspectors,2,2024-07-09
+c6a01432c8138d46ba39957a8250e027,3129,Other Building and Engineering Technicians,2,2024-07-09
+54fda78aa8a09b4d77b5aaec57b75028,3131,ICT Support Technicians,2,2024-07-09
+fb2606a5068901da92473666256e6e5b,3132,Telecommunications Technical Specialists,2,2024-07-09
+6b620aedfa4cf153467265629501dd61,3211,Automotive Electricians,3,2024-07-09
+0aae0fede9a4d278e2f9a171e62fc76b,3212,Motor Mechanics,3,2024-07-09
+f5c150afbfbcef941def203e85cf40bc,3221,"Metal Casting, Forging and Finishing Trades Workers",3,2024-07-09
+687fd5c7e0142dfb2da70e5083b3c6a7,3222,Sheetmetal Trades Workers,3,2024-07-09
+df83971673de5c8e71ca1e2645718dad,3223,Structural Steel and Welding Trades Workers,3,2024-07-09
+c3d377d10b13f8b39bf1218a60fe77b1,3231,Aircraft Maintenance Engineers,3,2024-07-09
+12e086066892a311b752673a28583d3f,3232,Metal Fitters and Machinists,3,2024-07-09
+b6d67a24906e8a8541291882f81d31ca,3233,Precision Metal Trades Workers,3,2024-07-09
+c5658c711ba9170700fc7d3ee3f63e40,3234,Toolmakers and Engineering Patternmakers,3,2024-07-09
+a64bd53139f71961c5c31a9af03d775e,3241,Panelbeaters,3,2024-07-09
+032dd17b77fab7d51a476c5ff2b5659c,3242,Vehicle Body Builders and Trimmers,3,2024-07-09
+38811c5285e34e2e3319ab7d9f2cfa5b,3243,Vehicle Painters,3,2024-07-09
+bdd8817990ef209f0fb6b049f2d2ea0c,3311,Bricklayers and Stonemasons,3,2024-07-09
+334467d41d5cf21e234465a1530ba647,3312,Carpenters and Joiners,3,2024-07-09
+3cfbdf468f0a03187f6cee51a25e5e9a,3321,Floor Finishers,3,2024-07-09
+f7cfdde9db36af8e0d9a6d123d5c385e,3322,Painting Trades Workers,3,2024-07-09
+0a2a51dac6138826127f093500461d91,3331,Glaziers,3,2024-07-09
+b0ab42fcb7133122b38521d13da7120b,3332,Plasterers,3,2024-07-09
+2be9bd7a3434f7038ca27d1918de58bd,3333,Roof Tilers,3,2024-07-09
+331316d4efb44682092a006307b9ae3a,3334,Wall and Floor Tilers,3,2024-07-09
+acf06cdd9c744f969958e1f085554c8b,3341,Plumbers,3,2024-07-09
+2fd0fd3efa7c4cfb034317b21f3c2d93,3411,Electricians,3,2024-07-09
+e846fb8a4f365ca8e84393d4f34e1b07,3421,Airconditioning and Refrigeration Mechanics,3,2024-07-09
+73640de25b7d656733ce2f808a330f18,3422,Electrical Distribution Trades Workers,3,2024-07-09
+3d324c2883882b15fa8fbe8f025a3a99,3423,Electronics Trades Workers,3,2024-07-09
+71a5c0514ab83382d98154e5a5f9d813,3424,Telecommunications Trades Workers,3,2024-07-09
+9a85c12a21b76392747906fc7b2aff92,3511,Bakers and Pastrycooks,3,2024-07-09
+0dbb3fb9a5cd1d5f8a9075b5bb8070aa,3512,Butchers and Smallgoods Makers,3,2024-07-09
+0ffaca95e3e5242ba1097ad8a9a6e95d,3513,Chefs,2,2024-07-09
+7288251b27c8f0e73f4d7f483b06a785,3514,Cooks,"3 Aus,4 NZ",2024-07-09
+4cf33e18ede11b79827bc78b7f2075ae,3611,Animal Attendants and Trainers,"3,4",2024-07-09
+d87ca511e2a8593c8039ef732f5bffed,3612,Shearers,3,2024-07-09
+c4fa7aecedac73641320d24d5bf3bf38,3613,Veterinary Nurses,3,2024-07-09
+c5b270a763686e776039618cc709f3a6,3621,Florists,3,2024-07-09
+856b503e276cc491e7e6e0ac1b9f4b17,3622,Gardeners,3,2024-07-09
+ecdcd675b3a4cbb5578baf72f255ec21,3623,Greenkeepers,3,2024-07-09
+5ee0070c40a7c781507b38c59c3eb8d4,3624,Nurserypersons,3,2024-07-09
+1bf50aaf147b3b0ddd26a820d2ed394d,3911,Hairdressers,3,2024-07-09
+9b8f0779badbad3b46d6718ee95a68ff,3921,Print Finishers and Screen Printers,3,2024-07-09
+d90e5b6628b4291225cba0bdc643c295,3922,Graphic Pre-press Trades Workers,3,2024-07-09
+97f081d3b1b352e9d1aaa2225dd6bb16,3923,Printers,3,2024-07-09
+acff1af62d0f91f4be73f4857552d70c,3931,Canvas and Leather Goods Makers,3,2024-07-09
+c56a022b15250525f8b9bdfc41a13152,3932,Clothing Trades Workers,3,2024-07-09
+298f587406c914fad5373bb689300433,3933,Upholsterers,3,2024-07-09
+29e1c59be16c852670e3be302e8c303b,3941,Cabinetmakers,3,2024-07-09
+ec36e2ba64f11c9e910e0353e0836d81,3942,Wood Machinists and Other Wood Trades Workers,3,2024-07-09
+dfbd282c18300fa0eccceea6c5fac41f,3991,Boat Builders and Shipwrights,3,2024-07-09
+0de5d1a081a3095d62b416e44e055e7a,3992,"Chemical, Gas, Petroleum and Power Generation Plant Operators",3,2024-07-09
+c12d1f7cc7c4b41a125b5752d1238b03,3993,"Gallery, Library and Museum Technicians",2,2024-07-09
+adf8d7f8c53c8688e63a02bfb3055497,3994,Jewellers,3,2024-07-09
+d464b5ac99e74462f321c06ccacc4bff,3995,Performing Arts Technicians,3,2024-07-09
+43e04dd08bb1305428b0c9c8d8a2660a,3996,Signwriters,3,2024-07-09
+9cf742e94f29f454ac42ff68f37d5cc4,3999,Other Miscellaneous Technicians and Trades Workers,"2,3,4",2024-07-09
+64f07f012a35c83d7c556ba0b69ef64e,4111,Ambulance Officers and Paramedics,"1,2",2024-07-09
+fdeea652a89ec3e970d22a86698ac8c4,4112,"Dental Hygienists, Technicians and Therapists","1,2",2024-07-09
+4ee78d4122ef8503fe01cdad3e9ea4ee,4113,Diversional Therapists,3,2024-07-09
+ab24cd2b811ee48a416fc7a833d736a9,4114,Enrolled and Mothercraft Nurses,2,2024-07-09
+a5ff5d4b0a0d7b3e4d64147037d8c344,4115,Indigenous Health Workers,2,2024-07-09
+1e8ca836c962598551882e689265c1c5,4116,Massage Therapists,2,2024-07-09
+c1aeb6517a1c7f33514f7ff69047e74e,4117,Welfare Support Workers,2,2024-07-09
+e3b0ab92511ce1f46960bed57f65f532,4211,Child Carers,"3,4",2024-07-09
+74d90aafda34e6060f9e8433962d14fd,4221,Education Aides,"3,4",2024-07-09
+dd1016d687d5960a8f279198a94d0cc5,4231,Aged and Disabled Carers,4,2024-07-09
+3b24156ad560a696116454056bc88ab4,4232,Dental Assistants,4,2024-07-09
+47257279d0b4f033e373b16e65f8f089,4233,Nursing Support and Personal Care Workers,4,2024-07-09
+fd45ebc1e1d76bc1fe0ba933e60e9957,4234,Special Care Workers,"3,4",2024-07-09
+a787f02ed34fd886eb6d49e60d9c9120,4311,Bar Attendants and Baristas,4,2024-07-09
+27d8d40b22f812a1ba6c26f8ef7df480,4312,Cafe Workers,5,2024-07-09
+7716d0fc31636914783865d34f6cdfd5,4313,Gaming Workers,4,2024-07-09
+2bf7e9e8f3f3bce1ac5212f22414aa57,4314,Hotel Service Managers,2,2024-07-09
+8526e0962a844e4a2f158d831d5fddf7,4315,Waiters,4,2024-07-09
+8e1ad7941398486f8cede7799b886b58,4319,Other Hospitality Workers,5,2024-07-09
+e243aa93e6b6e031797f86d0858f5e40,4411,Defence Force Members - Other Ranks,3,2024-07-09
+6cf821bc98b2d343170185bb3de84cc4,4412,Fire and Emergency Workers,3,2024-07-09
+aa36c88c27650af3b9868b723ae15dfc,4413,Police,2,2024-07-09
+12ced2db6f0193dda91ba86224ea1cd8,4421,Prison Officers,4,2024-07-09
+d71f5142463efcf6dc7be216cf4644b5,4422,Security Officers and Guards,"3,4,5",2024-07-09
+475fbefa9ebfba9233364533aafd02a3,4511,Beauty Therapists,3,2024-07-09
+63c4b1baf3b4460fa9936b1a20919bec,4512,Driving Instructors,3,2024-07-09
+21c52f533c0c585bab4f075bf08d7104,4513,Funeral Workers,"2,3",2024-07-09
+e2f374c3418c50bc30d67d5f7454a5b4,4514,"Gallery, Museum and Tour Guides","3,4",2024-07-09
+bf56a1b37b94243486b2034f8479c475,4515,Personal Care Consultants,4,2024-07-09
+573f7f25b7b1eb79a4ec6ba896debefd,4516,Tourism and Travel Advisers,"3,4",2024-07-09
+7109af321d970c64a0154000a60e65c8,4517,Travel Attendants,"3,4",2024-07-09
+597c7b407a02cc0a92167e7a371eca25,4518,Other Personal Service Workers,"3,4,5",2024-07-09
+752d2c9ecfe079e5e5f3539f4d750e5c,4521,Fitness Instructors,4,2024-07-09
+f110a326be6999afdeb8e7002c0ce44d,4522,Outdoor Adventure Guides,"2,3",2024-07-09
+8620005ac78d8257435d490058c643dd,4523,"Sports Coaches, Instructors and Officials","2,3,4",2024-07-09
+37bf8bb245c5ae952fb107153f18958f,4524,Sportspersons,3,2024-07-09
+250b164d84ea39a488422da8500786e6,5111,"Contract, Program and Project Administrators",2,2024-07-09
+70f250e2d762fbde8a2e70eabf6eb953,5121,Office Managers,2,2024-07-09
+5516adb142fcb18a017c72602abbdb6d,5122,Practice Managers,2,2024-07-09
+8ef0327d29dfae100751f4ed0a042790,5211,Personal Assistants,2,2024-07-09
+c5d215777c229704a7862de577d40a73,5212,Secretaries,2,2024-07-09
+be3b0b544433b768685e3436621590ff,5311,General Clerks,4,2024-07-09
+8da57fac3313174128cc5f13328d4573,5321,Keyboard Operators,4,2024-07-09
+3bc71faebe42e1639eb6fded38d714cd,5411,Call or Contact Centre Workers,"3,4",2024-07-09
+56dc0997d871e9177069bb472574eb29,5412,Information Officers,4,2024-07-09
+07dbd9a180c7cc69cada7b982c5ae82c,5421,Receptionists,4,2024-07-09
+3cc697419ea18cc98d525999665cb94a,5511,Accounting Clerks,4,2024-07-09
+517f24c02e620d5a4dac1db388664a63,5512,Bookkeepers,3,2024-07-09
+44e6b86aeefa3eca5832a98043a7b6fa,5513,Payroll Clerks,4,2024-07-09
+8a94ecfa54dcb88a2fa993bfa6388f9e,5521,Bank Workers,3,2024-07-09
+132d6c1408f2492456848667346b54b6,5522,Credit and Loans Officers (Aus) \ Finance Clerks (NZ),3,2024-07-09
+e92e1b476bb5262d793fd40931e0ed53,5523,"Insurance, Money Market and Statistical Clerks",4,2024-07-09
+01846ae470651e97d2f73fce979406a9,5611,Betting Clerks,5,2024-07-09
+6e8404c3b93a9527c8db241a1846599a,5612,Couriers and Postal Deliverers,5,2024-07-09
+45624a44b89793087e9ef4d076018adb,5613,Filing and Registry Clerks,5,2024-07-09
+3a09a524440d44d7f19870070a5ad42f,5614,Mail Sorters,5,2024-07-09
+da647c549dde572c2c5edc4f5bef039c,5615,Survey Interviewers,5,2024-07-09
+55a0ce8200cf39c3028ebc66f356bf7e,5616,Switchboard Operators,5,2024-07-09
+1a4ab15f37a1d2341d947a9996ddfbf7,5619,Other Clerical and Office Support Workers,5,2024-07-09
+84a955d5ff75f508ec01007bc2b9b301,5911,Purchasing and Supply Logistics Clerks,4,2024-07-09
+eddeb82df22554fa67c641e3f8a25566,5912,Transport and Despatch Clerks,4,2024-07-09
+c0356641f421b381e475776b602a5da8,5991,Conveyancers and Legal Executives,2,2024-07-09
+675f9820626f5bc0afb47b57890b466e,5992,Court and Legal Clerks,3,2024-07-09
+32e0bd1497aa43e02a42f47d9d6515ad,5993,Debt Collectors,4,2024-07-09
+edb446b67d69adbfe9a21068982000c2,5994,Human Resource Clerks,4,2024-07-09
+fcd4c889d516a54d5371f00e3fdd70dc,5995,Inspectors and Regulatory Officers,4,2024-07-09
+8d3215ae97598264ad6529613774a038,5996,"Insurance Investigators, Loss Adjusters and Risk Surveyors","2,3",2024-07-09
+077fd57e57aab32087b0466fe6ebcca8,5997,Library Assistants,4,2024-07-09
+cca289d2a4acd14c1cd9a84ffb41dd29,5999,Other Miscellaneous Clerical and Administrative Workers,"3,4",2024-07-09
+721e049e9903c3a740c4902878c99923,6111,"Auctioneers, and Stock and Station Agents",3,2024-07-09
+0b6a27e2bfcb010e762109f0d2e042dc,6112,Insurance Agents,"3 Aus,2 NZ",2024-07-09
+0af854284f4ab0cfea8fcfd889cbb41a,6113,Sales Representatives,4,2024-07-09
+03fcd68e5673f08be96d2b6bb5be8261,6121,Real Estate Sales Agents,"2,3",2024-07-09
+0f34132b15dd02f282a11ea1e322a96d,6211,Sales Assistants (General),5,2024-07-09
+9a83eabfb7fa303a2d85dbc6f37483e5,6212,ICT Sales Assistants,5,2024-07-09
+e275193bc089e9b3ca1aeef3c44be496,6213,Motor Vehicle and Vehicle Parts Salespersons,4,2024-07-09
+05e97c207235d63ceb1db43c60db7bbb,6214,Pharmacy Sales Assistants,4,2024-07-09
+913eb3f7a1d5e28b3f30b2dda4f5569e,6215,Retail Supervisors,4,2024-07-09
+619427579e7b067421f6aa89d4a8990c,6216,Service Station Attendants,5,2024-07-09
+9d1827dc5f75b9d65d80e25eb862e676,6217,Street Vendors and Related Salespersons,5,2024-07-09
+852c296dfa59522f563aef29d8d0adf6,6219,Other Sales Assistants and Salespersons,5,2024-07-09
+c00193e70e8e27e70601b26161b4ae86,6311,Checkout Operators and Office Cashiers,5,2024-07-09
+f73a9f957962cd73fce51078b5b9614f,6391,Models and Sales Demonstrators,5,2024-07-09
+3001ef257407d5a371a96dcd947c7d93,6392,Retail and Wool Buyers,3,2024-07-09
+55b782d9f1c1765aac3cb3d51aae2430,6393,Telemarketers,5,2024-07-09
+d28d76b4592325c3bafc1840d4bb2957,6394,Ticket Salespersons,5,2024-07-09
+e8de67aac98d923eb372575f30568a89,6395,Visual Merchandisers,4,2024-07-09
+985e9a46e10005356bbaf194249f6856,6399,Other Sales Support Workers,4,2024-07-09
+1ab60b5e8bd4eac8a7537abb5936aadc,7111,"Clay, Concrete, Glass and Stone Processing Machine Operators",4,2024-07-09
+ba7609ee5789cc4dff171045a693a65f,7112,Industrial Spraypainters,"4 Aus,3 NZ",2024-07-09
+3501672ebc68a5524629080e3ef60aef,7113,Paper and Wood Processing Machine Operators,"4 Aus,3 NZ",2024-07-09
+20d039f53b4a6786c21ee0dbcd2d2c5d,7114,Photographic Developers and Printers,4,2024-07-09
+5301c4d888f5204274439e6dcf5fdb54,7115,Plastics and Rubber Production Machine Operators,4,2024-07-09
+47267ca39f652c0de27a4b27c5e11c40,7116,Sewing Machinists,"4 Aus,3 NZ",2024-07-09
+860b37e28ec7ba614f00f9246949561d,7117,Textile and Footwear Production Machine Operators,"4 Aus,3 NZ",2024-07-09
+2adee8815dd939548ee6b2772524b6f2,7119,Other Machine Operators,4,2024-07-09
+738a6457be8432bab553e21b4235dd97,7121,"Crane, Hoist and Lift Operators","4 Aus,3 NZ",2024-07-09
+df334b223e699294764c2bb7ae40d8db,7122,"Drillers, Miners and Shot Firers",4,2024-07-09
+e3a54649aeec04cf1c13907bc6c5c8aa,7123,Engineering Production Workers,4,2024-07-09
+bcc2bdb799f873f02080ae277f291da1,7129,Other Stationary Plant Operators,"3,4",2024-07-09
+f10f2da9a238b746d2bac55759915f0d,7211,"Agricultural, Forestry and Horticultural Plant Operators","3,4",2024-07-09
+e14e58299bc41e7fb10c701130c5cb27,7212,Earthmoving Plant Operators,4,2024-07-09
+6213a8959a9a96589ca484dfd1e25053,7213,Forklift Drivers,4,2024-07-09
+9c415bdd4dd66723ef7b38853ef35ddb,7219,Other Mobile Plant Operators,"3,4",2024-07-09
+c7b03782920d35145eb4c97556d194a3,7311,Automobile Drivers,4,2024-07-09
+fc2022c89b61c76bbef978f1370660bf,7312,Bus and Coach Drivers,4,2024-07-09
+3a0f19df72fef0495c54ced664735a7d,7313,Train and Tram Drivers,"3,4",2024-07-09
+c2c701fe341a7756ca7fd4eaa83ff63f,7321,Delivery Drivers,4,2024-07-09
+ac64504cc249b070772848642cffe6ff,7331,Truck Drivers,4,2024-07-09
+8be6adae5ae0e157014d7d250870f212,7411,Storepersons,4,2024-07-09
+30410be149e6771f60881182342452d5,8111,Car Detailers,5,2024-07-09
+45d6637b718d0f24a237069fe41b0db4,8112,Commercial Cleaners,"5 Aus,4 NZ",2024-07-09
+b6417f112bd27848533e54885b66c288,8113,Domestic Cleaners,5,2024-07-09
+b20fa060328b0cdf51b464ee37efe182,8114,Housekeepers,5,2024-07-09
+68dd09b9ff11f0df5624a690fe0f6729,8115,Laundry Workers,5,2024-07-09
+8f6242793017047d373f29f270388ba9,8116,Other Cleaners,"4,5",2024-07-09
+a8d2795765fb6a8659fd48d8ca7eb888,8211,Building and Plumbing Labourers,5,2024-07-09
+9f655cc8884fda7ad6d8a6fb15cc001e,8212,Concreters,5,2024-07-09
+0b3f44d9054402de39441e165a4bdfe0,8213,Fencers,4,2024-07-09
+8b048efecbe64fe76045e0109de0c2f1,8214,Insulation and Home Improvement Installers,4,2024-07-09
+1e0feeaff84a19bf3936e693311fa66d,8215,Paving and Surfacing Labourers,"5 Aus,4 NZ",2024-07-09
+47f91db40efc6a22350eca5c953c4742,8216,Railway Track Workers,4,2024-07-09
+e1d4b23fb807f2a1de063bfb84a468d4,8217,Structural Steel Construction Workers,"3,4",2024-07-09
+9d00670c8e26b15fdd085a04a256683c,8219,Other Construction and Mining Labourers,"4,5",2024-07-09
+1f5f6ad95cc908a20bb7e30ee28a5958,8311,Food and Drink Factory Workers,"4,5",2024-07-09
+e046ede63264b10130007afca077877f,8312,"Meat Boners and Slicers, and Slaughterers",4,2024-07-09
+bf2fe6582ed9ead9161a3d6f6b1d6858,8313,"Meat, Poultry and Seafood Process Workers",5,2024-07-09
+d428d070622e0f4363fceae11f4a3576,8321,Packers,5,2024-07-09
+71969a804c28c0961383008958497b1b,8322,Product Assemblers,5,2024-07-09
+77b830096c1888016b4d7a730bbe9731,8391,Metal Engineering Process Workers,5,2024-07-09
+1d01bd2e16f57892f0954902899f0692,8392,Plastics and Rubber Factory Workers,"5 Aus,4 NZ",2024-07-09
+6e2290dbf1e11f39d246e7ce5ac50a1e,8393,Product Quality Controllers,4,2024-07-09
+664c7298d2b73b3c7fe2d1e8d1781c06,8394,Timber and Wood Process Workers,"5 Aus,4 NZ",2024-07-09
+56d33021e640f5d64a611a71b5dc30a3,8399,Other Factory Process Workers,"5 Aus,4 NZ",2024-07-09
+a3de03cb426b5e36f5c7167b21395323,8411,Aquaculture Workers,5,2024-07-09
+831b342d8a83408e5960e9b0c5f31f0c,8412,Crop Farm Workers,5,2024-07-09
+6b27e88fdd7269394bca4968b48d8df4,8413,Forestry and Logging Workers,4,2024-07-09
+682e0e796084e163c5ca053dd8573b0c,8414,Garden and Nursery Labourers,5,2024-07-09
+9739efc4f01292e764c86caa59af353e,8415,Livestock Farm Workers,5,2024-07-09
+b93e78c67fd4ae3ee626d8ec0c412dec,8416,Mixed Crop and Livestock Farm Workers,5,2024-07-09
+3016a447172f3045b65f5fc83e04b554,8419,"Other Farm, Forestry and Garden Workers","4,5",2024-07-09
+3b777b775721dfa8d36de2a320a03e53,8511,Fast Food Cooks,5,2024-07-09
+e092aed5316b555a770029849e06a7de,8512,Food Trades Assistants,5,2024-07-09
+a883bbca3f8bc8814ff676cb0e91829a,8513,Kitchenhands,5,2024-07-09
+fed537780f3f29cc5d5f313bbda423c4,8911,Freight and Furniture Handlers,5,2024-07-09
+fe27f92b1e3f4997567807f38d567a35,8912,Shelf Fillers,5,2024-07-09
+2aac0e27587428fe2aafe882c5974a85,8991,Caretakers,5,2024-07-09
+4aee31b0ec9f7bb7885473d95961e9a6,8992,Deck and Fishing Hands,4,2024-07-09
+47841cc9e552bd5c40164db7073b817b,8993,Handypersons,5,2024-07-09
+47ce0875420b2dbacfc5535f94e68433,8994,Motor Vehicle Parts and Accessories Fitters,4,2024-07-09
+d469547325a320e660ba7f4bf05c7ecf,8995,Printing Assistants and Table Workers,4,2024-07-09
+2e0d41e02c5be4668ec1b0730b3346a8,8996,Recycling and Rubbish Collectors,5,2024-07-09
+15bb03d440d3530fa52c7c58970274e4,8997,Vending Machine Attendants,5,2024-07-09
+96ba4a06bae961abbfb783d9d715150c,8999,Other Miscellaneous Labourers,5,2024-07-09
