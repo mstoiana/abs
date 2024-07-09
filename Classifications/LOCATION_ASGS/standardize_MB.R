@@ -9,6 +9,15 @@ import_csv <- function (path) {
   return(data)
 }
 
+#download zip file from address and then extract to path
+download_extract_zip <- function (url, path) {
+  download.file(url, "temp.zip")
+  unzip("temp.zip", exdir = path)
+  #delete the zip file
+  file.remove("temp.zip")
+}
+download_extract_zip("https://www.abs.gov.au/AUSSTATS/subscriber.nsf/log?openagent&1270055001_mb_2016_nsw_csv.zip&1270.0.55.001&Data%20Cubes&1FC672E70A77D52FCA257FED0013A0F7&0&July%202016&12.07.2016&Latest", "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/")
+
 #import all states meshblock lists
 NSW <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/MB_2016_NSW.csv")
 VIC <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/MB_2016_VIC.csv")
