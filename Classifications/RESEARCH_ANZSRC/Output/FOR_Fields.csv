@@ -1,0 +1,841 @@
+FOR_Fields_Key,FOR_Field,FOR_Description,FOR_Fields_Time
+732e276ec85f14e663faef225d06612c,100101,Management of gaseous waste from animal production (excl. greenhouse gases),2024-07-09
+54ebda338d716822a078aff56186feb6,100102,Management of liquid waste from animal production (excl. water),2024-07-09
+9ae26ff44c264acff8eab84ba2950d57,100103,Management of solid waste from animal production,2024-07-09
+72984ef85cbebaaebafca8a0492b9dc4,100104,Management of water consumption by animal production,2024-07-09
+ff1a4f97d6927a2cceacc68d02b7d78d,100199,Environmentally sustainable animal production not elsewhere classified,2024-07-09
+7c7523f13ef609dc63d17a673ec1df1e,100201,Aquaculture crustaceans (excl. rock lobster and prawns),2024-07-09
+be9bbf8e7cb2de059b86e7a8af2b4fc1,100202,Aquaculture fin fish (excl. tuna),2024-07-09
+28547a00a3740aafdd6ae8dd8a00e0de,100203,Aquaculture molluscs (excl. oysters),2024-07-09
+58bf02d3c771ff47fc1107d408dfef90,100204,Aquaculture oysters,2024-07-09
+8498a505f58400e3f873dd43bf76ea71,100205,Aquaculture prawns,2024-07-09
+11bb4882f5842feeeea620aaa8a86e66,100206,Aquaculture rock lobster,2024-07-09
+e8b04b8f24360d0c6e480aa00505587a,100207,Aquaculture tuna,2024-07-09
+2b37dcb0e189f4886f1a934da4c5cc0f,100299,Fisheries - aquaculture not elsewhere classified,2024-07-09
+a6061a0c10b13bf3faf1373a525505c9,100301,Fisheries - recreational freshwater,2024-07-09
+8acdf12cd77f6e7592e234a89d85d105,100302,Fisheries - recreational marine,2024-07-09
+650d74a05a062a411624372c0cce414d,100303,Wild caught crustaceans (excl. rock lobster and prawns),2024-07-09
+e77716f701452b971d0fc9c4bddcc23d,100304,Wild caught edible molluscs,2024-07-09
+bdb30dc382b1d55ab23d56c91abe4a26,100305,Wild caught fin fish (excl. tuna),2024-07-09
+14006af3fe7bec64d189b3f4a8bc2002,100306,Wild caught prawns,2024-07-09
+2ee0846f77396487a46ed283a837e235,100307,Wild caught rock lobster,2024-07-09
+bcf781ba6c753521d3591887e7be7ace,100308,Wild caught tuna,2024-07-09
+518fa0d4eb2707f289b2904bfb72bdda,100399,Fisheries - wild caught not elsewhere classified,2024-07-09
+b603648a5ab54a56874fab7c31615b79,100401,Beef cattle,2024-07-09
+0c9de7fbac44fdcea080c61e55772199,100402,Dairy cattle,2024-07-09
+6b0173262b1ac7f6c1937c79cf03147b,100403,Deer,2024-07-09
+d72fa1524e79286098363a77c9b9810c,100404,"Game livestock (e.g. kangaroos, wallabies, camels, buffaloes)",2024-07-09
+45f98747902c59009167496406e4c904,100405,Goats,2024-07-09
+2112d611b91169765b3351a25333dfa1,100406,Horses,2024-07-09
+0a544b368c0e804e1d704353be3ee0d9,100407,Insects,2024-07-09
+594f1605fa0fc06ef9e0fe78abf2c298,100408,"Minor livestock (e.g. alpacas, ostriches, crocodiles, farmed rabbits)",2024-07-09
+b0945479ae0ad2c97e1e60be8b01ba5d,100409,Non-cattle dairy,2024-07-09
+0686b335504cb1bce30a3e7cfc1df14d,100410,Pigs,2024-07-09
+c569c19aa1c02ad31e349b5951bd944f,100411,Poultry,2024-07-09
+0aafdb3a540d1eb4dceab36ae4aa8f62,100412,Sheep for meat,2024-07-09
+0b8796fa0b9e4340bbcc18b21bbfc445,100413,Sheep for wool,2024-07-09
+a39a2f6d0275a781c018a968abd7af43,100499,Livestock raising not elsewhere classified,2024-07-09
+8e30032004d7744a9e3c33e8e81471ec,100501,Browse crops,2024-07-09
+40e592f4e1ef7450ddf54a124038f866,100502,Lucerne,2024-07-09
+9015e536b1458c33bd7f595a7c832b5e,100503,Native and residual pastures,2024-07-09
+8c2ea064d7fcdcb67c45f4b44167ead7,100504,Non-cereal crops (non-cereal crops for hay/silage/green feed),2024-07-09
+a29e9f52618353450557f9103ce33287,100505,Sown pastures (excl. lucerne),2024-07-09
+87e9345183a4d8ed7a85fbcac1204d54,100599,"Pasture, browse and fodder crops not elsewhere classified",2024-07-09
+4198673960721d98d5c586b0e4513c70,100601,Eggs,2024-07-09
+ca27c1538e7e4208b12e0c2aa20bd9ff,100602,Honey,2024-07-09
+3bc85d49f72b0da2a9b0b886c8a834ed,100603,Pearls,2024-07-09
+4973f6063a71b20b7e64b9542fb2232d,100604,Raw wool,2024-07-09
+cff2e3d0e99fe3103d6ebc9ec2ffbce2,100605,Unprocessed or minimally processed fish,2024-07-09
+92f56eb1ba38e20f2338fb4972d5c1ca,100606,Unprocessed or minimally processed milk,2024-07-09
+7ecc6be80294a3baf0093e66c6cde772,100699,Primary products from animals not elsewhere classified,2024-07-09
+edbe9f6288001e0bca389a72bd3f9773,109901,Animal adaptation to climate change,2024-07-09
+db007a691935aa4b0aa580a2ccdef8f7,109902,Animal welfare,2024-07-09
+33ce538f76f7a4060a93caa7bfd6c8c3,109903,Fish product traceability and quality assurance,2024-07-09
+003cd6e5261c6693e591ef0cea8a2f38,109904,Livestock product traceability and quality assurance,2024-07-09
+713246619141f1cad5f76bf60b3524a7,109999,Other animal production and animal primary products not elsewhere classified,2024-07-09
+f824ea3cd7cea49116eda11b5d23f9b0,110101,Management of gaseous waste from commercial services and tourism (excl. greenhouse gases),2024-07-09
+d90b61df888e933ba12df04420bef286,110102,Management of liquid waste from commercial services and tourism (excl. water),2024-07-09
+3586c5f502326fb5b0de4dac631a4264,110103,Management of solid waste from commercial services and tourism,2024-07-09
+68e52422bae97e3c44d880cbb2b43a7e,110104,Management of water consumption by commercial services and tourism,2024-07-09
+a7be7d1bbbaef5d3f9e15ecdb9fb396a,110199,Environmentally sustainable commercial services and tourism not elsewhere classified,2024-07-09
+64ad9c16f146ee41ea9ca11ed0f8a412,110201,Finance services,2024-07-09
+5f958aa50f12213d724b476ac436a658,110202,Investment services (excl. superannuation),2024-07-09
+8d64a17e811aeae89de1a031b1d2d7c4,110203,Superannuation and insurance services,2024-07-09
+d41014ec55cd1391e2e0a3634879f7ef,110299,Financial services not elsewhere classified,2024-07-09
+ec080e840b992bdccf8546d73139add2,110301,Administration and business support services,2024-07-09
+a495d6bed9585d27450e30585c4c732d,110302,"Professional, scientific and technical services",2024-07-09
+78ad6508f8a917a3310646717fe21d17,110303,Property services (incl. security),2024-07-09
+638eceed3e1d0fbb83bf622769c03607,110304,Wholesale and retail trade,2024-07-09
+81a14b188350f0f669f6d2262b8f0a26,110399,"Property, business support services and trade not elsewhere classified",2024-07-09
+5ee2184526dad0f8bc6056fa2438c588,110401,Economic issues in tourism,2024-07-09
+d8d4f465984556a43192088cb6844254,110402,Socio-cultural issues in tourism,2024-07-09
+1977a1127b403587321b5a520907930f,110403,Tourism infrastructure development,2024-07-09
+4fb76eb1dd750a40363ae3f175d7006f,110499,Tourism services not elsewhere classified,2024-07-09
+c49a36a15ac1fb8c3de2925784449288,110501,Waste management services,2024-07-09
+5ccc5c3a652f20d0b829f72db08c7ed4,110502,Waste recycling services,2024-07-09
+f19444c3f5265d68f4adf0a6bb55cc5d,110503,Water recycling services (incl. sewage and greywater),2024-07-09
+4a29485a4065ab32cf9853811b951c6c,110504,Water services and utilities,2024-07-09
+e58dfd5f5b85d581429755389832179d,110599,Water and waste services not elsewhere classified,2024-07-09
+549ce4850c0a1af7bfd8f24d0612f46b,119901,Hospitality services,2024-07-09
+08f5f41e6f7e9783c1cbccd0bf6167b2,119902,Recreational services,2024-07-09
+83fedd9f4ba7ba74e4774b0ab142b915,119999,Other commercial services and tourism not elsewhere classified,2024-07-09
+1bc92b99fd45cc2e89907ad2770c2746,120101,Civil building management and services,2024-07-09
+9076db4895b417d4a668cb0b7168e4db,120102,Commercial building management and services,2024-07-09
+a51b3994cd40ae08fdd0ea9c6aeb5ac0,120103,Industrial building management and services,2024-07-09
+001d2d283b7f3c7378e363313b483e51,120104,Institutional building management and services,2024-07-09
+10132a1847d88a1c2969d9df9e49a630,120105,Residential building management and services,2024-07-09
+b4b8c4f77387af3f66d12a8cb1934ff8,120199,Building management and services not elsewhere classified,2024-07-09
+4a3b46bdaa7a3cebd9e236d23eded42f,120201,Civil construction design,2024-07-09
+d624186be4b71e37dac91a7dd5e1da2a,120202,Commercial construction design,2024-07-09
+ce882a3574a4615e8d93ad44cc875349,120203,Industrial construction design,2024-07-09
+22600c7d4d6424f05f02d5088ec3411e,120204,Institutional construction design,2024-07-09
+186c9e5f4705d0e85dcc7483abe4a7b5,120205,Residential construction design,2024-07-09
+9f0184e7dffd2c23559da5f7d9088d1d,120299,Construction design not elsewhere classified,2024-07-09
+e7a5e745eac1b6b904cff9aff773e4b7,120301,Cement and concrete materials,2024-07-09
+1e354676d0564f1dd4544aed5d2623e1,120302,Glass materials,2024-07-09
+98142492b9236b8c1fe2a59f4d080e40,120303,Metals,2024-07-09
+2be8fecd6653437496d247d66118c2cb,120304,Polymeric materials and paints,2024-07-09
+68404a449bcc7f11193b836f48e9179c,120305,"Stone, ceramics and clay materials",2024-07-09
+db66b5ff4005bc74057c55e384dd83c4,120306,Timber materials,2024-07-09
+651b6bae2e682d7e2a54949b77ab94b1,120399,Construction materials performance and processes not elsewhere classified,2024-07-09
+c005b9a2626f6c1946e1851628724b18,120401,Civil construction planning,2024-07-09
+bfbc1ad4f46a620cc54c9f70d9a03127,120402,Commercial construction planning,2024-07-09
+a2ff0a7281de7a76f30b5d1021b34a96,120403,Industrial construction planning,2024-07-09
+25c8638032368855b13e7d8f48a50f2f,120404,Regional planning,2024-07-09
+8654269aab578fbbd83a0e5ef04532b4,120405,Residential construction planning,2024-07-09
+45551f4c29881972ae5ed3666a5b1b8b,120406,Urban planning,2024-07-09
+7376846f01e0b6e5f1568fef7b48a148,120499,Construction planning not elsewhere classified,2024-07-09
+206f315125926725415fc1e92408f361,120501,Civil construction processes,2024-07-09
+4931b7bf8e3ade7753988e44de572f60,120502,Commercial construction processes,2024-07-09
+146e6ff879d04651b5a36fbc7347763b,120503,Industrial construction processes,2024-07-09
+082e6e0199ce60fe8e879f0468e1e126,120504,Institutional construction processes,2024-07-09
+fc28dd210d52ecb0135730aa1d151b1b,120505,Residential construction processes,2024-07-09
+ff201acd61d426da2dd3aeb462369e1a,120599,Construction processes not elsewhere classified,2024-07-09
+dcba99a1a61afca8c781bf90591eb4cd,120601,Management of gaseous waste from construction activities (excl. greenhouse gases),2024-07-09
+0afc14fb09e0c2ac84e76c8706ea5d54,120602,Management of liquid waste from construction activities (excl. water),2024-07-09
+eaa97dfcbd144e853d3eb8366c409adb,120603,Management of solid waste from construction activities,2024-07-09
+3ab88dd28f749fe4ec90c0b6f9896eb5,120604,Management of water consumption by construction activities,2024-07-09
+326038bc61da11827c54431621dccf6d,120699,Environmentally sustainable construction activities not elsewhere classified,2024-07-09
+431442776227da3581151dd86db0ddfb,129901,Adaptation to climate change in construction,2024-07-09
+e4cb6a6d0efa028bb4558bd1db94e164,129999,Other construction not elsewhere classified,2024-07-09
+c79b304e74a8e7748317578384c0d016,130101,Design,2024-07-09
+a6b626d2738e74999cc3fdbdddfdb49f,130102,Music,2024-07-09
+bcbdb6cd3dc62484979df94c4bf4ced5,130103,The creative arts,2024-07-09
+c8e00869dc0be7bc8f9e699633edc8cc,130104,The performing arts,2024-07-09
+669b15f6b10a3b2a57dddf82611e969f,130199,Arts not elsewhere classified,2024-07-09
+0aac5ea0d2a927322dd4c09ef37c0be0,130201,Communication across languages and culture,2024-07-09
+7bcbc6826654907d7e1aebf014511b49,130202,Languages and linguistics,2024-07-09
+3779a40335abfe5e962768bb0d21ea36,130203,Literature,2024-07-09
+96502411d7aa94fd4f57aec30026242d,130204,The media,2024-07-09
+5eb4c720b5530445159da384112b0095,130205,Visual communication,2024-07-09
+1610f9808f66b09a479266ac4ee14c24,130299,Communication not elsewhere classified,2024-07-09
+38041e9c7114e2395ebda873ee8cdcaf,130301,Bioethics,2024-07-09
+1f8928132a042e7ec2098db0cc65fc42,130302,Business ethics,2024-07-09
+05a3bf9bd37c476e311abbdb16510192,130303,Environmental ethics,2024-07-09
+b07ccb32bbf8bafda07228b738b272b0,130304,Social ethics,2024-07-09
+923008396284aa23c5993cf446e5ffa6,130305,Technological ethics,2024-07-09
+5478928a7607710e0c1c572c5c507a63,130306,Workplace and organisational ethics (excl. business ethics),2024-07-09
+834bb7008bd1aaac887ffa69a7e86885,130399,Ethics not elsewhere classified,2024-07-09
+4e96157c3c8c24f4761a7bc4411a2504,130401,Assessment of heritage value,2024-07-09
+f633b7df336a0a7f8251e1eec56ae973,130402,Conserving collections and movable cultural heritage,2024-07-09
+2de9201218dc76f262ee3f95cb08a28c,130403,Conserving intangible cultural heritage,2024-07-09
+7eb29285eddd02c27d1fe345176f3f60,130404,Conserving natural heritage,2024-07-09
+5d11e5bd9dafe7ae4cc3fd12dc33b3ba,130405,Conserving the historic environment,2024-07-09
+1148151e7a2f9d521ebbf890f799a04d,130499,Heritage not elsewhere classified,2024-07-09
+3dde95bfddfc5c387eb9e7b7a77dfa63,130501,Religion and society,2024-07-09
+5c506814bace1300aa77ff4cd6b73b0a,130502,Religious philosophies and belief systems,2024-07-09
+9b1360b8f713ab02b1559951690c6c70,130503,Religious rituals and traditions (excl. structures),2024-07-09
+8f3ced4e5bba2408793b80737748e114,130504,Religious structures,2024-07-09
+86d6e95ba068778597f75a2fccb21dee,130599,Religion not elsewhere classified,2024-07-09
+82b1642f9216beae52eaa1ca8e0e6330,130601,Exercise,2024-07-09
+f36c87310bf361b3d6c8bfe532e17d60,130602,Organised sports,2024-07-09
+1be42486b669cf3f7b8a4bbc89f2b776,130603,Recreation and leisure activities (excl. sport and exercise),2024-07-09
+d7d855bd25d463a971f748d84fbc8a59,130699,"Sport, exercise and recreation not elsewhere classified",2024-07-09
+e0ba7c35ccb0d2138fbb87279f8b056d,130701,Understanding Africa’s past,2024-07-09
+5be0b1c548a0477f500842749d2ddafa,130702,Understanding Asia’s past,2024-07-09
+16d222a5fac9d8d7a3ee790f9ee46af5,130703,Understanding Australia’s past,2024-07-09
+18b0c053e3be0738e1be99c1d0b19433,130704,Understanding Europe’s past,2024-07-09
+0dbf8d3a06fa5cc2989867147f6c057a,130705,Understanding New Zealand’s past,2024-07-09
+24a5e89f3cf9c033c87d8d8b92ed92bb,130706,Understanding the past of the Americas,2024-07-09
+a2bcb9114d4a2a59ac058c4eeeef1190,130799,Understanding past societies not elsewhere classified,2024-07-09
+3bef2722d0e6afc04767cc77ab68a3ee,139999,Other culture and society not elsewhere classified,2024-07-09
+3055a089cffae7c29c8942e5eb534a2a,140101,Air,2024-07-09
+b81668e0b714d070d01699118c6d6f8c,140102,"Command, control and communications",2024-07-09
+8afe22eeb3f3f68de994a3c60388858c,140103,Cyber and electronic security and warfare,2024-07-09
+3d15a2a1c540356f9716dc265dd92382,140104,Emerging defence technologies,2024-07-09
+c01c475ac8d447730ece97d846cc4f25,140105,"Intelligence, surveillance and space",2024-07-09
+567115097ac405a46a84ef641c2d7069,140106,Land,2024-07-09
+75b64073c609a818b642755b8884313f,140107,Logistics,2024-07-09
+a98ba70a6aaa1d3da549927a4ca79dfa,140108,Maritime,2024-07-09
+bd64a7fd410708f485412e9feabefde9,140109,National security,2024-07-09
+6d795bb9e527e367063c0044c4fc16a6,140110,Personnel,2024-07-09
+05f213194a8a5a5bba728fdb3a2301ae,140199,Defence not elsewhere classified,2024-07-09
+a02809f6be582b792d4057f9d7e1c40e,150101,International agreements on trade,2024-07-09
+fb4f098d94dd7fd40311020ee5b1bff4,150102,Trade assistance and protection,2024-07-09
+ef4dab2a0830e58c7cf0ad0dca753789,150103,Trade policy,2024-07-09
+847cacf05e5dc36cf7356a95cfbcb745,150199,International trade policy not elsewhere classified,2024-07-09
+4b49773c29adff41f2bfd2e175a051ed,150201,Balance of payments,2024-07-09
+ef6d0fe0b1833ba7c9d13e23e5d8a4b9,150202,Demography,2024-07-09
+d05077991d45031fe31e42ab2b7bd5a2,150203,Economic growth,2024-07-09
+256739145ec11049c9deba2041b9e640,150204,Exchange rates,2024-07-09
+92beef6f29f3a4b88f8b278c9e9672ea,150205,Fiscal policy,2024-07-09
+bd096c1a65b6cfcd0eaebb41c241f659,150206,Income distribution,2024-07-09
+b609e1729edfcb93d4056f8e988d586f,150207,Macro labour market issues,2024-07-09
+5cda9f4f96e12e3ec50606c09b649989,150208,Monetary policy,2024-07-09
+078ae904bfbeb89916d4107864e18362,150209,Savings and investments,2024-07-09
+c6f8bd652132f5c51d957cf34e456749,150210,Taxation,2024-07-09
+77b86a3cac2ef67e5b294fc2b8118955,150299,Macroeconomics not elsewhere classified,2024-07-09
+8786e661759e997352c87daea839f78c,150301,Industrial relations,2024-07-09
+d0765064ac7adc56c88bafd111a53b0d,150302,Management,2024-07-09
+6c86f39790c537fefa3b1923055dc40a,150303,Marketing,2024-07-09
+b90ff4a235da7780a0f27ef622a2e641,150304,Productivity (excl. public sector),2024-07-09
+a1d7fd131de6d97bb7d1b3d8611e30c6,150305,Public sector productivity,2024-07-09
+531f0268dcc2e4704abdf665f754b5ae,150306,Technological and organisational innovation,2024-07-09
+12c40d761707284ac3ed0883a102b3e3,150399,Management and productivity not elsewhere classified,2024-07-09
+b48b0130086c6d7d8a63c9800ea17ac3,150401,Agricultural and environmental standards and calibrations,2024-07-09
+38649fe46f1c4db7c7a53c780b363a77,150402,Defence standards and calibrations,2024-07-09
+e94a47ca37c29b6dfd4ae9b8a7c2f730,150403,Manufacturing standards and calibrations,2024-07-09
+de496a106002d86a26f59346f9eec949,150404,Service industries standards and calibrations,2024-07-09
+849c2429aa113188f56937d33871c672,150499,Measurement standards and calibration services not elsewhere classified,2024-07-09
+a2054189f74dbb620047196c8738700c,150501,Consumption,2024-07-09
+24ae95cc25fa31690ffe1e732b186712,150502,Human capital issues,2024-07-09
+da5a4d41ac76d3234b9028080f747195,150503,Industrial organisations,2024-07-09
+10c591d75c1ee16b1344abbceab817af,150504,Industry costs and structure,2024-07-09
+72fa3bcbbd413b2d0790efaa9c98f8dc,150505,Industry policy,2024-07-09
+c4661f6669f5f35823f39acb6d6be725,150506,Market-based mechanisms,2024-07-09
+b2c85d8d844b9d6050e01fd618439457,150507,Micro labour market issues,2024-07-09
+90a5ad20367b5f8e2f385da4d3f6e400,150508,Microeconomic effects of taxation,2024-07-09
+bf0840b8f9b9906e5709291ae32d9598,150509,"Preference, behaviour and welfare",2024-07-09
+8246ee024d1c6ce988dfda824d053013,150510,Production,2024-07-09
+e0c7dc8357f2d2c886ff32518299f3af,150511,Supply and demand,2024-07-09
+7547efea0d43b8d13d883bdf3c1cf6a0,150599,Microeconomics not elsewhere classified,2024-07-09
+25692f8662a0c38a152265cecf8248b5,159901,Carbon and emissions trading,2024-07-09
+abbde5ed871c8780f046b438e9cfaa1b,159902,Ecological economics,2024-07-09
+b8ec03771594f859adb37067d05c6273,159999,Other economic framework not elsewhere classified,2024-07-09
+8ec316a6bd7240d74c0567a1d9b311e5,160101,Early childhood education,2024-07-09
+130d817d8b3f616e97c555ec57946aec,160102,Higher education,2024-07-09
+34d2777e78ccf007523e2dd1fcea6b2d,160103,Primary education,2024-07-09
+e06f5ed77191826c212c30722f2cc5a2,160104,Professional development and adult education,2024-07-09
+1e2248e0a1305fdf1dca5510e06a2b96,160105,Secondary education,2024-07-09
+1eae1089bd117a44e3dff4a9fb088c93,160199,Learner and learning not elsewhere classified,2024-07-09
+ca34f669ae367c87f0e75dcae0f61ee5,160201,Equity and access to education,2024-07-09
+d407a3ebb4ab9b0d68b224486f8b8dad,160202,Gender aspects in education,2024-07-09
+68f204f3838bfee4ada868b66e6a0814,160203,Inclusive education,2024-07-09
+6639ae8d530e71980239f7bff60e247c,160204,"Management, resources and leadership",2024-07-09
+82d85bcf96c022baec4b9c62dad090dd,160205,Policies and development,2024-07-09
+2a307e6985c82c6245bc0b3186cdf9bc,160206,Workforce transition and employment,2024-07-09
+e246da2d0c8def20a87c64e122f38777,160299,Schools and learning environments not elsewhere classified,2024-07-09
+cf6faa5b09823f159e09a786cba0dd88,160301,"Assessment, development and evaluation of curriculum",2024-07-09
+ab9b390ac75546dd9f9e62d8d904ea69,160302,Pedagogy,2024-07-09
+bb44cd485a19a2b227b3ccc473d10302,160303,Teacher and instructor development,2024-07-09
+5fd72b9fc7118bd36a137d7cea8c588a,160304,Teaching and instruction technologies,2024-07-09
+7114b197bbd232a9fb706aa848e35ab7,160399,Teaching and curriculum not elsewhere classified,2024-07-09
+2679605a17f2e3caeb811af8c5bc8ab4,169999,Other education and training not elsewhere classified,2024-07-09
+86bd77dd56cd85724487daec0e5b7278,170101,Commercial energy efficiency,2024-07-09
+ff564381a6e133861e8747cb321308e4,170102,Industrial energy efficiency,2024-07-09
+8aed12138e0c8251d6d766d14200f989,170103,Residential energy efficiency,2024-07-09
+897e063ab3b752fac141f6006ca220b0,170104,Transport energy efficiency,2024-07-09
+0b2d8a52c334cab76617f7c2a98246aa,170199,Energy efficiency not elsewhere classified,2024-07-09
+03dc928b3157409c7597cf76e49f9341,170201,Coal exploration,2024-07-09
+847fe9a6b735a0827af1cf34360305f7,170202,Geothermal exploration,2024-07-09
+e9b9c6f41e0b9518d1ce5edc023178ed,170203,Oil and gas exploration,2024-07-09
+1d3f1b5b2299ae6edefd7af853f34ade,170204,Oil shale and tar sands exploration,2024-07-09
+b0a0bcceb65846a88db7705b1fd1a2cb,170205,Uranium exploration,2024-07-09
+d2908e160917a3c6c0af45004d06c541,170299,Energy exploration not elsewhere classified,2024-07-09
+fb8c9cd692aba925faf07d40c37f1f3b,170301,Battery storage,2024-07-09
+e19f1aa34a7493058e2bf1b8ce9d23a5,170302,Carbon capture and storage,2024-07-09
+178d75b19cc4ffa382309170bdb685e9,170303,Energy services and utilities,2024-07-09
+14633a0ec296dcf19da672e85e1cffbc,170304,Energy storage (excl. hydrogen and batteries),2024-07-09
+091e8b81d4e1d5c22c6468adf8684687,170305,Energy systems and analysis,2024-07-09
+364aa35b662d5689deb8370041e17ca6,170306,Energy transmission and distribution (excl. hydrogen),2024-07-09
+639187c846288719b45c6001ec5b0af2,170307,Hydrogen distribution,2024-07-09
+7a775220d44a9348f7db64d3bc02c75a,170308,Hydrogen storage,2024-07-09
+4a4f0cd04257bed108795f960f9bc2d1,170309,Smart grids,2024-07-09
+9e1f1b7ec4c673bedea61d33f74a87aa,170399,"Energy storage, distribution and supply not elsewhere classified",2024-07-09
+aee12832d2da671b3bb375e5839f163e,170401,Fuel cells (excl. solid oxide),2024-07-09
+d390d3da2959fcf07b08b99257b0f310,170402,Hydrogen-based energy systems,2024-07-09
+f88946a5127c40e6753b3bd5e7a0a694,170403,Nuclear energy,2024-07-09
+3d36cae69bf7face8bc5b10f5d50db67,170404,Solid oxide fuel cells,2024-07-09
+1a10679572e1eb66b2fe70c8e4dafb47,170405,Transformation of coal into electricity,2024-07-09
+876345956987c4091e37df0f11f04bf1,170406,Transformation of coal into fuels,2024-07-09
+a0ca3d5415b61d8efe97f1f3a2c9c5ea,170407,Transformation of electricity and material feedstocks into fuels,2024-07-09
+7eb63217014083fbef22a95255135046,170408,Transformation of gas into electricity,2024-07-09
+c0e1cf1dad317dd93128938f86e74705,170409,Transformation of gas into fuels,2024-07-09
+62a0ba0409946b29de92f428010d9d5f,170499,Energy transformation not elsewhere classified,2024-07-09
+08328a40211511b00715190bf86cbcd0,170501,Management of gaseous waste from energy activities (excl. greenhouse gases),2024-07-09
+4f02e15b813962b2f14b4f2b894a2fb0,170502,Management of liquid waste from energy activities (excl. water),2024-07-09
+5f3eff882438b387a6f1ad1608b4c44c,170503,Management of solid waste from energy activities,2024-07-09
+88bc8e4c598d233294385b72836ab725,170504,Management of water consumption by energy activities,2024-07-09
+4b849bfb2418b7b1e83551b64a742e75,170599,Environmentally sustainable energy activities not elsewhere classified,2024-07-09
+ba96954838266e303c8a834f0f7f2553,170601,Coal mining and extraction,2024-07-09
+8d0aebe7559c21b7c4f02a0228b11abc,170602,Geothermal energy extraction,2024-07-09
+27e738153df3888b4ee6c679ea33f754,170603,Oil and gas extraction,2024-07-09
+f5766415c09046f37ad469fe93995b24,170604,Oil shale and tar sands mining and extraction,2024-07-09
+9cd168c50779611f3f8406969a8f92d3,170605,Uranium mining and extraction,2024-07-09
+0a16c16a28b647f8ee9102f540dcfe7d,170699,Mining and extraction of energy resources not elsewhere classified,2024-07-09
+963e23b908a071e03d6bae3e36ec7d14,170701,Biomass processing,2024-07-09
+a7a450dcea5ea8c5782e00d67838c441,170702,Hydrogen production from fossil fuels,2024-07-09
+b4bbb3cb05593d69ff4537f2a44d7823,170703,Hydrogen production from nuclear energy,2024-07-09
+bc497e13dfb4967120beb914c16d582f,170704,Hydrogen production from renewable energy,2024-07-09
+32c3c0e6d2e80cf6f5a9b38e1ca2bbe9,170705,Oil and gas processing,2024-07-09
+157c7bdfe8c33ee30d4257cb01784cdb,170706,Preparation of black coal,2024-07-09
+d373625f7c2f06a46bfac91de4aac1bb,170707,Preparation of brown coal (lignite),2024-07-09
+cf338a1522329437b188dc2e893d9bbc,170708,Preparation of oil shale and tar sands,2024-07-09
+890f7948297edcb40f2ea63c03f709d2,170709,Preparation of uranium,2024-07-09
+e6ef3635b3888a34939235fafd16c943,170799,Processing of energy sources not elsewhere classified,2024-07-09
+b950d16b3f6287d12a9baff2df91b400,170801,Biofuel energy,2024-07-09
+2e469270782679c7955ca5ae1ef2e100,170802,Geothermal energy,2024-07-09
+968d7a3a2d7a3db4fea3b5b8a16fcdad,170803,Hydro-electric energy,2024-07-09
+7be2ec9ab526fdaef515e5e579018dfc,170804,Solar-photovoltaic energy,2024-07-09
+dcc8007e03af36a0bd3635b09e4cd5a2,170805,Solar-thermal energy,2024-07-09
+fd0e16feed6a3c4e7b37101736e3c1c6,170806,Tidal energy,2024-07-09
+4dc7d2ae29eb0e5287d90d7bdfea413b,170807,Wave energy,2024-07-09
+66137f04c1b19dceccb8aa0ddaca1bef,170808,Wind energy,2024-07-09
+daacf64d0661087a2bf641db6db6a681,170899,Renewable energy not elsewhere classified,2024-07-09
+937a099ea83f875440a0320911adc1a4,179999,Other energy not elsewhere classified,2024-07-09
+1550effc0934cacfdbcd520ecee71a02,180101,Air quality,2024-07-09
+5703de3548ff252d497ed77119eccccf,180102,Atmospheric composition (incl. greenhouse gas inventory),2024-07-09
+ad110b81cf05db07b4fdaa971d46c56d,180103,Atmospheric processes and dynamics,2024-07-09
+616be4949c467dfef09c3be096b49385,180104,Weather,2024-07-09
+a31bc96f548fc62093abbd36dd9d1966,180199,"Air quality, atmosphere and weather not elsewhere classified",2024-07-09
+2c8432b86e908e5e6804728d29ff041a,180201,Assessment and management of coastal and estuarine ecosystems,2024-07-09
+5fba32fd9811688d76c67e67df719ec8,180202,Coastal erosion,2024-07-09
+080aa506126cf3158e540ebdee3755ff,180203,Coastal or estuarine biodiversity,2024-07-09
+3fccf7fd6961bd6f987c83ec43fc65ae,180204,"Control of pests, diseases and exotic species in coastal and estuarine environments",2024-07-09
+988a417b643b6d4d22a9405ada512376,180205,Measurement and assessment of estuarine water quality,2024-07-09
+fe0bd5f9905e0a787531b711a800c9c1,180206,Rehabilitation or conservation of coastal or estuarine environments,2024-07-09
+ceee5a834b39275ebe4d3831f4207ea7,180299,Coastal and estuarine systems and management not elsewhere classified,2024-07-09
+1aeba3c8a7cc54b5bd2d3ec5899a91cd,180301,Assessment and management of freshwater ecosystems,2024-07-09
+c4403794ed3270a96121683b9e7bca97,180302,"Control of pests, diseases and exotic species in fresh, ground and surface water",2024-07-09
+2390537c4da6325dc5251ece88f73177,180303,"Fresh, ground and surface water biodiversity",2024-07-09
+53bdb1ad3c7808c62d2472f541727801,180304,Freshwater assimilative capacity,2024-07-09
+994890560dcd99390fa722615dcc88a6,180305,"Ground water quantification, allocation and impact of depletion",2024-07-09
+c5470237f9a2f04f64acafefe03764bb,180306,Measurement and assessment of freshwater quality (incl. physical and chemical conditions of water),2024-07-09
+91ccf793fff06e6e1c2b556c3c0effb9,180307,"Rehabilitation or conservation of fresh, ground and surface water environments",2024-07-09
+c60f93287b6698cb449a64a76ed2c77a,180308,"Surface water quantification, allocation and impact of depletion",2024-07-09
+a7eee7c9f1d1889c763ba7f86a873d02,180399,"Fresh, ground and surface water systems and management not elsewhere classified",2024-07-09
+d526a4baf6537eeab16ce92c3178e77c,180401,Antarctic and Southern Ocean ice dynamics,2024-07-09
+de6aeb2fa830b8019429ca0557a7a6a9,180402,Antarctic and Southern Ocean oceanic processes,2024-07-09
+9b6483b670ea2c24afa70079ee1f5463,180403,Assessment and management of Antarctic and Southern Ocean ecosystems,2024-07-09
+e282d1cf59bc440f418e92b618e37e14,180404,Biodiversity in Antarctic and Southern Ocean environments,2024-07-09
+d96ed9653711b78beeaa33b016d7ab9e,180405,"Control of pests, diseases and exotic species in Antarctic and Southern Ocean environments",2024-07-09
+d79e00d02d0ceafcef88f9b6c491367b,180406,Protection and conservation of Antarctic and Southern Ocean environments,2024-07-09
+2af8c2a51a3562acdc54d6c9b5cb717e,180407,Water quality in Antarctic and Southern Ocean environments,2024-07-09
+8d0572e42a4c375d0e8e99ba0bbcee23,180499,Management of Antarctic and Southern Ocean environments not elsewhere classified,2024-07-09
+ffc87ea0decad4fb9d8825e1b187f1c8,180501,Assessment and management of benthic marine ecosystems,2024-07-09
+c558db9d553803f58964093420993107,180502,Assessment and management of pelagic marine ecosystems,2024-07-09
+6434815be52e233428abb6f01b2385ab,180503,"Control of pests, diseases and exotic species in marine environments",2024-07-09
+7fc286d1129ef4b7453ed6b60bcef2a8,180504,Marine biodiversity,2024-07-09
+8b22dbb5350f886f108389e8dc5f73b6,180505,Measurement and assessment of marine water quality and condition,2024-07-09
+d30cea417e3e3098c66ce253a7a64392,180506,Oceanic processes (excl. in the Antarctic and Southern Ocean),2024-07-09
+316ec34949fce1adb69a0dd76416e8f3,180507,Rehabilitation or conservation of marine environments,2024-07-09
+a96eec7ea400017eec620163185bcf24,180599,Marine systems and management not elsewhere classified,2024-07-09
+113d428f6e00d3c6420220df16c473c9,180601,Assessment and management of terrestrial ecosystems,2024-07-09
+d189cc2856d614bbe0b51695d17bd961,180602,"Control of pests, diseases and exotic species in terrestrial environments",2024-07-09
+aa7fd0f3b5f92d9ad962b8b8af70701d,180603,"Evaluation, allocation, and impacts of land use",2024-07-09
+92e9fd1bf3c37b38c45cfdc7a1ccf6e0,180604,Rehabilitation or conservation of terrestrial environments,2024-07-09
+9ee15dfbd8b2c05e7badd3195dc45610,180605,Soils,2024-07-09
+48089aa4d17b0f3ba40aabd5a6dd272f,180606,Terrestrial biodiversity,2024-07-09
+9f6306e1e301c0acc1d8256cf2e5bf16,180607,Terrestrial erosion,2024-07-09
+f8713d3f15523de5ec370f2bb4285c7a,180699,Terrestrial systems and management not elsewhere classified,2024-07-09
+92c1e0bd80c99550ce0898377010b122,189999,Other environmental management not elsewhere classified,2024-07-09
+8ff155aa6cc9143c3e4e9bcf6319185a,190101,Climate change adaptation measures (excl. ecosystem),2024-07-09
+424e2b80d6fbc067b6d565aef962a46e,190102,Ecosystem adaptation to climate change,2024-07-09
+4f347bc126ff8537961460d54954c15f,190103,Social impacts of climate change and variability,2024-07-09
+9887806a5708fabb1577fe4f7ed1d668,190199,Adaptation to climate change not elsewhere classified,2024-07-09
+e2eb24069f0e50620ca108e3fbc6cbd9,190201,"Consumption patterns, population issues and the environment",2024-07-09
+3cd9d548c348e9d879c0d831c40afeb8,190202,Eco-verification (excl. environmental lifecycle assessment),2024-07-09
+8a96c2807ddc45c8161e296b6f20db05,190203,Environmental education and awareness,2024-07-09
+a8675d5043426f7978c8547f3b042222,190204,Environmental lifecycle assessment,2024-07-09
+bd0cf66b30821d2d54234fdaf40f1d66,190205,Environmental protection frameworks (incl. economic incentives),2024-07-09
+1e20d939bfa5531eebd61ff0291c4337,190206,Institutional arrangements,2024-07-09
+175ce6ccf41ff9151727042ad7e92519,190207,Land policy,2024-07-09
+201d5cf50c53165308eec98610734cd3,190208,Rights to environmental and natural resources (excl. water allocation),2024-07-09
+0011529ec3e2d6c683c8078ae8410a76,190209,Sustainability indicators,2024-07-09
+ab23173eaf8109ff5c48d29aae4abb88,190210,Trade and environment,2024-07-09
+d24dfd4ad83028aca2b968cecd779821,190211,Water policy (incl. water allocation),2024-07-09
+ce72aed40734ff7357fb8881f86daa35,190299,"Environmental policy, legislation and standards not elsewhere classified",2024-07-09
+fd61c11d771e1ef270eeac89654ebd53,190301,Climate change mitigation strategies,2024-07-09
+1bfdf104aa5a20c04e258834266c79d8,190302,Management of greenhouse gas emissions from animal production,2024-07-09
+8edadf4bbd8528ab71ed3ecbd02e553d,190303,Management of greenhouse gas emissions from commercial services and tourism,2024-07-09
+8661a00b15c5f695592992e2435981b7,190304,Management of greenhouse gas emissions from construction activities,2024-07-09
+67fd0620fdb4b1579e2ab7226fd92dad,190305,Management of greenhouse gas emissions from electricity generation,2024-07-09
+b8d9339d690ccd3691d413b0ec01f9a1,190306,Management of greenhouse gas emissions from energy activities,2024-07-09
+3a7fe8339b994acbab11f49bfbfe0923,190307,Management of greenhouse gas emissions from information and communication services,2024-07-09
+bc2c17dc9887b0a45a764c1f0cd32f14,190308,Management of greenhouse gas emissions from manufacturing activities,2024-07-09
+fe9fa0742df07bb5b5c3efaafb0c9f53,190309,Management of greenhouse gas emissions from mineral resources activities,2024-07-09
+b8fa011f2091559d26d46487f5e86f49,190310,Management of greenhouse gas emissions from plant production,2024-07-09
+3d60f261b45e001ed12ad1c81f7ce591,190311,Management of greenhouse gas emissions from transport activities,2024-07-09
+e0760e065d5f8d7adc5aef3c532c208a,190399,Mitigation of climate change not elsewhere classified,2024-07-09
+e16f63a56f439c9deefbd004e91cdacc,190401,"Climatological hazards (e.g. extreme temperatures, drought and wildfires)",2024-07-09
+d6e42d4457b1204f2e8c40db31021365,190402,Extraterrestrial hazards (e.g. meteorites),2024-07-09
+1ca1af55d2263e9139ba774ffff9dc0c,190403,"Geological hazards (e.g. earthquakes, landslides and volcanic activity)",2024-07-09
+bef57c9c468393758371f72610cff671,190404,Hydrological hazards (e.g. avalanches and floods),2024-07-09
+c735b7b41007adcbcc02f24e5dd28845,190405,Meteorological hazards (e.g. cyclones and storms),2024-07-09
+89f2382476be65f8f2e5bcc99eddc3f4,190499,Natural hazards not elsewhere classified,2024-07-09
+0ccbcaf7c084a882092863add4de7c52,190501,Climate change models,2024-07-09
+69a92b5ac76e192566f618e41ce1154d,190502,Climate variability (excl. social impacts),2024-07-09
+534cbe8287884bc658d368689cb88858,190503,Effects of climate change on Antarctic and sub-Antarctic environments (excl. social impacts),2024-07-09
+fb9ec59501b866b56573d61b41fc2b36,190504,Effects of climate change on Australia (excl. social impacts),2024-07-09
+22f90d3e1a7d7aeab5fbcb603ad54243,190505,Effects of climate change on New Zealand (excl. social impacts),2024-07-09
+6183ce6607e58f11924232ed5030a654,190506,Effects of climate change on the South Pacific (excl. Australia and New Zealand) (excl. social impacts),2024-07-09
+05cf22dcb225cea0be727d494986f6f9,190507,"Global effects of climate change (excl. Australia, New Zealand, Antarctica and the South Pacific) (excl. social impacts)",2024-07-09
+78ba50f54766a58aca2f5e9b282dd081,190508,Understanding the impact of natural hazards caused by climate change,2024-07-09
+035cf4eff6362803588daeb3fafc2abd,190599,Understanding climate change not elsewhere classified,2024-07-09
+174d10d8134ad94a2fefe3af422bc039,199999,"Other environmental policy, climate change and natural hazards not elsewhere classified",2024-07-09
+fae1f94c506115eb3d565c1eef081196,200101,Diagnosis of human diseases and conditions,2024-07-09
+bc0db1ef7e8b6384b16e70b8977f9962,200102,Efficacy of medications,2024-07-09
+bd0b3e43c34a47cbc6eae5d9ed51cae1,200103,Human pain management,2024-07-09
+dde4acfdb0be07a2023fb6132c8c61e4,200104,Prevention of human diseases and conditions,2024-07-09
+e085d8a5248ec1c171874e3fe2906e21,200105,Treatment of human diseases and conditions,2024-07-09
+fef9904af76de3e169d287589e6b3bac,200199,Clinical health not elsewhere classified,2024-07-09
+fafe0a5ad92e1f8a2875f9359657d1bc,200201,Determinants of health,2024-07-09
+452bfed404cb95d662912f16a0252d6c,200202,Evaluation of health outcomes,2024-07-09
+9e9bebb2682febcf78efdc12e63cfc9c,200203,Health education and promotion,2024-07-09
+b543ca4b56d3cd59731d48da5f867b64,200204,Health inequalities,2024-07-09
+a73abdea647b1f9fa306133f85e58320,200205,Health policy evaluation,2024-07-09
+b868fceef15596e6c9de4de0e8fea03e,200206,Health system performance (incl. effectiveness of programs),2024-07-09
+0d2f083046d67160a53a3fd4a420550b,200207,Social structure and health,2024-07-09
+41f53a6ca4b44a5a45a7c396873a3606,200208,Telehealth,2024-07-09
+cc1d887c3ac1c58d0bef63a6fcc0f9f2,200299,Evaluation of health and support services not elsewhere classified,2024-07-09
+8aee09e623dfe2f405f3d3db6144caa9,200301,Allied health therapies (excl. mental health services),2024-07-09
+004ca31ed6cc03637e001939558631e7,200302,Community health care,2024-07-09
+d9bcad1eca7b1bb63bbfdf3289ef4737,200303,Health surveillance,2024-07-09
+fb76d4134077b3c475f6e0a49142c9fa,200304,Inpatient hospital care,2024-07-09
+8651668492d318512c75ea3db5ffd3dc,200305,Mental health services,2024-07-09
+9258e6b2bd477eb720de13fed86df8de,200306,Midwifery,2024-07-09
+51c548bbd8d99a9e586a72dc77c57b5d,200307,Nursing,2024-07-09
+72429611eba4c13e6dce86c7f27fcb15,200308,Outpatient care,2024-07-09
+8ddb11fe6f3d376869ce7d3b16bb6d82,200309,Palliative care,2024-07-09
+c58caf20b7b0f862eb4aed73edba87d2,200310,Primary care,2024-07-09
+1e588b997aa4c0e948ef563f98ef13ce,200311,"Urgent and critical care, and emergency medicine",2024-07-09
+8163da1f9f8cb10533790094ca477b75,200399,Provision of health and support services not elsewhere classified,2024-07-09
+9756342aa9434be0fe3651cbfab0a93e,200401,Behaviour and health,2024-07-09
+800d427f7b19cf6f05ec777b2beb9a25,200402,Dental health,2024-07-09
+de345b20a5d60ae93088b864977ea7cb,200403,Disability and functional capacity,2024-07-09
+121a28c1fea3530808c64a1f492552e4,200404,Disease distribution and transmission (incl. surveillance and response),2024-07-09
+eb9db715b014399f1ade53f1ef515a96,200405,Food safety,2024-07-09
+d6688df476c2c7d6c83dd70a337ec41c,200406,Health protection and disaster response,2024-07-09
+4c36ddda7b42968d4534fbc6dd68a90a,200407,Health status (incl. wellbeing),2024-07-09
+3009a8f76cff79108c722126383b89f5,200408,Injury prevention and control,2024-07-09
+a214210b612b9191fec76c7b330a2496,200409,Mental health,2024-07-09
+b36b3ad0d379e62fcc3eed8e40971173,200410,Nutrition,2024-07-09
+6347de7ea58afabc21df90812d1368b7,200411,Overweight and obesity,2024-07-09
+bf9eeb6625b113b0151fb3713e7d40b5,200412,Preventive medicine,2024-07-09
+555c267769f8f9298af90e2a0ec36c93,200413,Substance abuse,2024-07-09
+08ca1c80482fd6de29614d3ce1c38f59,200499,Public health (excl. specific population health) not elsewhere classified,2024-07-09
+269727a2b342292c3bac2d674e3ed2c0,200501,Adolescent health,2024-07-09
+e298165053c78f07e27ccab6d3d7754b,200502,Health related to ageing,2024-07-09
+c5a8081a0b50c262305021e892eec570,200503,Health related to specific ethnic groups,2024-07-09
+2ba1245d06438825e8768a6b388982a4,200504,Men's health,2024-07-09
+f586ff8517e916e591bc2afd108b732b,200505,Migrant health,2024-07-09
+95719188598ff744375b96811ffca48c,200506,Neonatal and child health,2024-07-09
+885f3148d5677dff7664393b8aa14468,200507,Occupational health,2024-07-09
+b7cd39262b6e2f76bba2f46a7a88a486,200508,Rural and remote area health,2024-07-09
+0d8c043f6d1caea2d045b4e71680815d,200509,Women's and maternal health,2024-07-09
+f2ac0a691446ec89f23e635eeb61235a,200599,Specific population health (excl. Indigenous health) not elsewhere classified,2024-07-09
+0bd558f8825f7803a269203da58c7ca4,209999,Other health not elsewhere classified,2024-07-09
+03dfec72c7d7be6f90fc9262735b1467,210101,Aboriginal and Torres Strait Islander community service programs,2024-07-09
+df6b2c12ee834e44fdb91725d479f989,210102,Aboriginal and Torres Strait Islander development and wellbeing,2024-07-09
+65942bb85cba5cb9c2c221987aa14b4e,210199,Aboriginal and Torres Strait Islander community services not elsewhere classified,2024-07-09
+94930930325d5defaa5fbb0476616911,210201,Aboriginal and Torres Strait Islander education engagement and attendance outcomes,2024-07-09
+efa9d586b56969f9a0507a9e44caccbd,210202,Aboriginal and Torres Strait Islander education system performance,2024-07-09
+d49bf5d4252ab27c1c50e787d68e9bf3,210203,Aboriginal and Torres Strait Islander literacy and numeracy outcomes,2024-07-09
+a0508786682e806f9a0c8608712c95fc,210299,Aboriginal and Torres Strait Islander education not elsewhere classified,2024-07-09
+401a22bc1dd907f74476c2b62ea9bc48,210301,Aboriginal and Torres Strait Islander determinants of health,2024-07-09
+9cc3a209fd0063cedbbb92f5112c0174,210302,Aboriginal and Torres Strait Islander health status and outcomes,2024-07-09
+29c5343e1a97e6f59eae6021a7fbb72a,210303,Aboriginal and Torres Strait Islander health system performance,2024-07-09
+788ebc614b3f81958f07e760fc2165b1,210399,Aboriginal and Torres Strait Islander health not elsewhere classified,2024-07-09
+1094eabe66a3572f49db81d487c1fa7d,210401,Aboriginal and Torres Strait Islander artefacts,2024-07-09
+beec524e71f86ca5bcaaeb9d95fab2fa,210402,Aboriginal and Torres Strait Islander connection to land and environment,2024-07-09
+2436c3d38e177af04fe2f19e9281c613,210403,Aboriginal and Torres Strait Islander customary practices,2024-07-09
+1a0a47744dfcd2491e51de052db5b745,210404,Aboriginal and Torres Strait Islander knowledge,2024-07-09
+7039c14b0cc991ed72b9da03e14b32c5,210405,Aboriginal and Torres Strait Islander places of significance,2024-07-09
+08279130e2d6c07bdb62ed95f3ebfadb,210406,Aboriginal and Torres Strait Islander tradition,2024-07-09
+0a82757794fd10d253c2b69087790ab7,210407,Conserving Aboriginal and Torres Strait Islander heritage and culture,2024-07-09
+446f685d043a442bf033feffe23f4427,210499,Aboriginal and Torres Strait Islander heritage and culture not elsewhere classified,2024-07-09
+f292a7e8f907556b6d1bc65d26666381,210501,Ngā hōtaka ratonga hapori Māori (Māori community service programs),2024-07-09
+22d193a451911b99e54793ac70c85792,210502,Te whanaketanga me te oranga o te Māori (Māori development and wellbeing),2024-07-09
+7a375f85d0afb5cf4245c3607d6cc779,210599,Ngā ratonga hapori o te Māori kāore anō kia whakarōpūtia i wāhi kē (Māori community services not elsewhere classified),2024-07-09
+00c3ffc5e7c7e6b4c5fdd741b83991a9,210601,Te whai wāhi o te Māori ki te mātauranga me te taetae atu ki te kura (Māori education engagement and attendance outcomes),2024-07-09
+58491fbff5a96062e125cb6fd1f67d37,210602,Te whakatutukitanga o te pūnaha mātauranga Māori (Māori education system performance),2024-07-09
+5b56eddc0f5545628a693f6a20920bf8,210603,Ngā putanga reo matatini me te pāngarau o te Māori (Māori literacy and numeracy outcomes),2024-07-09
+4c2b7c2084c611433bac9299340b1728,210699,Te mātauranga Māori kāore kāore anō kia whakarōpūtia i wāhi kē (Māori education not elsewhere classified),2024-07-09
+4fb734057425f1f289b0cb54339885b7,210701,Ngā tokoingoa hauora (determinants of Māori health),2024-07-09
+bbe5f5b4fc5ff74c80fc7346e4a4bd1b,210702,Te tūnga me ngā putanga hauora (Māori health status and outcomes),2024-07-09
+5d3f7ea573739d361cfd90eaa70a225b,210703,Te whakatutukinga o te pūnaha hauora (Māori health system performance),2024-07-09
+3482538a6ad85855f16e8fae3ea1c9ff,210799,Te hauora kāore anō kia whakarōpūtia i wāhi kē (Māori health not elsewhere classified),2024-07-09
+f2a5b6b0bfc027d28d5de01fe35d8260,210801,Āhuatanga Māori (te tuku ihotanga Māori) (Māori tradition),2024-07-09
+7d454e1abab154bf01257421dca9edb5,210802,Te whāomoomo i te tuku ihotanga me te ahurea Māori (conserving Māori heritage and culture),2024-07-09
+398abd78e6f4fbbc8f8e90ef640cad10,210803,Mōhiotanga Māori (Māori knowledge),2024-07-09
+8d833ff83069c71719682193cb082ab2,210804,Ngā taonga (Māori artefacts),2024-07-09
+992deddf0a463d45b0922bfb101533c2,210805,Ngā tikanga Māori (Māori customary practices),2024-07-09
+153184164b229cbaef5e86f0da6fe683,210806,Ngā wāhi taonga (Māori places of significance),2024-07-09
+1dfee5ba558a87480e8ad52d4da395e7,210899,Te tuku ihotanga me te ahurea Māori kāore anō kia whakarōpūhia i wāhi kē (Māori heritage and culture not elsewhere classified),2024-07-09
+a5200ea7b88d3ebf61832ae783047feb,210901,Pacific Peoples community service programs,2024-07-09
+ee34ce4e8fdf0b1feb384db5afb32590,210902,Pacific Peoples development and wellbeing,2024-07-09
+fdc079ec59651ffdb159a3e9d52e674a,210999,Pacific Peoples community services not elsewhere classified,2024-07-09
+267cbdd6753c87b2948b933f2fe38677,211001,Pacific Peoples education engagement and attendance,2024-07-09
+40b882333d089a853eee734ee0912492,211002,Pacific Peoples education system performance,2024-07-09
+d70584cc807cf38cabf7b5c797f23921,211003,Pacific Peoples literacy and numeracy outcomes,2024-07-09
+5ab83ecd9493ca64635ddad844e2477c,211099,Pacific Peoples education not elsewhere classified,2024-07-09
+fcc2561c2e48efb36381a0b4273d658a,211101,Pacific Peoples determinants of health,2024-07-09
+820ac6112edc65465020a53e877fe603,211102,Pacific Peoples health status and outcomes,2024-07-09
+5df13fa003e5b99ba927d4c9bfb60730,211103,Pacific Peoples health system performance,2024-07-09
+2d2d436e2ad3a25fd3afe5e151ebfe7b,211199,Pacific Peoples health not elsewhere classified,2024-07-09
+50f8474e7597bb81832326fb270cd1c4,211201,Conserving Pacific Peoples heritage and culture,2024-07-09
+133bbdf47831b6206a1a188df39d17dd,211202,Pacific Peoples connection to land and environment,2024-07-09
+d9637bc421985fec54fdb07e7e2154da,211299,Pacific Peoples heritage and culture not elsewhere classified,2024-07-09
+dfaba4a9d9ddd24dd353ef3efca45c37,219999,Other Indigenous not elsewhere classified,2024-07-09
+c010b0eb24c4b6448bc5d59b08ab5246,220101,E-infrastructures,2024-07-09
+8317cf8fd3e91f16b25992393fcc249f,220102,Internet protocols (ip),2024-07-09
+ab397249fa24b61fad24097b4ac8fd1a,220103,Mobile technologies and communications,2024-07-09
+69b1f8edf370bbfe13296c1906fbd3e0,220104,Network security,2024-07-09
+480f529722ed931fb9b14eae7bd10722,220105,Network systems and services,2024-07-09
+1e28427b48bc1100d136cb0337a6c64e,220106,"Satellite technologies, networks and services",2024-07-09
+412e88a78a24ad612ac5d145ac83a5a7,220107,"Wireless technologies, networks and services",2024-07-09
+09d4bb3d0d603d25f7e24f6ee63932db,220199,"Communication technologies, systems and services not elsewhere classified",2024-07-09
+e15e69056254ba3ae175ecbfb0fc4144,220201,Management of solid waste from information and communication services,2024-07-09
+5d54cb5f5aff52d6f7d1bf0b97167621,220202,Management of water consumption by information and communication services,2024-07-09
+0e70aeac6a9211346b3942ef19ac3fff,220299,Environmentally sustainable information and communication services not elsewhere classified,2024-07-09
+602e57337ef8e286620fac79c500ecce,220301,Digital humanities,2024-07-09
+5faefdfa129ce3a612a871a8d2403410,220302,Electronic information storage and retrieval services,2024-07-09
+3e6fb6d481094287ae67628c41bd4a82,220303,Library and archival services,2024-07-09
+c5b32228af5961bf8abdcaf001c2ed4f,220304,Museum and gallery collections,2024-07-09
+4b7234832ec6d0beb0f183a00b086c32,220305,News collection services,2024-07-09
+3a3943f6ddf828e4a605c3a1ddbd7859,220306,Open access,2024-07-09
+de76879fc899ebd1b6aca7d93bddb80a,220399,Information services not elsewhere classified,2024-07-09
+e6fdb48a10391cef5b4842372b265222,220401,Application software packages,2024-07-09
+632e56f63d3e96b780f51db110439f9c,220402,Applied computing,2024-07-09
+cac62865cddfb8e55140254d04c1173e,220403,Artificial intelligence,2024-07-09
+5b7ab42b4ea5567b02b1d1050be6acb9,220404,Computer systems,2024-07-09
+e1118eb916c0da749ca8fbf3ac9349fd,220405,Cybersecurity,2024-07-09
+dcb7561614bea73b11e0330a5190afaf,220406,Graphics,2024-07-09
+08c1973166989227eb0ecd6b90af7344,220407,Human-computer interaction,2024-07-09
+a5c689fcbac6317231220fb05975ddb4,220408,Information systems,2024-07-09
+1ac881c472d929e234c852ba67abf528,220499,"Information systems, technologies and services not elsewhere classified",2024-07-09
+9fb2a3f963e67b446928a19033cff438,220501,"Animation, video games and computer generated imagery services",2024-07-09
+6bb53d385365bdaa82daf86bb9027cff,220502,"Internet, digital and social media",2024-07-09
+efb7e21dbc41822daddf4dfa4cdac39a,220503,Publishing and print services,2024-07-09
+fc73f5d41124557188f581b7448eccb9,220504,"Radio, television, film and video services",2024-07-09
+6bffb4b224ea41d760ecf03fb27d535e,220599,Media services not elsewhere classified,2024-07-09
+db76ba9f1aadf1434c1d08a590f41fde,229999,Other information and communication services not elsewhere classified,2024-07-09
+c0f524500634f151b9f933ec5ed7112d,230101,Ability and disability,2024-07-09
+93d36ccef08f96367b2fbba9bd1f6b79,230102,Ageing and older people,2024-07-09
+cd53d53ef16137b6446a595b0c09b808,230103,Carers' support,2024-07-09
+6602b31b37d95e62a90889020624006b,230104,Children's services and childcare,2024-07-09
+c91ffe86fa9c1be66e92552288e4829c,230105,Citizenship and national identity,2024-07-09
+6d39ac81f16546189f42c75aa9978701,230106,Employment services,2024-07-09
+65050e9f45dc7cdc4fde29d8ed0eecc1,230107,Families and family services,2024-07-09
+2f1f3f1e8f8bcf558756dd022ab88ee5,230108,Gender and sexualities,2024-07-09
+e9346375c5ec758945819922cdc481fd,230109,Homelessness and housing services,2024-07-09
+9141e46c769ba3fd0aaec1ecff0266c9,230110,Migrant and refugee settlement services,2024-07-09
+826833672dd4d67ca0ea4cc383af0366,230111,Multicultural services,2024-07-09
+2a5965f1d8ce03c47df2a74229591d21,230112,Social class and inequalities,2024-07-09
+bfb162b0340f3726671edc81cef1b497,230113,"Structure, delivery and resourcing",2024-07-09
+8c233acea9a6f69beef5ea999fd55dc1,230114,Violence and abuse services,2024-07-09
+5a3d3a89d06e418d0190434e0d728817,230115,Youth services,2024-07-09
+87c78e1cb14febe4187391f8bd759281,230199,Community services not elsewhere classified,2024-07-09
+f3a857ea81c0926b788e224a71ac256f,230201,Civics and citizenship,2024-07-09
+823f161a7829c826ddaf1dc7c3398d38,230202,Electoral systems,2024-07-09
+14f0a1603c452ecf7bcd567e7185852a,230203,Political systems,2024-07-09
+034f1f1a2fefe6d6821f0c07c25db558,230204,Public services policy advice and analysis,2024-07-09
+1a6c00132074ff44846a8f5a887077c7,230299,Government and politics not elsewhere classified,2024-07-09
+9c91865ac46e35abc90a3de2927a67ac,230301,Defence and security policy,2024-07-09
+4a26f7a158c8253ea6d97fcfda3caae0,230302,International aid and development,2024-07-09
+8e7618b3e432c76b689f32e40932c7e8,230303,International organisations,2024-07-09
+22b5643ee1872e85b90100d02d4c69f5,230304,International political economy (excl. international trade),2024-07-09
+910a81c9c690fc5dfda061a9e6cfe6cb,230305,Peace and conflict,2024-07-09
+849a1e14c764c67da9a2b6ab487528e3,230399,International relations not elsewhere classified,2024-07-09
+b2bf89d5c78b37e3b3192fb420dfbdce,230401,Civil justice,2024-07-09
+e830920bdc6781a0b65a507445dea555,230402,Crime prevention,2024-07-09
+0ebf3b9dc8ec1b1cfcbe49cafd43f0f0,230403,Criminal justice,2024-07-09
+3dcb8843d89f30a002c48347a1f8e945,230404,Law enforcement,2024-07-09
+50857506949af00fa31f7b2ef2a562b2,230405,Law reform,2024-07-09
+95694af9eafa8ad5fa1c647daea81f23,230406,Legal processes,2024-07-09
+7e9120f04e367b3f344391e95e537089,230407,"Legislation, civil and criminal codes",2024-07-09
+b447ebd7f8c5eda50913d7cdf06fe906,230408,Rehabilitation and correctional services,2024-07-09
+15d1bba49f80936afb5f17f25b58cfd3,230499,Justice and the law not elsewhere classified,2024-07-09
+16db6c6bd43468dd832f09126a408cc7,230501,Employment patterns and change,2024-07-09
+cf888919a9ff0dd28303573bf0b1f287,230502,Professions and professionalisation,2024-07-09
+d0c408674288f0313e0d343ca99276bd,230503,Remuneration,2024-07-09
+7489c8c73a46865cf9cc2827e87f89c5,230504,Unpaid work and volunteering,2024-07-09
+bb6e3aa6f8a7827bb698288976c0a519,230505,Work and family responsibilities,2024-07-09
+c7427f3db7b527d6335397baca2ad7bf,230506,Workplace safety,2024-07-09
+1b08eba35ef7ffbf2ffd97c9aae7f5b2,230599,Work and labour market not elsewhere classified,2024-07-09
+f799172ec32d09cf25c41cc4b3a93bdf,239999,"Other law, politics and community services not elsewhere classified",2024-07-09
+6e339389e61253e68666c65e0d533801,240101,Animal protection chemicals,2024-07-09
+725820cb1f8659b920ed34203afbc160,240102,Chemical fertilisers,2024-07-09
+565e1c252a7e174f33e530a4d94c85c2,240103,Crop and pasture protection chemicals,2024-07-09
+b1f04c4697ca32ce7f647e6dab285ad3,240199,Agricultural chemicals not elsewhere classified,2024-07-09
+ac3a5d655b2ddfb54e97991fc12644a0,240201,Basic aluminium products,2024-07-09
+0713a96552cdf848c996b96cd5cf4987,240202,Basic copper products,2024-07-09
+eeb499ec5fe1c0081cf559c177f58f3f,240203,Basic iron and steel products,2024-07-09
+9623c1ec054a60139d3cc315f3d121cd,240204,Basic precious metal products,2024-07-09
+a013b6e02910f6b0b66954b9e6a48cdf,240205,Basic zinc products,2024-07-09
+0aa46c9c506886b800aeb37748a79086,240299,Basic metal products not elsewhere classified,2024-07-09
+8d823107906fc08b5b8f49a678e5a46c,240301,Cement products and concrete materials,2024-07-09
+dada867560ba38be9dd52cbc6e16d6b1,240302,Ceramics,2024-07-09
+1b9da19779da2e72e4215e77f0e7e441,240303,Clay products,2024-07-09
+2786def425be4d60a479aa5c269832d0,240304,Composite materials,2024-07-09
+6e91588963968720f3648beed8a22b46,240305,Plaster and plaster products,2024-07-09
+343464f4258dfab03bfeb83cb702bebb,240306,Structural glass and glass products,2024-07-09
+cdea0bd6dcab658f5a89b0d5924969cb,240399,"Ceramics, glass and industrial mineral products not elsewhere classified",2024-07-09
+65672678b3d97ac9b9315f514e98b9c6,240401,Computer and electronic office equipment (excl. communication equipment),2024-07-09
+9698930fa454b5cd21946b255f9ea9ea,240402,Consumer electronic equipment (excl. communication equipment),2024-07-09
+ca2179beb7525ab77c0d9fe20501a132,240403,Integrated circuits and devices,2024-07-09
+9a24937e1902bfa44093630ae8425592,240404,Integrated systems,2024-07-09
+8a631a521a1cf1aa34feb5c36a5aec88,240405,Network infrastructure equipment,2024-07-09
+626f0b48040b2e1a023e37a042394bb9,240406,Processor modules,2024-07-09
+39b1bfe2ba1dbafdb8769baa36b61f6b,240407,Robotics,2024-07-09
+48d48697ce7f2320b291e181d5e6c62b,240408,Satellite navigation equipment,2024-07-09
+49150a36c5cebfc738536a5fb1d820b5,240409,Telemetry equipment,2024-07-09
+66df454f136956c801fb07d8cd9c6f13,240410,Voice and data equipment,2024-07-09
+f86574688ca55db16e44c9f8bba25ff1,240499,"Computer, electronic and communication equipment not elsewhere classified",2024-07-09
+82266644483c41f453de682b9c0c9c81,240501,Butter and milk-derived fats and oils (excl. cream),2024-07-09
+e31e350c2cfaeea8cb3bc1d29082d75f,240502,Casein,2024-07-09
+e002ba8d318869d843ffa38dd9dae70b,240503,Cheese,2024-07-09
+9b86c58e2f318f8c327e45e4ab409943,240504,"Processed milk and cream (incl. powder, evaporated and condensed)",2024-07-09
+abe4ff7ccaeeae26d22aa79dd1452be5,240505,Whey,2024-07-09
+183d6dd01bccd1fa96e09d6bca3d61ea,240599,Dairy products not elsewhere classified,2024-07-09
+c8f4525e6ac3485141c55aaf798de92d,240601,"Development of recyclable or biodegradable componentry, packaging or materials",2024-07-09
+f9fdc4a5bb1b9a23ca0f9417c517ed3b,240602,Management of gaseous waste from manufacturing activities (excl. greenhouse gases),2024-07-09
+d84be11f4bc8366daa6a2b3a29c3f2a8,240603,Management of liquid waste from manufacturing activities (excl. water),2024-07-09
+b2b487862a5ae7939e00b9ca9c75b034,240604,Management of solid waste from manufacturing activities,2024-07-09
+be7712274ca785f4c41aa0eab4ffe09a,240605,Management of water consumption by manufacturing activities,2024-07-09
+d65f1026fc811f8d88deb3ba3a179795,240699,Environmentally sustainable manufacturing activities not elsewhere classified,2024-07-09
+783e9cbf9f1beb79a6b7847532ecd4cb,240701,Coated metal and metal-coated products,2024-07-09
+f6617585daa7d15e74e246d5eb4fc50b,240702,Machined metal products,2024-07-09
+ad7828c4b637b29c16a4efb514907cb4,240703,Metal castings,2024-07-09
+93e36f8f2291ffe6ab13cc7d3dda0393,240704,Semi-finished metal products,2024-07-09
+3cc317b75d462edb732b6ebcfba309f3,240705,Sheet metal products,2024-07-09
+0f35b3151769db9b184ade7ee5eed39c,240706,Structural metal products,2024-07-09
+2c3485f27b3b0d5d138546ad112483d2,240799,Fabricated metal products not elsewhere classified,2024-07-09
+616daf35bc673e3ce7db7b314adf906f,240801,Human biological preventatives,2024-07-09
+7aabf8f78b0421eacd3594f0c15494b3,240802,Human diagnostics,2024-07-09
+0a24186732328d9ee39b2999a7c7b6fe,240803,Human pharmaceutical treatments,2024-07-09
+6114b85833e313279acff1f0fb7a9e2b,240899,Human pharmaceutical products not elsewhere classified,2024-07-09
+f5f171d6bd7a8fd04de640ac7758fec5,240901,"Antimicrobials, antifungals and biocides",2024-07-09
+f72ab7ec1016941d7cc813b52b64cf57,240902,Bioplastics,2024-07-09
+dfd507d499a63a9e0479f0fad637b962,240903,Cosmetics,2024-07-09
+948f65d026ea0d86f4ef50b66176e9be,240904,Fine chemicals,2024-07-09
+132b2af25f97a32ee172dd1d0d3e6099,240905,Industrial gases,2024-07-09
+a500a010f86974b9980dbd8e58c8baeb,240906,Inorganic industrial chemicals,2024-07-09
+dfd87456647c438e4549147c95f54a1d,240907,Lubricants,2024-07-09
+1e90c4830ca17f168c432e91cc0006ff,240908,"Organic industrial chemicals (excl. resins, rubber and plastics)",2024-07-09
+3dd264781c103bb80c52a7b135fe05be,240909,Paints,2024-07-09
+f4f4854aa8dee03bb0cfc3526554e1c1,240910,Plastics,2024-07-09
+597b6e1d36123cd969268756683a9f72,240911,Resins,2024-07-09
+18f533045fc42bf0a9ee5bd1071bc23a,240912,Rubber,2024-07-09
+ea3d4d69d0d3b6878789a32fc472eedc,240913,Soaps,2024-07-09
+55a64eccbceb66b7e1ce5e6f142ea12a,240999,Industrial chemicals and related products not elsewhere classified,2024-07-09
+641497844d85cd76388bca1f14125055,241001,Industrial instruments,2024-07-09
+8f1923fbdc9315b4d558f28a18c33567,241002,Medical instruments,2024-07-09
+59e10bc3178461c76a34c56cabb12355,241003,Scientific instruments,2024-07-09
+cd90815acf09839158fbef2e00238d89,241099,Instrumentation not elsewhere classified,2024-07-09
+419e9bc2c90d694d91187e3daca27f50,241101,Clothing,2024-07-09
+c2961f3d3ee1b4e83c4164639e96a23e,241102,Cotton ginning,2024-07-09
+76ca953f369762cf49d8e64f0886aef8,241103,"Natural fibres, yarns and fabrics",2024-07-09
+39b576e5e5aa93b9a188928f3ae38fe6,241104,Non-fabric textiles (e.g. felt),2024-07-09
+2d978b36041c421f24dafd7f1be4acc5,241105,"Skins, leather and leather products",2024-07-09
+9145ad816b66af96101d3b8547e8aa30,241106,"Synthetic fibres, yarns and fabrics",2024-07-09
+42406e90e2a01dcf02357b1ca6f928a8,241107,Wool scouring and top making,2024-07-09
+b86877c22fac48e15bcb1d7da298d495,241199,"Leather products, fibre processing and textiles not elsewhere classified",2024-07-09
+e42c10290a0efc09fa8e2ef3d7c1fc7d,241201,3D printers and printing,2024-07-09
+49635b3edde83748d3390cbd2be28f62,241202,Autonomous and robotic systems,2024-07-09
+375f7bb44449cdf73083a32688d1b854,241203,Electrical machinery and equipment (incl. appliances),2024-07-09
+665639fbd85a90f0e0eb727d9fb4b256,241204,Industrial machinery and equipment,2024-07-09
+5a1dc75c6cabc3368b88610210d8486f,241205,Medical machinery and equipment,2024-07-09
+4c5191da1b50de4b049873e431c2afb9,241299,Machinery and equipment not elsewhere classified,2024-07-09
+e082c82de6fc7ee74b6f35a65ace2ae1,241301,Alcoholic beverages,2024-07-09
+39677a6b75669db39e71e2e13692ab2c,241302,Bakery products,2024-07-09
+54a6456a4a0c459b1fa346d3882e90d4,241303,Carcass meat (incl. fish and seafood),2024-07-09
+556e37f121fa6c9c9e336ee5a6b12805,241304,Flour mill and cereal food,2024-07-09
+d16a381f72c0b8569bdb7fd34754bc48,241305,Insects,2024-07-09
+4358b7f1f298030cf5508db3fb3389ba,241306,Non-alcoholic beverages (excl. fruit juices and non-dairy milk),2024-07-09
+fd9018d67b1f6989b3d539e2bdd058e2,241307,Non-dairy milk,2024-07-09
+03fbbb8888ada210eac22f9db8392eff,241308,Nutraceuticals and functional foods,2024-07-09
+cf3da586a3ad8edf9c8b519aca3f50c0,241309,Oils and fats (incl. margarines),2024-07-09
+aff9072c5540b9650bb03ad0a3f3ae2b,241310,Processed fish and seafood products,2024-07-09
+7e597b2b6ad68b6b90859762e6441302,241311,Processed fruit and vegetable products (incl. juices),2024-07-09
+8f0e12aa115a21ee035faa9efe70e6a3,241312,Processed meat products,2024-07-09
+99a0d3a065080236ba7a3412933be816,241313,"Sugar, sweeteners and confectionery products",2024-07-09
+95849d57fe05d21edb891239a02fd429,241399,Processed food products and beverages (excl. dairy products) not elsewhere classified,2024-07-09
+ff685fd7f73caf57201252968a5b6423,241401,Essential oils,2024-07-09
+766a8b8146fddfd1b5ce17f6e5800ad4,241402,Organic fertilisers,2024-07-09
+7d087adb2884b511a06d3268013c7282,241403,Plant extracts,2024-07-09
+6ce275084d9f4dbdf3ed47f582f4edf6,241404,Prepared animal feed,2024-07-09
+8fd5192d14dbf5400da5d64f47983010,241499,"Processed non-food agricultural products (excl. wood, paper and fibre) not elsewhere classified",2024-07-09
+440db60529c932b2ad32801a88c28876,241501,Aerospace equipment,2024-07-09
+d10af2d1bb6d9c2d46228911c1bddc2f,241502,Automotive equipment,2024-07-09
+791946eb8a6cc9711e7049f9fcd3faad,241503,Nautical equipment,2024-07-09
+e16ee1f498bc2abb8bdd65b179578bcd,241504,Rail equipment,2024-07-09
+96e411198e505782da18183e776110ef,241599,Transport equipment not elsewhere classified,2024-07-09
+a45b198a6259802fc65ecd1b71758d0a,241601,Veterinary biological preventatives,2024-07-09
+b4739b67dc4893c1781ad8993c1a07f6,241602,Veterinary diagnostics,2024-07-09
+904bc8da9e3c6ab25d51e418c0b24e56,241603,Veterinary pharmaceutical treatments,2024-07-09
+f728cf48ea24539b854ac89225fa5d6b,241699,Veterinary pharmaceutical products not elsewhere classified,2024-07-09
+de3e811c0f687ee2913f22d06d85b1f4,241701,Paper products and pulp,2024-07-09
+51deb51779d69d0947428ce7f65de264,241702,Printing and publishing processes,2024-07-09
+9dbde1eb23f5ed28c972863e7ec0e492,241703,Reconstituted timber products,2024-07-09
+0d0b161f405d1e6666cbdfd7921e1505,241704,Wood products,2024-07-09
+ca50f4ad9407ad1c04931150a6c10f3c,241705,Wood sawing and veneer,2024-07-09
+bd7ecaede831d9dd72d2b2b67ed7b03c,241799,"Wood, wood products and paper not elsewhere classified",2024-07-09
+bd99bdf104cec85901a27b3adbc8a1ee,249999,Other manufacturing not elsewhere classified,2024-07-09
+f70ffb828079453ed566abefc83138ff,250101,Management of gaseous waste from mineral resource activities (excl. greenhouse gases),2024-07-09
+0d56012260dcbf4f365d585e3e7b4947,250102,Management of liquid waste from mineral resource activities (excl. water),2024-07-09
+0f741cad145cb26ecb0105b3525e1ecf,250103,Management of solid waste from mineral resource activities,2024-07-09
+e58358a62f31e502f8d3eb2c53efe841,250104,Management of water consumption by mineral resource activities,2024-07-09
+4421c892979622bc63605f1e870fa19c,250199,Environmentally sustainable mineral resource activities not elsewhere classified,2024-07-09
+55844d127aecdccc4b43cbc130cc2dcd,250201,Alumina production,2024-07-09
+146de403616376c681d90c65bef9abbd,250202,Beneficiation of bauxite and aluminium ores (excl. alumina production),2024-07-09
+23ad21f9b0f39f36f69f178451dd73df,250203,Beneficiation or dressing of iron ores,2024-07-09
+5b157e4a094ec745e634b21cae5981ce,250204,Beneficiation or dressing of non-metallic minerals (incl. diamonds),2024-07-09
+ea35ecb10a874c19787c8c73942f7ad5,250205,Concentrating processes of base metal ores (excl. aluminium and iron ores),2024-07-09
+344f0a9ced0c0956361a59b29b66d6f2,250206,Production of unrefined precious metal ingots and concentrates,2024-07-09
+50bf648ead5c46ffa5f38437918b5e4a,250299,First stage treatment of minerals not elsewhere classified,2024-07-09
+91534231d73afa8f5765e15d83711a52,250301,Aluminium ore exploration,2024-07-09
+469b0c89135a359fc5729312490bfa08,250302,Copper ore exploration,2024-07-09
+063700addabc04bce66265049ccf22f9,250303,Diamond exploration,2024-07-09
+6cb512e2d84a35e260334d2cbd810044,250304,Iron ore exploration,2024-07-09
+df65050513e9fd3937592afbfd81f0fd,250305,Precious (noble) metal ore exploration,2024-07-09
+7bd0c4485665ccf8fca611166f504943,250306,Stone and clay exploration,2024-07-09
+5b36a8ae59566a8bc49b4dd4366c9a64,250307,"Titanium minerals, zircon, and rare earth metal ore (e.g. monazite) exploration",2024-07-09
+ed3f01f9f56b982a896c2f757cebefe6,250308,Zinc ore exploration,2024-07-09
+276cbdbcf23d4c8f43496871fd5ad2f3,250399,Mineral exploration not elsewhere classified,2024-07-09
+acf8cbff68d6d564ea92eab6ce07cfaf,250401,Mining and extraction of aluminium ores,2024-07-09
+47acda3afa7da231761f833a8925e02d,250402,Mining and extraction of copper ores,2024-07-09
+e0ba91ab1305331f9123e0bf1a628b2e,250403,Mining and extraction of diamonds,2024-07-09
+800dab0f4c438040007c51aee9e21069,250404,Mining and extraction of iron ores,2024-07-09
+d8ed3f9f1f911fcdd512052395f6e5ae,250405,Mining and extraction of precious (noble) metal ores,2024-07-09
+e41b1dc1fd61bfcd104758facabe9c32,250406,Mining and extraction of stone and clay,2024-07-09
+0019e7cc4591a4a26ed4edf8a6f8899c,250407,"Mining and extraction of titanium minerals, zircon, and rare earth metal ores (e.g. monazite)",2024-07-09
+d4116e6a8be2a2eaf28e81316233165d,250408,Mining and extraction of zinc ores,2024-07-09
+b887b1a23fa9c61d92ca908dcca5efa2,250499,Primary mining and extraction of minerals not elsewhere classified,2024-07-09
+d79fdc36bb99a91f1c5c7d8eafacba9f,259999,Other mineral resources (excl. energy resources) not elsewhere classified,2024-07-09
+1960e94e5d938298a841e9cee0a00ea9,260101,Management of gaseous waste from plant production (excl. greenhouse gases),2024-07-09
+267ccdcccad39d9fdb620f0b748db137,260102,Management of liquid waste from plant production (excl. water),2024-07-09
+dd29348037a82d27ed31a70d13fe3adb,260103,Management of solid waste from plant production,2024-07-09
+759c3e8a61c045bfac8fdbe48f3599de,260104,Management of water consumption by plant production,2024-07-09
+7053ed3807d8314d2514b38436137098,260199,Environmentally sustainable plant production not elsewhere classified,2024-07-09
+53e54ff8f6aa2f7ee05dc358cc8b705d,260201,Hardwood plantations,2024-07-09
+0371d5235b38d4f745fb3ba33ad2253f,260202,Harvesting and transport of forest products,2024-07-09
+58af60a0a628faa9e76c9ff7f1d92f83,260203,Integration of farm and forestry,2024-07-09
+e804826bd4e6539005127137366570f3,260204,Native forests,2024-07-09
+748d0333406d7daae4332d0a9f29c439,260205,Softwood plantations,2024-07-09
+6f02a9be6e58a1baa76155ed2084dc66,260299,Forestry not elsewhere classified,2024-07-09
+c5181d14128935f97e3b17f5df76725c,260301,Barley,2024-07-09
+2f54cf5e355279109d7683a1cef118a5,260302,Canola,2024-07-09
+bc198783f5b5168478b29e02232a1962,260303,Grain legumes,2024-07-09
+9d025fd630aa7562d216c71ab08ef672,260304,Linseed,2024-07-09
+e8738e257b1ecba62b3d4bdca997a187,260305,Lupins,2024-07-09
+9b786525bff167208752c82aa59a12a9,260306,Maize,2024-07-09
+24c73c653c8475147682d2a9097f2b3c,260307,Oats,2024-07-09
+8931eaf766cc8cc3605ddf7e946265e1,260308,Rice,2024-07-09
+3c2aae3dbba15c9c3715493538de1a05,260309,Safflower seed,2024-07-09
+107e9fe3fbb0a76e1556b7e611753aff,260310,Sorghum,2024-07-09
+a05e943dadef571c06f58e5492c5eb25,260311,Soybeans,2024-07-09
+6e49385d2c72496385dde87fe5671fa0,260312,Wheat,2024-07-09
+e41e7e1830ce9606e49e41424fd295a4,260399,Grains and seeds not elsewhere classified,2024-07-09
+38ac55158d53c979e89a30be46d77eae,260401,Cotton lint and cotton seed,2024-07-09
+3eda6ffdea9b7dcd3a34e76fdd0d7293,260402,Fresh fruits and vegetables (post harvest),2024-07-09
+f71a783d4e70e2dfbcd0c761cddaa20b,260403,Sugar cane (cut for crushing),2024-07-09
+454c179aa016cd1dc69d9f13b7e2de14,260404,Unprocessed grains,2024-07-09
+84414ea24d0180690fc694306d0538df,260405,Unprocessed industrial crops (excl. sugar and cotton),2024-07-09
+8a567704e637a3472f43ba2c723f3c4a,260406,Unprocessed seeds,2024-07-09
+14abcd2fc26cd9393a68afbf19ae549b,260499,Harvesting and packaging of plant products not elsewhere classified,2024-07-09
+94e8e64cdefe77dcc168855c54f14acd,260501,Almonds,2024-07-09
+a1e004811d511fa7c289faeb397a6aee,260502,Avocado,2024-07-09
+1d103d3f63a947efb8b6c8b0b6acaa73,260503,Berry fruit (excl. kiwifruit),2024-07-09
+bb51211ca179efa63753fafd31b3f176,260504,Citrus fruit,2024-07-09
+21da51bfbefc740a8e3db9e3714580df,260505,Field grown vegetable crops,2024-07-09
+995633e2f0ded3d141a729b25fd01b52,260506,Kiwifruit,2024-07-09
+6e3914322d2328bd11f43c0c240f2b14,260507,Macadamias,2024-07-09
+b36ba1a57051622c1136c3b72d515215,260508,Mushrooms and truffles,2024-07-09
+2014ec8e454ad0f212451fbfc8d66046,260509,Olives,2024-07-09
+4acad5c641d377a23b978f43187666fa,260510,"Ornamentals, natives, flowers and nursery plants",2024-07-09
+abddbe85b18ef5b046904933d4ccd567,260511,"Pome fruit, pip fruit",2024-07-09
+d0b969cb8d1ce783bed0737ebccceed5,260512,Protected vegetable crops,2024-07-09
+5074ad63b7b6f05e8ce097c5b2a9d20d,260513,Stone fruit (excl. avocado),2024-07-09
+de0b088b5af4525d39cb9136887f95d9,260514,Table grapes,2024-07-09
+0a904525e968bae274572e95ca198109,260515,Tree nuts (excl. almonds and macadamias),2024-07-09
+f46253bc76b8278facfa3869b932735f,260516,Tropical fruit,2024-07-09
+8b9610917f8f9e233ec4603116c294b2,260599,Horticultural crops not elsewhere classified,2024-07-09
+35f784155b7f48eaae60238453ebf0cf,260601,Cannabis,2024-07-09
+9b618a725979a0c24b1966a03c9f8924,260602,Cotton,2024-07-09
+6ca78a4444c2812e082fbcaa10a56a04,260603,Essential oil crops,2024-07-09
+376c469516641bf9349c35904ee140dc,260604,Hemp,2024-07-09
+79d4e0e20d5e54553ba6646804367f46,260605,Hops,2024-07-09
+a738e06f3e65a1684a08098c9e8703ca,260606,Plant extract crops,2024-07-09
+f9b75f83fa9fc0f0b71c317959501846,260607,Sugar,2024-07-09
+dce553d0113f10cc490495541d5452fe,260608,Wine grapes,2024-07-09
+fc26eb9c88e295c9bbfb2b077fcafa52,260699,Industrial crops not elsewhere classified,2024-07-09
+e0012674dc165ab7736ae63016348136,269901,Climate adaptive plants,2024-07-09
+e383f34582c95bc294c89490cd6666ba,269902,Forest product traceability and quality assurance,2024-07-09
+968b446f2ff6442b988b2a65204ea169,269903,Plant product traceability and quality assurance (excl. forest products),2024-07-09
+45b5633c35f5e1b3ef98e57620230a80,269999,Other plant production and plant primary products not elsewhere classified,2024-07-09
+b09aaa6cc12c35bf4b00675f4c79a69a,270101,Air freight,2024-07-09
+62a357715cf778f532af02b2ab5ffbb5,270102,Air passenger transport,2024-07-09
+a54319bbc4c79cc1be1829ba82d7af20,270103,Air safety and traffic management,2024-07-09
+40fb47832d6c984d93b9c640a9343419,270104,Air terminal infrastructure and management,2024-07-09
+27b792faa92553ef3d4fc80946d3019f,270105,Autonomous air vehicles,2024-07-09
+c71db7a1ffe37bc93a0dd39093272057,270106,Space transport,2024-07-09
+f03ffcacb777a006b6e4ca8d34b528f4,270199,Aerospace transport not elsewhere classified,2024-07-09
+b4cfcd8f32ebf0cd27efcc0a4ad72d6c,270201,Management of gaseous waste from transport activities (excl. greenhouse gases),2024-07-09
+8ef17466868d9e29b21c4140f0205113,270202,Management of liquid waste from transport activities (excl. water),2024-07-09
+6ab0c9e1ccd5369c951533f360c07c82,270203,Management of noise and vibration from transport activities,2024-07-09
+cf12e8e0c0e8b84c7a7b51bdf889160a,270204,Management of solid waste from transport activities,2024-07-09
+86f69250cc4aceacb5e7a6e65db3768a,270205,Management of water consumption by transport activities,2024-07-09
+e4a7677074e4e5d2e13e49f375624880,270299,Environmentally sustainable transport activities not elsewhere classified,2024-07-09
+867a52dbb8f8eadad99d1f46a463087a,270301,Active ground transport,2024-07-09
+3b6b8beb94d648b9467ab282c06c61eb,270302,Autonomous road vehicles,2024-07-09
+593626c8e208bd6aa43fffcf8c05b40f,270303,Heavy rail infrastructure and networks,2024-07-09
+ea5e34310c424b1483823b4e1da3aa85,270304,Rail freight,2024-07-09
+01424a2df1eb3cda2e19fc2d62fb7fc2,270305,Rail passenger movements,2024-07-09
+3a0a749c12f8879be58bf7dc9896fbf4,270306,Rail safety,2024-07-09
+d961a74dfd36a7f94a1d9fefcaf7cb90,270307,Road freight,2024-07-09
+cdddda5f51cad2a3f2de5d8cc0f01762,270308,Road infrastructure and networks,2024-07-09
+0adca75877497f1ea978a22eac31356c,270309,Road passenger movements (excl. public transport),2024-07-09
+4c7fa69fcd7e19bb58fa3030586d5958,270310,Road public transport,2024-07-09
+b4fdd0af39befe75ca5788200b0cacee,270311,Road safety,2024-07-09
+005c6ad4558c0b6ddc91ac49bf4fc94d,270312,Urban rail infrastructure and networks (incl. light and metro rail),2024-07-09
+29305444dbc99ed4fe1e2418c5421983,270399,Ground transport not elsewhere classified,2024-07-09
+c7eafdea940463f213124c194c99ff76,270401,Autonomous water vehicles,2024-07-09
+a56cbc3f2ca4880f4b353acda019dcac,270402,Coastal sea freight transport,2024-07-09
+47d3095f0141138f08af96533cd0aaf9,270403,Domestic passenger water transport (e.g. ferries),2024-07-09
+346bf307c2d5ef3d13af943f2da0bb44,270404,International passenger water transport (e.g. passenger ships),2024-07-09
+8e0cfe3a334c8c3a755fac31fbe7b83a,270405,"International sea freight transport (excl. live animals, food products and liquefied gas)",2024-07-09
+0497dcfc4c89f9bbf6ca54bcdaf21de4,270406,International sea transport of food products,2024-07-09
+be527e944a7f140a0288cad9ac818fc5,270407,International sea transport of liquefied gas,2024-07-09
+36429ade097c3968e198387e97cfa758,270408,International sea transport of live animals,2024-07-09
+c66719311050be971a74d0b8689cfefe,270409,Port infrastructure and management,2024-07-09
+d71102a648b591f348d333df014ee58f,270410,Water safety,2024-07-09
+16f2c936e686aa7d411d9c4f1ea23885,270499,Water transport not elsewhere classified,2024-07-09
+ac3c1a2e94ccfb3cf2cd5d52eb256c1f,279901,Intermodal materials handling,2024-07-09
+a5f5893df1a7d0648f6cee3e66034dc5,279902,Multimodal transport,2024-07-09
+187e9c46c295a77169d9aacd49dc3ce6,279903,Pipeline transport,2024-07-09
+af33a01e1e3a47774c02516ced938f3e,279904,Postal and package services (incl. courier services),2024-07-09
+23429e5447347367f701f18ed8259795,279999,Other transport not elsewhere classified,2024-07-09
+29a90297dcc11ab043a1ffb971246c08,280101,"Expanding knowledge in the agricultural, food and veterinary sciences",2024-07-09
+b208063003f8304e61d246c7acbf975a,280102,Expanding knowledge in the biological sciences,2024-07-09
+58bee1fb0540c95dda79af4c01adf5ef,280103,Expanding knowledge in the biomedical and clinical sciences,2024-07-09
+a0bac146ef3b0bea8f20093eb6d38be9,280104,Expanding knowledge in built environment and design,2024-07-09
+b95b65a5bc440b100847d04ff55129ca,280105,Expanding knowledge in the chemical sciences,2024-07-09
+4cacdfea331ffdfe6a31950c492410c9,280106,"Expanding knowledge in commerce, management, tourism and services",2024-07-09
+a990fbe2199e0df3441ee190ed604d00,280107,Expanding knowledge in the earth sciences,2024-07-09
+6a82d10575138f74a9c0292290b85b07,280108,Expanding knowledge in economics,2024-07-09
+6e8fd8681bdb6e75a79dfde0bf24ea76,280109,Expanding knowledge in education,2024-07-09
+166b5b2a73a9b7b60ed8154ffd77625e,280110,Expanding knowledge in engineering,2024-07-09
+c1c7e0a8147cf939e32f3a8405716e18,280111,Expanding knowledge in the environmental sciences,2024-07-09
+e7a909c22b43cce085fe15901d526de9,280112,Expanding knowledge in the health sciences,2024-07-09
+8e5f382d584cb588b99b2fed10ba74d2,280113,"Expanding knowledge in history, heritage and archaeology",2024-07-09
+76dcaa023162fdb1acca24b28bc54882,280114,Expanding knowledge in Indigenous studies,2024-07-09
+9ed479b589efb9b0d564338346330c84,280115,Expanding knowledge in the information and computing sciences,2024-07-09
+521a2a5aa10674e20cafcef5e9bafe85,280116,"Expanding knowledge in language, communication and culture",2024-07-09
+f7a6234384e17fc37cfc8216ef4cb5c9,280117,Expanding knowledge in law and legal studies,2024-07-09
+75b0906537484375ddcea744b78d4a9d,280118,Expanding knowledge in the mathematical sciences,2024-07-09
+2395a26cc21d226e7b5de7feb13c1b26,280119,Expanding knowledge in philosophy and religious studies,2024-07-09
+e6c4fb553f6728a828fb31d2865d8fa1,280120,Expanding knowledge in the physical sciences,2024-07-09
+b98e83302708d3ad23b438110f8999b1,280121,Expanding knowledge in psychology,2024-07-09
+5bd828710410eec1b575171a7309e6c7,280122,Expanding knowledge in creative arts and writing studies,2024-07-09
+f9caf92d2a889479ae79e3f7e2065ef0,280123,Expanding knowledge in human society,2024-07-09
