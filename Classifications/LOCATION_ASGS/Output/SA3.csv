@@ -1,359 +1,359 @@
-key,SA3_CODE_2016,SA3_NAME_2016,SA4_CODE_2016,SA4_NAME_2016,GCCSA_CODE_2016,GCCSA_NAME_2016,STATE_CODE_2016,STATE_NAME_2016
-64ce463c6856e0e3867dea50033e8a29,19999,No usual address (NSW),199,No usual address (NSW),19499,No usual address (NSW),1,New South Wales
-25d9e7c1134b5a3744cd1dea4072d6a2,10901,Albury,109,Murray,1RNSW,Rest of NSW,1,New South Wales
-64254db8396e404d9223914a0bd355d2,11001,Armidale,110,New England and North West,1RNSW,Rest of NSW,1,New South Wales
-de9d96171258bf940fc7b77c09b1cde4,10802,Kempsey - Nambucca,108,Mid North Coast,1RNSW,Rest of NSW,1,New South Wales
-d2a9aaedbe3616c7be11e07856c29e2a,12003,Strathfield - Burwood - Ashfield,120,Sydney - Inner West,1GSYD,Greater Sydney,1,New South Wales
-61a10e6abb1149ad9d08f303267f9bc4,10304,Orange,103,Central West,1RNSW,Rest of NSW,1,New South Wales
-7fb89619c7a1215bebdd9f53c27fe39e,12501,Auburn,125,Sydney - Parramatta,1GSYD,Greater Sydney,1,New South Wales
-dc1d3cb9517bda57aacd65f5b1986c6e,11201,Richmond Valley - Coastal,112,Richmond - Tweed,1RNSW,Rest of NSW,1,New South Wales
-fe998b49c41c4208c968bce204fa1cbb,11202,Richmond Valley - Hinterland,112,Richmond - Tweed,1RNSW,Rest of NSW,1,New South Wales
-2ffe95614e083e7091c76b4c1e0c4f88,10902,Lower Murray,109,Murray,1RNSW,Rest of NSW,1,New South Wales
-c728615c8a166f73ec481b345cac1e84,12102,Hornsby,121,Sydney - North Sydney and Hornsby,1GSYD,Greater Sydney,1,New South Wales
-108f6a48835ed848b3ec66c2d0afd568,11901,Bankstown,119,Sydney - Inner South West,1GSYD,Greater Sydney,1,New South Wales
-63f35343d6f9681cad0598452a17f0df,11902,Canterbury,119,Sydney - Inner South West,1GSYD,Greater Sydney,1,New South Wales
-4cd31d31e16ac873f5f421d5880e88d6,10804,Port Macquarie,108,Mid North Coast,1RNSW,Rest of NSW,1,New South Wales
-d70538d0bcd4bacb90ae29025815166f,12503,Merrylands - Guildford,125,Sydney - Parramatta,1GSYD,Greater Sydney,1,New South Wales
-b1f130b49d0fcfa2348098ee4467452f,10301,Bathurst,103,Central West,1RNSW,Rest of NSW,1,New South Wales
-d78bded526b07ede88675c6412d63f3d,10303,Lithgow - Mudgee,103,Central West,1RNSW,Rest of NSW,1,New South Wales
-0374aee111fb3142383abdfc77c28285,11501,Baulkham Hills,115,Sydney - Baulkham Hills and Hawkesbury,1GSYD,Greater Sydney,1,New South Wales
-0bf31d0d702fcac8c8e07912f3347c31,11601,Blacktown,116,Sydney - Blacktown,1GSYD,Greater Sydney,1,New South Wales
-84281e5e3728a8f8d1d8f85895895442,12504,Parramatta,125,Sydney - Parramatta,1GSYD,Greater Sydney,1,New South Wales
-0fc780bb04e74ce5ed154d2e49cfe2fd,11504,Rouse Hill - McGraths Hill,115,Sydney - Baulkham Hills and Hawkesbury,1GSYD,Greater Sydney,1,New South Wales
-ee8dca136b55720526e1fbe2981520c1,11502,Dural - Wisemans Ferry,115,Sydney - Baulkham Hills and Hawkesbury,1GSYD,Greater Sydney,1,New South Wales
-b1501a9528a292585b7e90e8708143f1,12502,Carlingford,125,Sydney - Parramatta,1GSYD,Greater Sydney,1,New South Wales
-abf0931987f2f8eb7a8d26f2c21fe172,10104,South Coast,101,Capital Region,1RNSW,Rest of NSW,1,New South Wales
-f53eb4122d5e2ce81a12093f8f9ce922,10103,Snowy Mountains,101,Capital Region,1RNSW,Rest of NSW,1,New South Wales
-f9d3a954de63277730a1c66d8b38dee3,10402,Coffs Harbour,104,Coffs Harbour - Grafton,1RNSW,Rest of NSW,1,New South Wales
-b4337d69a5afc0c2ff74d7c95065edf3,10903,Upper Murray exc. Albury,109,Murray,1RNSW,Rest of NSW,1,New South Wales
-38b4f06e27fd4f6fdcceabc6f5c068ea,11603,Mount Druitt,116,Sydney - Blacktown,1GSYD,Greater Sydney,1,New South Wales
-6412fe12d3b2f5591d7cc7f6121a8a01,11602,Blacktown - North,116,Sydney - Blacktown,1GSYD,Greater Sydney,1,New South Wales
-dacb283d1182b49af03528f6f02eccd7,10704,Wollongong,107,Illawarra,1RNSW,Rest of NSW,1,New South Wales
-33f2481179ad598a2b87005cec4b6830,10701,Dapto - Port Kembla,107,Illawarra,1RNSW,Rest of NSW,1,New South Wales
-b578f2a52a0229873fefc2a4b06377fa,10302,Lachlan Valley,103,Central West,1RNSW,Rest of NSW,1,New South Wales
-b983273d87ce44aec57595123cee4c62,11301,Griffith - Murrumbidgee (West),113,Riverina,1RNSW,Rest of NSW,1,New South Wales
-6aaa65bb3591df310b36d6318d6f4e0f,12401,Blue Mountains,124,Sydney - Outer West and Blue Mountains,1GSYD,Greater Sydney,1,New South Wales
-74a338894d9bedbc6ddf6746befe1245,11503,Hawkesbury,115,Sydney - Baulkham Hills and Hawkesbury,1GSYD,Greater Sydney,1,New South Wales
-8e5a808681a0070beaf455c2cabb782b,12402,Blue Mountains - South,124,Sydney - Outer West and Blue Mountains,1GSYD,Greater Sydney,1,New South Wales
-08fa43588c2571ade19bc0fa5936e028,10501,Bourke - Cobar - Coonamble,105,Far West and Orana,1RNSW,Rest of NSW,1,New South Wales
-74105d373a71b517ed650caabb9c2cb8,10106,Young - Yass,101,Capital Region,1RNSW,Rest of NSW,1,New South Wales
-80ca4ee101d7cf153771824cc0b00098,11701,Botany,117,Sydney - City and Inner South,1GSYD,Greater Sydney,1,New South Wales
-a7da6ba0505a41b98bd85907244c4c30,10502,Broken Hill and Far West,105,Far West and Orana,1RNSW,Rest of NSW,1,New South Wales
-186b690e29892f137b4c34cfa40a3a4d,10503,Dubbo,105,Far West and Orana,1RNSW,Rest of NSW,1,New South Wales
-1b08a97dde5acb38d5f12178452125eb,12301,Camden,123,Sydney - Outer South West,1GSYD,Greater Sydney,1,New South Wales
-8fc81fd7630f52aca6381ff6df0f6cec,12701,Bringelly - Green Valley,127,Sydney - South West,1GSYD,Greater Sydney,1,New South Wales
-c96b5ab3e42e45e1de64114c04afdaf5,12302,Campbelltown (NSW),123,Sydney - Outer South West,1GSYD,Greater Sydney,1,New South Wales
-ba3abb2c0cb388f3cd4e77de3c78ff51,12001,Canada Bay,120,Sydney - Inner West,1GSYD,Greater Sydney,1,New South Wales
-a036718538bef589e491d3f0c034f082,11903,Hurstville,119,Sydney - Inner South West,1GSYD,Greater Sydney,1,New South Wales
-1aa4de654d4e502b4ef4136466b13fcc,10601,Lower Hunter,106,Hunter Valley exc Newcastle,1RNSW,Rest of NSW,1,New South Wales
-e92b755eb0d8800175a02a35c2bf44fe,10602,Maitland,106,Hunter Valley exc Newcastle,1RNSW,Rest of NSW,1,New South Wales
-071f8a36715a8a6b7f7ded54074cc8c6,10401,Clarence Valley,104,Coffs Harbour - Grafton,1RNSW,Rest of NSW,1,New South Wales
-b32d54edfbef54504db682d7d6d5be8d,11303,Wagga Wagga,113,Riverina,1RNSW,Rest of NSW,1,New South Wales
-696b0709b9a2d7d9e2c25b71476ec255,10102,Queanbeyan,101,Capital Region,1RNSW,Rest of NSW,1,New South Wales
-f9e817650f505b7c38f29416dfd0ba69,12702,Fairfield,127,Sydney - South West,1GSYD,Greater Sydney,1,New South Wales
-30777b47a2424ff255c03b17a3d0fca7,11002,Inverell - Tenterfield,110,New England and North West,1RNSW,Rest of NSW,1,New South Wales
-48d23e87eb98cc2227b5a8c33fa00680,10805,Taree - Gloucester,108,Mid North Coast,1RNSW,Rest of NSW,1,New South Wales
-7fd3b80fb1884e2927df46a7139bb8bf,10201,Gosford,102,Central Coast,1GSYD,Greater Sydney,1,New South Wales
-4c0a7bdd46ceb88d497eec5de360328e,10105,Goulburn - Mulwaree,101,Capital Region,1RNSW,Rest of NSW,1,New South Wales
-a3ce63a7a8521c37a513db67129855a8,10801,Great Lakes,108,Mid North Coast,1RNSW,Rest of NSW,1,New South Wales
-793d8e745d2b346c4ddc27a534083243,11302,Tumut - Tumbarumba,113,Riverina,1RNSW,Rest of NSW,1,New South Wales
-a9dd7e3c6ee87a48cb35b729caf61eb5,10603,Port Stephens,106,Hunter Valley exc Newcastle,1RNSW,Rest of NSW,1,New South Wales
-33abffcedac43a654ac7f501856bf700,11004,Tamworth - Gunnedah,110,New England and North West,1RNSW,Rest of NSW,1,New South Wales
-2da6a99a5ce7553b10fb03803d4994a9,11003,Moree - Narrabri,110,New England and North West,1RNSW,Rest of NSW,1,New South Wales
-b56baf5ddf91123f42fa39ebb461e126,12404,Richmond - Windsor,124,Sydney - Outer West and Blue Mountains,1GSYD,Greater Sydney,1,New South Wales
-47af10edfc4c96329531345635a4baa9,12601,Pennant Hills - Epping,126,Sydney - Ryde,1GSYD,Greater Sydney,1,New South Wales
-fd8979ada2fd5bab05e9c5f035a5c4c7,12602,Ryde - Hunters Hill,126,Sydney - Ryde,1GSYD,Greater Sydney,1,New South Wales
-8780a72513a774d87bae314cb01856ba,11904,Kogarah - Rockdale,119,Sydney - Inner South West,1GSYD,Greater Sydney,1,New South Wales
-501e3f8a108d7ab9335ceecd363d113d,10703,Kiama - Shellharbour,107,Illawarra,1RNSW,Rest of NSW,1,New South Wales
-c11abfd29e4d9b4d4b566b01114d8486,11401,Shoalhaven,114,Southern Highlands and Shoalhaven,1RNSW,Rest of NSW,1,New South Wales
-49c2694acd8a7b592f993d5ab39f932e,11402,Southern Highlands,114,Southern Highlands and Shoalhaven,1RNSW,Rest of NSW,1,New South Wales
-751f879c2408105e969d31617d31fbf5,12103,Ku-ring-gai,121,Sydney - North Sydney and Hornsby,1GSYD,Greater Sydney,1,New South Wales
-e4db4fc1ef9ae443ced49d00f2192445,11101,Lake Macquarie - East,111,Newcastle and Lake Macquarie,1RNSW,Rest of NSW,1,New South Wales
-52c4608c2f126708211b9e0a60eaf050,11102,Lake Macquarie - West,111,Newcastle and Lake Macquarie,1RNSW,Rest of NSW,1,New South Wales
-fb25b181bed28630afa6c026a6ed31fe,11103,Newcastle,111,Newcastle and Lake Macquarie,1RNSW,Rest of NSW,1,New South Wales
-ba01e0390d0c58ab871d3fd682bbf613,12101,Chatswood - Lane Cove,121,Sydney - North Sydney and Hornsby,1GSYD,Greater Sydney,1,New South Wales
-f6bc0623a4ab517ae89db46f368c09c4,12002,Leichhardt,120,Sydney - Inner West,1GSYD,Greater Sydney,1,New South Wales
-c7499d9bd5b50edda0c648e455bc5bc1,12703,Liverpool,127,Sydney - South West,1GSYD,Greater Sydney,1,New South Wales
-9352d6848d5f8868810d431499d34639,12403,Penrith,124,Sydney - Outer West and Blue Mountains,1GSYD,Greater Sydney,1,New South Wales
-75c6b2d6319e12f37ff421834ad22fa8,10604,Upper Hunter,106,Hunter Valley exc Newcastle,1RNSW,Rest of NSW,1,New South Wales
-853b722222dd0e45a9f94f2c799c949d,12201,Manly,122,Sydney - Northern Beaches,1GSYD,Greater Sydney,1,New South Wales
-239786e7cc274460b889c47f6dcdc2f3,11702,Marrickville - Sydenham - Petersham,117,Sydney - City and Inner South,1GSYD,Greater Sydney,1,New South Wales
-fa14ace7b3ae2d7e7ee6f1bc3129fbec,11703,Sydney Inner City,117,Sydney - City and Inner South,1GSYD,Greater Sydney,1,New South Wales
-2976a6e4f9f094965adb965397c96dcf,12104,North Sydney - Mosman,121,Sydney - North Sydney and Hornsby,1GSYD,Greater Sydney,1,New South Wales
-38298f3cad250b58051bda2c11721e56,12405,St Marys,124,Sydney - Outer West and Blue Mountains,1GSYD,Greater Sydney,1,New South Wales
-8ae7733f9bc11275e8d0a0fdabe5be0a,12202,Pittwater,122,Sydney - Northern Beaches,1GSYD,Greater Sydney,1,New South Wales
-87736972ed2fb48230f1052699dedbe7,12203,Warringah,122,Sydney - Northern Beaches,1GSYD,Greater Sydney,1,New South Wales
-153e7487e891837a34233c390e64c710,11802,Eastern Suburbs - South,118,Sydney - Eastern Suburbs,1GSYD,Greater Sydney,1,New South Wales
-fec3392b0dc073244d38eba1feb8e6b7,11801,Eastern Suburbs - North,118,Sydney - Eastern Suburbs,1GSYD,Greater Sydney,1,New South Wales
-bc786a7e5492c8c5c3e3d9d1b9ba3ec0,12801,Cronulla - Miranda - Caringbah,128,Sydney - Sutherland,1GSYD,Greater Sydney,1,New South Wales
-93c6cea607715faa19391e37c48fac33,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland,1GSYD,Greater Sydney,1,New South Wales
-c24c65259d90ed4a19ab37b6fd6fe716,11203,Tweed Valley,112,Richmond - Tweed,1RNSW,Rest of NSW,1,New South Wales
-e2c2ff9c7fb57db574e461fbe467d84e,10702,Illawarra Catchment Reserve,107,Illawarra,1RNSW,Rest of NSW,1,New South Wales
-d9b993256f4573d37b1cdc50ea3528d8,12303,Wollondilly,123,Sydney - Outer South West,1GSYD,Greater Sydney,1,New South Wales
-532a082cc38eaffa923d73bce41b4061,10202,Wyong,102,Central Coast,1GSYD,Greater Sydney,1,New South Wales
-6a971e08a01e6676d0f1a6e0dacbbd67,10803,Lord Howe Island,108,Mid North Coast,1RNSW,Rest of NSW,1,New South Wales
-b142673328a0419db9725adb9db18123,19797,Migratory - Offshore - Shipping (NSW),197,Migratory - Offshore - Shipping (NSW),19799,Migratory - Offshore - Shipping (NSW),1,New South Wales
-1b0e7baae0b3154624caf0cfb717eda3,29999,No usual address (Vic.),299,No usual address (Vic.),29499,No usual address (Vic.),2,Victoria
-855069bb71cd6f6a49cbbd27f89605e3,20403,Wodonga - Alpine,204,Hume,2RVIC,Rest of Vic.,2,Victoria
-12af59cd7f4ef7a1bd550a800e703af4,21501,Grampians,215,North West,2RVIC,Rest of Vic.,2,Victoria
-a8d97425b65357ac228b9e2015df4e3a,20103,Maryborough - Pyrenees,201,Ballarat,2RVIC,Rest of Vic.,2,Victoria
-93960d5fb44e9016051aac44fb34f9f6,21704,Warrnambool,217,Warrnambool and South West,2RVIC,Rest of Vic.,2,Victoria
-64590d156b97b39b8015a7f506a67af2,20101,Ballarat,201,Ballarat,2RVIC,Rest of Vic.,2,Victoria
-b6d6956cc1fc1e8fb824782187fb6b09,20102,Creswick - Daylesford - Ballan,201,Ballarat,2RVIC,Rest of Vic.,2,Victoria
-46b315dd44d174daf5617e22b3ac94ca,20901,Banyule,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria
-0e639653c10d1353dfbc8e4a14df280e,20503,Gippsland - South West,205,Latrobe - Gippsland,2RVIC,Rest of Vic.,2,Victoria
-deb65aba94010f86959e5f2fcd90da51,20501,Baw Baw,205,Latrobe - Gippsland,2RVIC,Rest of Vic.,2,Victoria
-714aeac233808ffb2b01e3910edff2bc,20504,Latrobe Valley,205,Latrobe - Gippsland,2RVIC,Rest of Vic.,2,Victoria
-5fb06a76a31a6e7ecb2d6f766dcf33b0,20801,Bayside,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria
-711dd708aad881a73d957f604eac03f9,20402,Wangaratta - Benalla,204,Hume,2RVIC,Rest of Vic.,2,Victoria
-a8149e933827a24078cb09b1815ddea5,20401,Upper Goulburn Valley,204,Hume,2RVIC,Rest of Vic.,2,Victoria
-6aa020e879ccd33affde6c1b1af4bb2f,20701,Boroondara,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria
-3315588acf14179de8e0b2cd9285407f,21001,Keilor,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria
-88275708422d0942423446f76b49e8fb,21301,Brimbank,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria
-dce5fd0af5a80cf7d2da04f13df700a0,21503,Murray River - Swan Hill,215,North West,2RVIC,Rest of Vic.,2,Victoria
-ebd9cbfb90ae6a1daeefe91a4cfaa518,21601,Campaspe,216,Shepparton,2RVIC,Rest of Vic.,2,Victoria
-1aebc7e51e61a787aa2d3419a3a96ae0,21201,Cardinia,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria
-28fd3872c62aad371e8b21061f1a35bd,21105,Yarra Ranges,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria
-ecbd4df986ebf85c8a2873572e804803,21202,Casey - North,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria
-fff75f52998a477f6e7b00e58af8d64a,21203,Casey - South,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria
-e240f783de5c9ea54f362c8f65d6eb69,20202,Heathcote - Castlemaine - Kyneton,202,Bendigo,2RVIC,Rest of Vic.,2,Victoria
-3bdc5ed6ff858caa0570f4910fa1d8d7,21703,Colac - Corangamite,217,Warrnambool and South West,2RVIC,Rest of Vic.,2,Victoria
-ed1dac006b5ef6170e646d7eb9ee2d1a,21701,Glenelg - Southern Grampians,217,Warrnambool and South West,2RVIC,Rest of Vic.,2,Victoria
-286b0b3ea509af1aeff6bb47299d96d7,20602,Darebin - South,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria
-4c282b63af1250f5eefa438174941e8d,20902,Darebin - North,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria
-47ea4fca48eeb134e38df837a620c2c9,20502,Gippsland - East,205,Latrobe - Gippsland,2RVIC,Rest of Vic.,2,Victoria
-f0f68749983c98403d5954cd5e0b7b30,20505,Wellington,205,Latrobe - Gippsland,2RVIC,Rest of Vic.,2,Victoria
-f9a78afdf5be220d8779569e5155eab1,21401,Frankston,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria
-4129fc24b709a042692db1d3db0328b7,20802,Glen Eira,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria
-c5941be9c01b6fb6468639d5f03af022,20301,Barwon - West,203,Geelong,2RVIC,Rest of Vic.,2,Victoria
-d683533d66f266d524cbf68d5df0ee9c,20201,Bendigo,202,Bendigo,2RVIC,Rest of Vic.,2,Victoria
-701df7b874ea6eae443cb81e9e069735,20203,Loddon - Elmore,202,Bendigo,2RVIC,Rest of Vic.,2,Victoria
-3bd80cc75f3bee69358296a3c4d8f01e,21204,Dandenong,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria
-97075b09bc8da2c6efe5649a72a8c43f,20302,Geelong,203,Geelong,2RVIC,Rest of Vic.,2,Victoria
-a706b4d72de0eae9e9682f3ba03adfd7,20303,Surf Coast - Bellarine Peninsula,203,Geelong,2RVIC,Rest of Vic.,2,Victoria
-c828991bf51544cf79c2141168c359c7,21603,Shepparton,216,Shepparton,2RVIC,Rest of Vic.,2,Victoria
-7162d34e551d232ae0976c0dda4e107a,21302,Hobsons Bay,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria
-3a909674b845c826ecccfbe8a42247f6,21305,Wyndham,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria
-1facae6326242d7a0a2139b08546ec58,21005,Tullamarine - Broadmeadows,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria
-fada60ac427a94ddc93f9554c523f402,21004,Sunbury,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria
-08a060a61b90a099b277ce6a1982dfbb,20803,Kingston,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria
-6fa49450b98696c6c042357d73674657,21101,Knox,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria
-86686c6057489287cb609e4f81f3e1b3,21002,Macedon Ranges,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria
-531a192ef56b0c958ae831a8c40898bb,21102,Manningham - East,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria
-775a90dc133a5870654dc448e95ce41b,20702,Manningham - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria
-0a03d5e4473c0629cfb20c5c31543b06,21104,Whitehorse - East,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria
-2e8abed6b12530e83f890e90ad4fbeb3,21303,Maribyrnong,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria
-8e088b124c72a1ac0dcbcbdebbfb08f3,21103,Maroondah,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria
-a7633a637f2f7a3ea7a9a04807eeca97,20604,Melbourne City,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria
-1b4f877baadb44b36ff73a44e05ebd4c,20605,Port Phillip,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria
-c7e2ac420af977df8c6ccc95ac8dc911,20607,Yarra,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria
-d5ece54ea76a9e6632f4242df1820164,21304,Melton - Bacchus Marsh,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria
-31baf5edc57d76fd3005222389ca498f,21502,Mildura,215,North West,2RVIC,Rest of Vic.,2,Victoria
-8cb060b4a9c350a9d34b588479d20c9f,20904,Whittlesea - Wallan,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria
-973bc36f4729330b7993f2fdb1a7f9e7,21602,Moira,216,Shepparton,2RVIC,Rest of Vic.,2,Victoria
-8c2f64f08271fc4e4351c12acee2a932,21205,Monash,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria
-60ee22c27013613e980104db94ae53c9,20603,Essendon,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria
-065f16a07047ae1c3b0c4ab8da87fe8e,20601,Brunswick - Coburg,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria
-cfb5325c83ad40797068e162c50ee5a0,21003,Moreland - North,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria
-231e3d1635ff621b8c1c3a9f5c0b2b20,21402,Mornington Peninsula,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria
-f687a4f18a6d8e0ade28a558503bd998,20903,Nillumbik - Kinglake,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria
-0d10f1d273a62c6d7af57c6093632919,20606,Stonnington - West,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria
-cdf0df5cff98449512dbd2725721a307,20804,Stonnington - East,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria
-77b1932b3eec9f094a2b103001f0dff1,20703,Whitehorse - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria
-8ceab02fd10ccfca0ee92f8d14087c7d,29797,Migratory - Offshore - Shipping (Vic.),297,Migratory - Offshore - Shipping (Vic.),29799,Migratory - Offshore - Shipping (Vic.),2,Victoria
-6d7364731230122df155fddea6878dd3,39999,No usual address (Qld),399,No usual address (Qld),39499,No usual address (Qld),3,Queensland
-a306a13c6c1ee387390fdc96c7bdca66,31802,Townsville,318,Townsville,3RQLD,Rest of Qld,3,Queensland
-76d77e63456ae93049d2bfe3e7356354,31503,Outback - South,315,Queensland - Outback,3RQLD,Rest of Qld,3,Queensland
-eb6ee4b36cdf23e8167e10a47e340fed,30605,Tablelands (East) - Kuranda,306,Cairns,3RQLD,Rest of Qld,3,Queensland
-01ad78c33cf1fcaf447971fa919a96b7,31501,Far North,315,Queensland - Outback,3RQLD,Rest of Qld,3,Queensland
-56bc2ffafe5268122fb8c00807dea91f,30701,Darling Downs (West) - Maranoa,307,Darling Downs - Maranoa,3RQLD,Rest of Qld,3,Queensland
-ed0ec47d9ace176c75820740b17aa553,30804,Biloela,308,Central Queensland,3RQLD,Rest of Qld,3,Queensland
-0718aac22ecc8481c33c38f79ba7f5bb,30801,Central Highlands (Qld),308,Central Queensland,3RQLD,Rest of Qld,3,Queensland
-8fe8b1a271feba2ac9af3584caddbf89,31104,Jimboomba,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland
-cef65a145c54dbe0f1ea8ad16a331421,31103,Browns Plains,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland
-d1e40981bafcf2c263607fbc27e7a34e,30904,Gold Coast Hinterland,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland
-485f1d0ae76a063a524f0c6315e93e74,31101,Beaudesert,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland
-ce49d66b1ddfeb732c56810c4736e3c3,31002,Ipswich Hinterland,310,Ipswich,3GBRI,Greater Brisbane,3,Queensland
-3a0b86bff1bab2d03baa6b260e578b50,31201,Bowen Basin - North,312,Mackay - Isaac - Whitsunday,3RQLD,Rest of Qld,3,Queensland
-24c301e049a2077855d3e37ba719b09d,31902,Burnett,319,Wide Bay,3RQLD,Rest of Qld,3,Queensland
-b5146481a245e50255f5b24319c2711a,30305,Rocklea - Acacia Ridge,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland
-b899aa15c56fee62bcea0903b59b18fe,30503,Brisbane Inner - North,305,Brisbane Inner City,3GBRI,Greater Brisbane,3,Queensland
-ab5a47d41c51bcd432f515088a070b8b,30302,Holland Park - Yeronga,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland
-df3533caf8f1bedde6a6633d90819e82,30402,Kenmore - Brookfield - Moggill,304,Brisbane - West,3GBRI,Greater Brisbane,3,Queensland
-8b559bb0b6348d0baedcfd7e3b468f54,30504,Brisbane Inner - West,305,Brisbane Inner City,3GBRI,Greater Brisbane,3,Queensland
-ac4e368758b1e4e2b89f45b7554ac7ab,30202,Chermside,302,Brisbane - North,3GBRI,Greater Brisbane,3,Queensland
-5e5c6be7a4b64ead7fe95a284e013e18,30201,Bald Hills - Everton Park,302,Brisbane - North,3GBRI,Greater Brisbane,3,Queensland
-4fa0d97504185879b6e7524dda47d98b,30204,Sandgate,302,Brisbane - North,3GBRI,Greater Brisbane,3,Queensland
-f18eb5201b7221148de220114667ba96,30502,Brisbane Inner - East,305,Brisbane Inner City,3GBRI,Greater Brisbane,3,Queensland
-bfebf2c52000d2bac1a130520ace5dd7,30203,Nundah,302,Brisbane - North,3GBRI,Greater Brisbane,3,Queensland
-2ec937378ea08e49faa1a6608880d002,30101,Capalaba,301,Brisbane - East,3GBRI,Greater Brisbane,3,Queensland
-fe93fd567b9aafe3cc3372a19309fc6a,30303,Mt Gravatt,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland
-e1b0e6b958ea38f4dae5f9d24730ef05,30404,The Gap - Enoggera,304,Brisbane - West,3GBRI,Greater Brisbane,3,Queensland
-bc8147ca69573b8a699c18e7ddbcfb48,30301,Carindale,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland
-3e95b38ce315f12892dee0121e6fad4a,30103,Wynnum - Manly,301,Brisbane - East,3GBRI,Greater Brisbane,3,Queensland
-e3036fb3e0fd60ba20772f6325fa8f60,30403,Sherwood - Indooroopilly,304,Brisbane - West,3GBRI,Greater Brisbane,3,Queensland
-443fbc49b4ab9988d64065d7e2fddf1a,30501,Brisbane Inner,305,Brisbane Inner City,3GBRI,Greater Brisbane,3,Queensland
-cde1d59c5e9400b69a4854735d590888,30304,Nathan,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland
-93f947b225ac771e805ea9d368c8ae29,31001,Forest Lake - Oxley,310,Ipswich,3GBRI,Greater Brisbane,3,Queensland
-b85b19cea2f0268e105f30d78f668250,30401,Centenary,304,Brisbane - West,3GBRI,Greater Brisbane,3,Queensland
-1d93b3d03e07f30415bb68699463271f,31003,Ipswich Inner,310,Ipswich,3GBRI,Greater Brisbane,3,Queensland
-e3423656a3520cb9a9825048b5cb59aa,30306,Sunnybank,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland
-b63a9cb5d9cd025826d518de83521e51,31305,Redcliffe,313,Moreton Bay - North,3GBRI,Greater Brisbane,3,Queensland
-ea2486be22140cf8214932e344a07215,31901,Bundaberg,319,Wide Bay,3RQLD,Rest of Qld,3,Queensland
-7dcf8773e0db912ac8a9bd8914aed99e,31801,Charters Towers - Ayr - Ingham,318,Townsville,3RQLD,Rest of Qld,3,Queensland
-0a64ba6b57592efd39bc6b27cdc61f57,31502,Outback - North,315,Queensland - Outback,3RQLD,Rest of Qld,3,Queensland
-61d427b812eea882235a3ae3ce613dd2,31301,Bribie - Beachmere,313,Moreton Bay - North,3GBRI,Greater Brisbane,3,Queensland
-5e07ccf98e67363bad70138b84cfe2cb,31606,Sunshine Coast Hinterland,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland
-4d0b33b5012968d7184664859cf30a80,31304,Narangba - Burpengary,313,Moreton Bay - North,3GBRI,Greater Brisbane,3,Queensland
-2cf7926aeec52fbe4f1a6ae2a1770329,31302,Caboolture,313,Moreton Bay - North,3GBRI,Greater Brisbane,3,Queensland
-2fd888270070d2f794ec95b2075f8a29,31303,Caboolture Hinterland,313,Moreton Bay - North,3GBRI,Greater Brisbane,3,Queensland
-755945a59ff256394631b079277ab8bc,30601,Cairns - North,306,Cairns,3RQLD,Rest of Qld,3,Queensland
-0c2b52a946ce2657e1af75ee6cb84898,30602,Cairns - South,306,Cairns,3RQLD,Rest of Qld,3,Queensland
-12c9572aee915aa05233c43f75e915a6,30603,Innisfail - Cassowary Coast,306,Cairns,3RQLD,Rest of Qld,3,Queensland
-3340d90f2875506693f0c0a8e693be86,30805,Gladstone,308,Central Queensland,3RQLD,Rest of Qld,3,Queensland
-4223c8eb2036814ce6c0a9b2d3bf41c1,31602,Caloundra,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland
-95133894ec11a574d25413576636e5dc,31701,Toowoomba,317,Toowoomba,3RQLD,Rest of Qld,3,Queensland
-86113dc59e768c1d1a462f18a5d458a0,30703,Granite Belt,307,Darling Downs - Maranoa,3RQLD,Rest of Qld,3,Queensland
-3cfdef4f1447147029268a257d131552,31903,Gympie - Cooloola,319,Wide Bay,3RQLD,Rest of Qld,3,Queensland
-c0bf581dc5c2abecaf2385d8845f0c91,30702,Darling Downs - East,307,Darling Downs - Maranoa,3RQLD,Rest of Qld,3,Queensland
-7c9d8efa5f0fc84385730c20b6a569e3,30604,Port Douglas - Daintree,306,Cairns,3RQLD,Rest of Qld,3,Queensland
-74b4db7ecf4ff1770156d20fd45a7a6e,30803,Rockhampton,308,Central Queensland,3RQLD,Rest of Qld,3,Queensland
-5eef269207a5f1914c93407bed2d9ab8,31102,Beenleigh,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland
-10b83e434ddcd9c79ad2b9be2fd0aa84,31105,Loganlea - Carbrook,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland
-e68d60edfb709b5834cb5e9286b4ce4b,30907,Ormeau - Oxenford,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland
-238e625ff1f20b656f8986f42a76092f,30909,Southport,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland
-69c89914e702d2abe840bd751f5b59c5,30910,Surfers Paradise,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland
-8d06969939c8f260b8d1db5b900f7653,30903,Gold Coast - North,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland
-42240455439aa23182bf604e3b202915,30902,Coolangatta,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland
-68cee18772f6c46a1f5cfe4cda915574,30901,Broadbeach - Burleigh,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland
-46f3eb0e98ba1f34a396ebc7a9ba9f7c,30908,Robina,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland
-c4f48c98a227f6dd2cdbd6a30dac6082,30906,Nerang,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland
-35717dde349c0e37db826b95ca6c44fd,30905,Mudgeeraba - Tallebudgera,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland
-42aa61c7ccfa95dc4db4d894530def8a,31904,Hervey Bay,319,Wide Bay,3RQLD,Rest of Qld,3,Queensland
-bd41a065d4640c9dd3c1e06ce9c820dc,31905,Maryborough,319,Wide Bay,3RQLD,Rest of Qld,3,Queensland
-21964698b7df1cefa6befc89697f5293,31004,Springfield - Redbank,310,Ipswich,3GBRI,Greater Brisbane,3,Queensland
-4f1beaf39805550dd06b5cac412cd19b,31106,Springwood - Kingston,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland
-435ea5e88223276427a4d4613a7e06a5,31202,Mackay,312,Mackay - Isaac - Whitsunday,3RQLD,Rest of Qld,3,Queensland
-a57bf18e19b6b17e3d4fbc20561e2055,31601,Buderim,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland
-913c130aa3a3e9780ee459eadf80c05c,31603,Maroochy,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland
-9bc792898a1f66e2ed7c2e2407b3fe8c,31605,Noosa,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland
-a71f9f47d27e10623154025319152a82,31607,Nambour,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland
-4f2bed48f31aa4f70b89c5e87a60e3e9,31608,Noosa Hinterland,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland
-d64c331c34bb99731a626c0002467c65,31401,The Hills District,314,Moreton Bay - South,3GBRI,Greater Brisbane,3,Queensland
-c4fa856e631d52fce97c4eb37d17bb19,31403,Strathpine,314,Moreton Bay - South,3GBRI,Greater Brisbane,3,Queensland
-61ff912aec1b33f9ac603a67fb18fd94,31402,North Lakes,314,Moreton Bay - South,3GBRI,Greater Brisbane,3,Queensland
-92945505a99aea57f8d9a7fc2f739595,30102,Cleveland - Stradbroke,301,Brisbane - East,3GBRI,Greater Brisbane,3,Queensland
-09ec0f40d1fec53253882a9f9f913cbd,31203,Whitsunday,312,Mackay - Isaac - Whitsunday,3RQLD,Rest of Qld,3,Queensland
-dabae0ad17c002ae7a711aca44636260,39797,Migratory - Offshore - Shipping (Qld),397,Migratory - Offshore - Shipping (Qld),39799,Migratory - Offshore - Shipping (Qld),3,Queensland
-c703af5c89b1d0bc2e99f540f553f182,49999,No usual address (SA),499,No usual address (SA),49499,No usual address (SA),4,South Australia
-14919153f8aaf3af893165510756de56,40101,Adelaide City,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia
-9868de7d15bae3816653aa9fad6cf106,40102,Adelaide Hills,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia
-99cc8493c2392e2b0f5d61bb0220b474,40104,Campbelltown (SA),401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia
-9732e202ad7af4dd76eecd5f978cc96e,40701,Fleurieu - Kangaroo Island,407,South Australia - South East,4RSAU,Rest of SA,4,South Australia
-fd577536e9ceee3d9c2b3b2e6d2e2a88,40602,Outback - North and East,406,South Australia - Outback,4RSAU,Rest of SA,4,South Australia
-da2c3fbac23ba11ec8a1a36e31578620,40501,Barossa,405,Barossa - Yorke - Mid North,4RSAU,Rest of SA,4,South Australia
-1faacc3ab6e29cd764380a5129a12631,40201,Gawler - Two Wells,402,Adelaide - North,4GADE,Greater Adelaide,4,South Australia
-91edf9918caf23ade612be8a563a676b,40502,Lower North,405,Barossa - Yorke - Mid North,4RSAU,Rest of SA,4,South Australia
-99b824ede6546f5b83b7d2b66e4d8042,40504,Yorke Peninsula,405,Barossa - Yorke - Mid North,4RSAU,Rest of SA,4,South Australia
-981d34514a093fa94b6d484867e14fac,40703,Murray and Mallee,407,South Australia - South East,4RSAU,Rest of SA,4,South Australia
-bd1bb6b87180689231804f4ceb383485,40103,Burnside,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia
-6d8a1d94651a63cd8cb385dc3e96a3a0,40601,Eyre Peninsula and South West,406,South Australia - Outback,4RSAU,Rest of SA,4,South Australia
-d9e8009b7857b10b3a21819e28379b4d,40403,West Torrens,404,Adelaide - West,4GADE,Greater Adelaide,4,South Australia
-36165040b1051f2cfde3c3e5c095d3ed,40401,Charles Sturt,404,Adelaide - West,4GADE,Greater Adelaide,4,South Australia
-ed7c2df00da3928f799751b048ed5ab0,40402,Port Adelaide - West,404,Adelaide - West,4GADE,Greater Adelaide,4,South Australia
-aea76ed2f98e26f9116049d0376ba275,40702,Limestone Coast,407,South Australia - South East,4RSAU,Rest of SA,4,South Australia
-f74b25a7dc1504cf5a3b964a990266ff,40301,Holdfast Bay,403,Adelaide - South,4GADE,Greater Adelaide,4,South Australia
-f0affe8ec1361efcafd1816b5b1c2426,40302,Marion,403,Adelaide - South,4GADE,Greater Adelaide,4,South Australia
-2f233bb83fcd9c49e2959f96f2463b64,40303,Mitcham,403,Adelaide - South,4GADE,Greater Adelaide,4,South Australia
-0dd53c8891cc022924207db32a860bb4,40304,Onkaparinga,403,Adelaide - South,4GADE,Greater Adelaide,4,South Australia
-51fb18046e665c3a0df6457781ae8125,40503,Mid North,405,Barossa - Yorke - Mid North,4RSAU,Rest of SA,4,South Australia
-3f00436e3415eabeafb77ba1fe5b6f87,40105,Norwood - Payneham - St Peters,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia
-bd8f44067769dbfb91bd4b4c13c967c2,40202,Playford,402,Adelaide - North,4GADE,Greater Adelaide,4,South Australia
-920530cb8744c679e3a2ece84f1d5ce4,40203,Port Adelaide - East,402,Adelaide - North,4GADE,Greater Adelaide,4,South Australia
-a82afc8ee542eaec69da51a6bbc973d4,40204,Salisbury,402,Adelaide - North,4GADE,Greater Adelaide,4,South Australia
-04a7dfa903d6e9fe93d5ad37913ad5ff,40205,Tea Tree Gully,402,Adelaide - North,4GADE,Greater Adelaide,4,South Australia
-702f785904a60c6b8b8e5af93f9e412e,40106,Prospect - Walkerville,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia
-85b88bc0f811d78392c3f2fdc45f9ee2,40107,Unley,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia
-fc78ca523076710b5fe66966a6715bfc,49797,Migratory - Offshore - Shipping (SA),497,Migratory - Offshore - Shipping (SA),49799,Migratory - Offshore - Shipping (SA),4,South Australia
-57b8d9ceaa1a98dd5f889f2b9a4854db,59999,No usual address (WA),599,No usual address (WA),59499,No usual address (WA),5,Western Australia
-6fdcfb5e59ed2e8c4e379a2b779da93a,50901,Albany,509,Western Australia - Wheat Belt,5RWAU,Rest of WA,5,Western Australia
-61e437816d0d78c62abc93ed2770ac7a,50601,Armadale,506,Perth - South East,5GPER,Greater Perth,5,Western Australia
-71585b1edc15fa6b66d97a747392bc43,51003,West Pilbara,510,Western Australia - Outback (North),5RWAU,Rest of WA,5,Western Australia
-86a2e69c428aafb50b38a78f62d35b8d,50101,Augusta - Margaret River - Busselton,501,Bunbury,5RWAU,Rest of WA,5,Western Australia
-cb24edc0ec341e14fe5108ee6b1493cb,50401,Bayswater - Bassendean,504,Perth - North East,5GPER,Greater Perth,5,Western Australia
-ffe367e29927354b95526f42fab1e71a,50302,Perth City,503,Perth - Inner,5GPER,Greater Perth,5,Western Australia
-d6f07f83059edd69be854095a7ddd520,50602,Belmont - Victoria Park,506,Perth - South East,5GPER,Greater Perth,5,Western Australia
-e558b4076533c2d1423729fc03d79ad6,50902,Wheat Belt - North,509,Western Australia - Wheat Belt,5RWAU,Rest of WA,5,Western Australia
-081c09225f5f0932d5dff03f505f3089,50903,Wheat Belt - South,509,Western Australia - Wheat Belt,5RWAU,Rest of WA,5,Western Australia
-f7f8eb12e0f61a9321597157c0d61791,50103,Manjimup,501,Bunbury,5RWAU,Rest of WA,5,Western Australia
-bd22efb6bdeabb178eec7b0051f764d7,51001,Kimberley,510,Western Australia - Outback (North),5RWAU,Rest of WA,5,Western Australia
-1a04ae79df0720de2b40a38b48e5cdd2,50102,Bunbury,501,Bunbury,5RWAU,Rest of WA,5,Western Australia
-12bb430be526cebb26b7248683b51fab,50301,Cottesloe - Claremont,503,Perth - Inner,5GPER,Greater Perth,5,Western Australia
-563584468af77b2fc03ffa42d5da94cb,50502,Stirling,505,Perth - North West,5GPER,Greater Perth,5,Western Australia
-2f849d821a8a925a9238d81184f5ef5c,50603,Canning,506,Perth - South East,5GPER,Greater Perth,5,Western Australia
-7730beeadff43f778e47a7fdbaeaf806,50704,Melville,507,Perth - South West,5GPER,Greater Perth,5,Western Australia
-af4ae70d0eac8b8fc9bc16fb9fa07741,51104,Mid West,511,Western Australia - Outback (South),5RWAU,Rest of WA,5,Western Australia
-2ba46450ca83f7d0d90f555479c657a2,51102,Gascoyne,511,Western Australia - Outback (South),5RWAU,Rest of WA,5,Western Australia
-fc02b61a1b120b332dfda8c6cefb82f9,50705,Rockingham,507,Perth - South West,5GPER,Greater Perth,5,Western Australia
-21cd1658dfd2507648e76c416ff04265,50701,Cockburn,507,Perth - South West,5GPER,Greater Perth,5,Western Australia
-b03e9b7b50eaa81eaab314f9bcc41b5a,50702,Fremantle,507,Perth - South West,5GPER,Greater Perth,5,Western Australia
-78c9993a943c7fc54b2c81d428e9a921,51103,Goldfields,511,Western Australia - Outback (South),5RWAU,Rest of WA,5,Western Australia
-f0342a4f9b0d5ab5ecc0870e115cd9e3,51101,Esperance,511,Western Australia - Outback (South),5RWAU,Rest of WA,5,Western Australia
-d681961f197a553613755541b4c77b98,51002,East Pilbara,510,Western Australia - Outback (North),5RWAU,Rest of WA,5,Western Australia
-389941c918cb59ff6ff1d1f2ac57cc92,50604,Gosnells,506,Perth - South East,5GPER,Greater Perth,5,Western Australia
-fed9797e75393322ff5d5beddf9773be,50501,Joondalup,505,Perth - North West,5GPER,Greater Perth,5,Western Australia
-09bc9ab48b2e176030c8351b8aa38226,50605,Kalamunda,506,Perth - South East,5GPER,Greater Perth,5,Western Australia
-88c6fccd9f242ea10362555ce8306f3a,50402,Mundaring,504,Perth - North East,5GPER,Greater Perth,5,Western Australia
-7e07d99a704ed310140295332558885a,50703,Kwinana,507,Perth - South West,5GPER,Greater Perth,5,Western Australia
-df3c83cabeab2f43401dc6a7006c2d2a,50201,Mandurah,502,Mandurah,5GPER,Greater Perth,5,Western Australia
-026573d44030835fe74c624be25113a1,50403,Swan,504,Perth - North East,5GPER,Greater Perth,5,Western Australia
-4540c5d4a85c10a627f12ed1f3d3d24e,50606,Serpentine - Jarrahdale,506,Perth - South East,5GPER,Greater Perth,5,Western Australia
-91d979933e4bf31e16823a0c13e037d5,50607,South Perth,506,Perth - South East,5GPER,Greater Perth,5,Western Australia
-aafb1ce4fed408a5843cf431a0bbdcb1,50503,Wanneroo,505,Perth - North West,5GPER,Greater Perth,5,Western Australia
-53cd3288cc9e5ec276f7ac58bfcf2653,59797,Migratory - Offshore - Shipping (WA),597,Migratory - Offshore - Shipping (WA),59799,Migratory - Offshore - Shipping (WA),5,Western Australia
-09d914fa78ad2c9bc534fead45b3d534,69999,No usual address (Tas.),699,No usual address (Tas.),69499,No usual address (Tas.),6,Tasmania
-ef2765780c151172587db3234677bb12,60203,North East,602,Launceston and North East,6RTAS,Rest of Tas.,6,Tasmania
-d1eefdef38b0dc9967b2482ed5676157,60101,Brighton,601,Hobart,6GHOB,Greater Hobart,6,Tasmania
-1ca9e3440300554e016b695aba2d3aee,60401,Burnie - Ulverstone,604,West and North West,6RTAS,Rest of Tas.,6,Tasmania
-35309ec8898385cea2e85454a678c50e,60403,West Coast,604,West and North West,6RTAS,Rest of Tas.,6,Tasmania
-5b60531e7e48b9406f470eb8c7e5ab99,60402,Devonport,604,West and North West,6RTAS,Rest of Tas.,6,Tasmania
-1b26393c0dbab1e5a039ae09c001d907,60301,Central Highlands (Tas.),603,South East,6RTAS,Rest of Tas.,6,Tasmania
-4a93e679058284a39a7d6da21038cf5b,60202,Meander Valley - West Tamar,602,Launceston and North East,6RTAS,Rest of Tas.,6,Tasmania
-5193bdfe211de11f3a444ff6a13e385e,60102,Hobart - North East,601,Hobart,6GHOB,Greater Hobart,6,Tasmania
-39d96ac1450b2d517807dc8a94b26c17,60106,Sorell - Dodges Ferry,601,Hobart,6GHOB,Greater Hobart,6,Tasmania
-fd1d25ed94da6ba29824c667a7093312,60103,Hobart - North West,601,Hobart,6GHOB,Greater Hobart,6,Tasmania
-e929f2dd90fea25ce5af4f75c839f05e,60303,South East Coast,603,South East,6RTAS,Rest of Tas.,6,Tasmania
-3dc09677e0fdb539a31d497c4fb25f20,60105,Hobart Inner,601,Hobart,6GHOB,Greater Hobart,6,Tasmania
-4df9b34ea36ad02818ca526edcc64cb2,60104,Hobart - South and West,601,Hobart,6GHOB,Greater Hobart,6,Tasmania
-d22b000080700bd53bebc101edbb62a8,60302,Huon - Bruny Island,603,South East,6RTAS,Rest of Tas.,6,Tasmania
-c262222092ac2de460cc1327a41b492b,60201,Launceston,602,Launceston and North East,6RTAS,Rest of Tas.,6,Tasmania
-41e3e91b7e11bf2eb3192f94a9b1ddb9,69797,Migratory - Offshore - Shipping (Tas.),697,Migratory - Offshore - Shipping (Tas.),69799,Migratory - Offshore - Shipping (Tas.),6,Tasmania
-13aa1430371637c6332edf6364489fa2,79999,No usual address (NT),799,No usual address (NT),79499,No usual address (NT),7,Northern Territory
-aae21e1ca430b314ba7e1db08542ec71,70201,Alice Springs,702,Northern Territory - Outback,7RNTE,Rest of NT,7,Northern Territory
-935c19204ce462ffe29f0b407f20cb23,70202,Barkly,702,Northern Territory - Outback,7RNTE,Rest of NT,7,Northern Territory
-b7655660da4976f424dcd894ca7e1287,70204,East Arnhem,702,Northern Territory - Outback,7RNTE,Rest of NT,7,Northern Territory
-9653d0a3230bdd09490bb9e79e1ebfb9,70203,Daly - Tiwi - West Arnhem,702,Northern Territory - Outback,7RNTE,Rest of NT,7,Northern Territory
-a65c8e4bd3a073a17da57681d1537801,70205,Katherine,702,Northern Territory - Outback,7RNTE,Rest of NT,7,Northern Territory
-3ff0a6a90d233f48f63179739f794c02,70102,Darwin Suburbs,701,Darwin,7GDAR,Greater Darwin,7,Northern Territory
-a3e7e9a4765cc0d22aa60df878408547,70101,Darwin City,701,Darwin,7GDAR,Greater Darwin,7,Northern Territory
-ef09ecc3f64613ab88d86fef58fe25a0,70104,Palmerston,701,Darwin,7GDAR,Greater Darwin,7,Northern Territory
-99628fa2e8d3bedd870b425c42fc2b74,70103,Litchfield,701,Darwin,7GDAR,Greater Darwin,7,Northern Territory
-5f64af8aa59512d57e54425cd8c989f2,79797,Migratory - Offshore - Shipping (NT),797,Migratory - Offshore - Shipping (NT),79799,Migratory - Offshore - Shipping (NT),7,Northern Territory
-efd7fc8aef277698a0f30f3412d67176,89999,No usual address (ACT),899,No usual address (ACT),89499,No usual address (ACT),8,Australian Capital Territory
-d5bd90ace3359032b81745e6ff4259bc,80105,North Canberra,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory
-26fa990347eb7bdf28528a18de2f3e31,80106,South Canberra,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory
-d8ff1cee5ba71c2867f9dbc20b139f38,80104,Gungahlin,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory
-33bf3f1018b373ca46c8f54e3027e9eb,80101,Belconnen,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory
-c059d7dfefdf0fc36e1f71947e2b5e5a,80107,Tuggeranong,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory
-ef26837175f450f1abc5f92107b9acbf,80108,Weston Creek,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory
-d4e06433451e1503eac985d707b0763b,80109,Woden Valley,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory
-b51869faee0c2357dc5c2c34e4229a80,80103,Canberra East,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory
-ea3fb9221bc639881aaea8d796515fad,80111,Urriarra - Namadgi,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory
-542b0d236eaa6e41b85fcf4d7421ab70,80110,Molonglo,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory
-8cf4ecb5db3bd52916325cf38feb7c01,89797,Migratory - Offshore - Shipping (ACT),897,Migratory - Offshore - Shipping (ACT),89799,Migratory - Offshore - Shipping (ACT),8,Australian Capital Territory
-d3eb9a9233e52948740d7eb8c3062d14,99999,No usual address (OT),999,No usual address (OT),99499,No usual address (OT),9,Other Territories
-90b2fb2673e8af20cd32b76d32f97ec0,90103,Jervis Bay,901,Other Territories,9OTER,Other Territories,9,Other Territories
-4512381fff7667c2c28d35dc4087ce6c,90101,Christmas Island,901,Other Territories,9OTER,Other Territories,9,Other Territories
-19014176263f15260ae0afc5fc0e45d8,90102,Cocos (Keeling) Islands,901,Other Territories,9OTER,Other Territories,9,Other Territories
-587b11d4d193d217aa603d0b4d34d95f,90104,Norfolk Island,901,Other Territories,9OTER,Other Territories,9,Other Territories
-d18ef1982a938e0197f18a39fd008e08,99797,Migratory - Offshore - Shipping (OT),997,Migratory - Offshore - Shipping (OT),99799,Migratory - Offshore - Shipping (OT),9,Other Territories
+SA3_key,SA3_CODE_2016,SA3_NAME_2016,SA4_CODE_2016,SA4_NAME_2016,GCCSA_CODE_2016,GCCSA_NAME_2016,STATE_CODE_2016,STATE_NAME_2016,date
+64ce463c6856e0e3867dea50033e8a29,19999,No usual address (NSW),199,No usual address (NSW),19499,No usual address (NSW),1,New South Wales,2024-07-09
+25d9e7c1134b5a3744cd1dea4072d6a2,10901,Albury,109,Murray,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+64254db8396e404d9223914a0bd355d2,11001,Armidale,110,New England and North West,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+de9d96171258bf940fc7b77c09b1cde4,10802,Kempsey - Nambucca,108,Mid North Coast,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+d2a9aaedbe3616c7be11e07856c29e2a,12003,Strathfield - Burwood - Ashfield,120,Sydney - Inner West,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+61a10e6abb1149ad9d08f303267f9bc4,10304,Orange,103,Central West,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+7fb89619c7a1215bebdd9f53c27fe39e,12501,Auburn,125,Sydney - Parramatta,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+dc1d3cb9517bda57aacd65f5b1986c6e,11201,Richmond Valley - Coastal,112,Richmond - Tweed,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+fe998b49c41c4208c968bce204fa1cbb,11202,Richmond Valley - Hinterland,112,Richmond - Tweed,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+2ffe95614e083e7091c76b4c1e0c4f88,10902,Lower Murray,109,Murray,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+c728615c8a166f73ec481b345cac1e84,12102,Hornsby,121,Sydney - North Sydney and Hornsby,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+108f6a48835ed848b3ec66c2d0afd568,11901,Bankstown,119,Sydney - Inner South West,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+63f35343d6f9681cad0598452a17f0df,11902,Canterbury,119,Sydney - Inner South West,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+4cd31d31e16ac873f5f421d5880e88d6,10804,Port Macquarie,108,Mid North Coast,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+d70538d0bcd4bacb90ae29025815166f,12503,Merrylands - Guildford,125,Sydney - Parramatta,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+b1f130b49d0fcfa2348098ee4467452f,10301,Bathurst,103,Central West,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+d78bded526b07ede88675c6412d63f3d,10303,Lithgow - Mudgee,103,Central West,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+0374aee111fb3142383abdfc77c28285,11501,Baulkham Hills,115,Sydney - Baulkham Hills and Hawkesbury,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+0bf31d0d702fcac8c8e07912f3347c31,11601,Blacktown,116,Sydney - Blacktown,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+84281e5e3728a8f8d1d8f85895895442,12504,Parramatta,125,Sydney - Parramatta,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+0fc780bb04e74ce5ed154d2e49cfe2fd,11504,Rouse Hill - McGraths Hill,115,Sydney - Baulkham Hills and Hawkesbury,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+ee8dca136b55720526e1fbe2981520c1,11502,Dural - Wisemans Ferry,115,Sydney - Baulkham Hills and Hawkesbury,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+b1501a9528a292585b7e90e8708143f1,12502,Carlingford,125,Sydney - Parramatta,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+abf0931987f2f8eb7a8d26f2c21fe172,10104,South Coast,101,Capital Region,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+f53eb4122d5e2ce81a12093f8f9ce922,10103,Snowy Mountains,101,Capital Region,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+f9d3a954de63277730a1c66d8b38dee3,10402,Coffs Harbour,104,Coffs Harbour - Grafton,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+b4337d69a5afc0c2ff74d7c95065edf3,10903,Upper Murray exc. Albury,109,Murray,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+38b4f06e27fd4f6fdcceabc6f5c068ea,11603,Mount Druitt,116,Sydney - Blacktown,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+6412fe12d3b2f5591d7cc7f6121a8a01,11602,Blacktown - North,116,Sydney - Blacktown,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+dacb283d1182b49af03528f6f02eccd7,10704,Wollongong,107,Illawarra,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+33f2481179ad598a2b87005cec4b6830,10701,Dapto - Port Kembla,107,Illawarra,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+b578f2a52a0229873fefc2a4b06377fa,10302,Lachlan Valley,103,Central West,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+b983273d87ce44aec57595123cee4c62,11301,Griffith - Murrumbidgee (West),113,Riverina,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+6aaa65bb3591df310b36d6318d6f4e0f,12401,Blue Mountains,124,Sydney - Outer West and Blue Mountains,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+74a338894d9bedbc6ddf6746befe1245,11503,Hawkesbury,115,Sydney - Baulkham Hills and Hawkesbury,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+8e5a808681a0070beaf455c2cabb782b,12402,Blue Mountains - South,124,Sydney - Outer West and Blue Mountains,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+08fa43588c2571ade19bc0fa5936e028,10501,Bourke - Cobar - Coonamble,105,Far West and Orana,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+74105d373a71b517ed650caabb9c2cb8,10106,Young - Yass,101,Capital Region,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+80ca4ee101d7cf153771824cc0b00098,11701,Botany,117,Sydney - City and Inner South,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+a7da6ba0505a41b98bd85907244c4c30,10502,Broken Hill and Far West,105,Far West and Orana,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+186b690e29892f137b4c34cfa40a3a4d,10503,Dubbo,105,Far West and Orana,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+1b08a97dde5acb38d5f12178452125eb,12301,Camden,123,Sydney - Outer South West,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+8fc81fd7630f52aca6381ff6df0f6cec,12701,Bringelly - Green Valley,127,Sydney - South West,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+c96b5ab3e42e45e1de64114c04afdaf5,12302,Campbelltown (NSW),123,Sydney - Outer South West,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+ba3abb2c0cb388f3cd4e77de3c78ff51,12001,Canada Bay,120,Sydney - Inner West,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+a036718538bef589e491d3f0c034f082,11903,Hurstville,119,Sydney - Inner South West,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+1aa4de654d4e502b4ef4136466b13fcc,10601,Lower Hunter,106,Hunter Valley exc Newcastle,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+e92b755eb0d8800175a02a35c2bf44fe,10602,Maitland,106,Hunter Valley exc Newcastle,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+071f8a36715a8a6b7f7ded54074cc8c6,10401,Clarence Valley,104,Coffs Harbour - Grafton,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+b32d54edfbef54504db682d7d6d5be8d,11303,Wagga Wagga,113,Riverina,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+696b0709b9a2d7d9e2c25b71476ec255,10102,Queanbeyan,101,Capital Region,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+f9e817650f505b7c38f29416dfd0ba69,12702,Fairfield,127,Sydney - South West,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+30777b47a2424ff255c03b17a3d0fca7,11002,Inverell - Tenterfield,110,New England and North West,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+48d23e87eb98cc2227b5a8c33fa00680,10805,Taree - Gloucester,108,Mid North Coast,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+7fd3b80fb1884e2927df46a7139bb8bf,10201,Gosford,102,Central Coast,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+4c0a7bdd46ceb88d497eec5de360328e,10105,Goulburn - Mulwaree,101,Capital Region,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+a3ce63a7a8521c37a513db67129855a8,10801,Great Lakes,108,Mid North Coast,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+793d8e745d2b346c4ddc27a534083243,11302,Tumut - Tumbarumba,113,Riverina,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+a9dd7e3c6ee87a48cb35b729caf61eb5,10603,Port Stephens,106,Hunter Valley exc Newcastle,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+33abffcedac43a654ac7f501856bf700,11004,Tamworth - Gunnedah,110,New England and North West,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+2da6a99a5ce7553b10fb03803d4994a9,11003,Moree - Narrabri,110,New England and North West,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+b56baf5ddf91123f42fa39ebb461e126,12404,Richmond - Windsor,124,Sydney - Outer West and Blue Mountains,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+47af10edfc4c96329531345635a4baa9,12601,Pennant Hills - Epping,126,Sydney - Ryde,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+fd8979ada2fd5bab05e9c5f035a5c4c7,12602,Ryde - Hunters Hill,126,Sydney - Ryde,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+8780a72513a774d87bae314cb01856ba,11904,Kogarah - Rockdale,119,Sydney - Inner South West,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+501e3f8a108d7ab9335ceecd363d113d,10703,Kiama - Shellharbour,107,Illawarra,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+c11abfd29e4d9b4d4b566b01114d8486,11401,Shoalhaven,114,Southern Highlands and Shoalhaven,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+49c2694acd8a7b592f993d5ab39f932e,11402,Southern Highlands,114,Southern Highlands and Shoalhaven,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+751f879c2408105e969d31617d31fbf5,12103,Ku-ring-gai,121,Sydney - North Sydney and Hornsby,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+e4db4fc1ef9ae443ced49d00f2192445,11101,Lake Macquarie - East,111,Newcastle and Lake Macquarie,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+52c4608c2f126708211b9e0a60eaf050,11102,Lake Macquarie - West,111,Newcastle and Lake Macquarie,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+fb25b181bed28630afa6c026a6ed31fe,11103,Newcastle,111,Newcastle and Lake Macquarie,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+ba01e0390d0c58ab871d3fd682bbf613,12101,Chatswood - Lane Cove,121,Sydney - North Sydney and Hornsby,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+f6bc0623a4ab517ae89db46f368c09c4,12002,Leichhardt,120,Sydney - Inner West,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+c7499d9bd5b50edda0c648e455bc5bc1,12703,Liverpool,127,Sydney - South West,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+9352d6848d5f8868810d431499d34639,12403,Penrith,124,Sydney - Outer West and Blue Mountains,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+75c6b2d6319e12f37ff421834ad22fa8,10604,Upper Hunter,106,Hunter Valley exc Newcastle,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+853b722222dd0e45a9f94f2c799c949d,12201,Manly,122,Sydney - Northern Beaches,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+239786e7cc274460b889c47f6dcdc2f3,11702,Marrickville - Sydenham - Petersham,117,Sydney - City and Inner South,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+fa14ace7b3ae2d7e7ee6f1bc3129fbec,11703,Sydney Inner City,117,Sydney - City and Inner South,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+2976a6e4f9f094965adb965397c96dcf,12104,North Sydney - Mosman,121,Sydney - North Sydney and Hornsby,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+38298f3cad250b58051bda2c11721e56,12405,St Marys,124,Sydney - Outer West and Blue Mountains,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+8ae7733f9bc11275e8d0a0fdabe5be0a,12202,Pittwater,122,Sydney - Northern Beaches,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+87736972ed2fb48230f1052699dedbe7,12203,Warringah,122,Sydney - Northern Beaches,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+153e7487e891837a34233c390e64c710,11802,Eastern Suburbs - South,118,Sydney - Eastern Suburbs,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+fec3392b0dc073244d38eba1feb8e6b7,11801,Eastern Suburbs - North,118,Sydney - Eastern Suburbs,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+bc786a7e5492c8c5c3e3d9d1b9ba3ec0,12801,Cronulla - Miranda - Caringbah,128,Sydney - Sutherland,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+93c6cea607715faa19391e37c48fac33,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+c24c65259d90ed4a19ab37b6fd6fe716,11203,Tweed Valley,112,Richmond - Tweed,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+e2c2ff9c7fb57db574e461fbe467d84e,10702,Illawarra Catchment Reserve,107,Illawarra,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+d9b993256f4573d37b1cdc50ea3528d8,12303,Wollondilly,123,Sydney - Outer South West,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+532a082cc38eaffa923d73bce41b4061,10202,Wyong,102,Central Coast,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
+6a971e08a01e6676d0f1a6e0dacbbd67,10803,Lord Howe Island,108,Mid North Coast,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
+b142673328a0419db9725adb9db18123,19797,Migratory - Offshore - Shipping (NSW),197,Migratory - Offshore - Shipping (NSW),19799,Migratory - Offshore - Shipping (NSW),1,New South Wales,2024-07-09
+1b0e7baae0b3154624caf0cfb717eda3,29999,No usual address (Vic.),299,No usual address (Vic.),29499,No usual address (Vic.),2,Victoria,2024-07-09
+855069bb71cd6f6a49cbbd27f89605e3,20403,Wodonga - Alpine,204,Hume,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+12af59cd7f4ef7a1bd550a800e703af4,21501,Grampians,215,North West,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+a8d97425b65357ac228b9e2015df4e3a,20103,Maryborough - Pyrenees,201,Ballarat,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+93960d5fb44e9016051aac44fb34f9f6,21704,Warrnambool,217,Warrnambool and South West,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+64590d156b97b39b8015a7f506a67af2,20101,Ballarat,201,Ballarat,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+b6d6956cc1fc1e8fb824782187fb6b09,20102,Creswick - Daylesford - Ballan,201,Ballarat,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+46b315dd44d174daf5617e22b3ac94ca,20901,Banyule,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+0e639653c10d1353dfbc8e4a14df280e,20503,Gippsland - South West,205,Latrobe - Gippsland,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+deb65aba94010f86959e5f2fcd90da51,20501,Baw Baw,205,Latrobe - Gippsland,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+714aeac233808ffb2b01e3910edff2bc,20504,Latrobe Valley,205,Latrobe - Gippsland,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+5fb06a76a31a6e7ecb2d6f766dcf33b0,20801,Bayside,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+711dd708aad881a73d957f604eac03f9,20402,Wangaratta - Benalla,204,Hume,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+a8149e933827a24078cb09b1815ddea5,20401,Upper Goulburn Valley,204,Hume,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+6aa020e879ccd33affde6c1b1af4bb2f,20701,Boroondara,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+3315588acf14179de8e0b2cd9285407f,21001,Keilor,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+88275708422d0942423446f76b49e8fb,21301,Brimbank,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+dce5fd0af5a80cf7d2da04f13df700a0,21503,Murray River - Swan Hill,215,North West,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+ebd9cbfb90ae6a1daeefe91a4cfaa518,21601,Campaspe,216,Shepparton,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+1aebc7e51e61a787aa2d3419a3a96ae0,21201,Cardinia,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+28fd3872c62aad371e8b21061f1a35bd,21105,Yarra Ranges,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+ecbd4df986ebf85c8a2873572e804803,21202,Casey - North,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+fff75f52998a477f6e7b00e58af8d64a,21203,Casey - South,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+e240f783de5c9ea54f362c8f65d6eb69,20202,Heathcote - Castlemaine - Kyneton,202,Bendigo,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+3bdc5ed6ff858caa0570f4910fa1d8d7,21703,Colac - Corangamite,217,Warrnambool and South West,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+ed1dac006b5ef6170e646d7eb9ee2d1a,21701,Glenelg - Southern Grampians,217,Warrnambool and South West,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+286b0b3ea509af1aeff6bb47299d96d7,20602,Darebin - South,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+4c282b63af1250f5eefa438174941e8d,20902,Darebin - North,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+47ea4fca48eeb134e38df837a620c2c9,20502,Gippsland - East,205,Latrobe - Gippsland,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+f0f68749983c98403d5954cd5e0b7b30,20505,Wellington,205,Latrobe - Gippsland,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+f9a78afdf5be220d8779569e5155eab1,21401,Frankston,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+4129fc24b709a042692db1d3db0328b7,20802,Glen Eira,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+c5941be9c01b6fb6468639d5f03af022,20301,Barwon - West,203,Geelong,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+d683533d66f266d524cbf68d5df0ee9c,20201,Bendigo,202,Bendigo,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+701df7b874ea6eae443cb81e9e069735,20203,Loddon - Elmore,202,Bendigo,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+3bd80cc75f3bee69358296a3c4d8f01e,21204,Dandenong,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+97075b09bc8da2c6efe5649a72a8c43f,20302,Geelong,203,Geelong,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+a706b4d72de0eae9e9682f3ba03adfd7,20303,Surf Coast - Bellarine Peninsula,203,Geelong,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+c828991bf51544cf79c2141168c359c7,21603,Shepparton,216,Shepparton,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+7162d34e551d232ae0976c0dda4e107a,21302,Hobsons Bay,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+3a909674b845c826ecccfbe8a42247f6,21305,Wyndham,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+1facae6326242d7a0a2139b08546ec58,21005,Tullamarine - Broadmeadows,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+fada60ac427a94ddc93f9554c523f402,21004,Sunbury,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+08a060a61b90a099b277ce6a1982dfbb,20803,Kingston,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+6fa49450b98696c6c042357d73674657,21101,Knox,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+86686c6057489287cb609e4f81f3e1b3,21002,Macedon Ranges,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+531a192ef56b0c958ae831a8c40898bb,21102,Manningham - East,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+775a90dc133a5870654dc448e95ce41b,20702,Manningham - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+0a03d5e4473c0629cfb20c5c31543b06,21104,Whitehorse - East,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+2e8abed6b12530e83f890e90ad4fbeb3,21303,Maribyrnong,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+8e088b124c72a1ac0dcbcbdebbfb08f3,21103,Maroondah,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+a7633a637f2f7a3ea7a9a04807eeca97,20604,Melbourne City,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+1b4f877baadb44b36ff73a44e05ebd4c,20605,Port Phillip,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+c7e2ac420af977df8c6ccc95ac8dc911,20607,Yarra,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+d5ece54ea76a9e6632f4242df1820164,21304,Melton - Bacchus Marsh,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+31baf5edc57d76fd3005222389ca498f,21502,Mildura,215,North West,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+8cb060b4a9c350a9d34b588479d20c9f,20904,Whittlesea - Wallan,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+973bc36f4729330b7993f2fdb1a7f9e7,21602,Moira,216,Shepparton,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
+8c2f64f08271fc4e4351c12acee2a932,21205,Monash,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+60ee22c27013613e980104db94ae53c9,20603,Essendon,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+065f16a07047ae1c3b0c4ab8da87fe8e,20601,Brunswick - Coburg,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+cfb5325c83ad40797068e162c50ee5a0,21003,Moreland - North,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+231e3d1635ff621b8c1c3a9f5c0b2b20,21402,Mornington Peninsula,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+f687a4f18a6d8e0ade28a558503bd998,20903,Nillumbik - Kinglake,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+0d10f1d273a62c6d7af57c6093632919,20606,Stonnington - West,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+cdf0df5cff98449512dbd2725721a307,20804,Stonnington - East,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+77b1932b3eec9f094a2b103001f0dff1,20703,Whitehorse - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
+8ceab02fd10ccfca0ee92f8d14087c7d,29797,Migratory - Offshore - Shipping (Vic.),297,Migratory - Offshore - Shipping (Vic.),29799,Migratory - Offshore - Shipping (Vic.),2,Victoria,2024-07-09
+6d7364731230122df155fddea6878dd3,39999,No usual address (Qld),399,No usual address (Qld),39499,No usual address (Qld),3,Queensland,2024-07-09
+a306a13c6c1ee387390fdc96c7bdca66,31802,Townsville,318,Townsville,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+76d77e63456ae93049d2bfe3e7356354,31503,Outback - South,315,Queensland - Outback,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+eb6ee4b36cdf23e8167e10a47e340fed,30605,Tablelands (East) - Kuranda,306,Cairns,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+01ad78c33cf1fcaf447971fa919a96b7,31501,Far North,315,Queensland - Outback,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+56bc2ffafe5268122fb8c00807dea91f,30701,Darling Downs (West) - Maranoa,307,Darling Downs - Maranoa,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+ed0ec47d9ace176c75820740b17aa553,30804,Biloela,308,Central Queensland,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+0718aac22ecc8481c33c38f79ba7f5bb,30801,Central Highlands (Qld),308,Central Queensland,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+8fe8b1a271feba2ac9af3584caddbf89,31104,Jimboomba,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+cef65a145c54dbe0f1ea8ad16a331421,31103,Browns Plains,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+d1e40981bafcf2c263607fbc27e7a34e,30904,Gold Coast Hinterland,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+485f1d0ae76a063a524f0c6315e93e74,31101,Beaudesert,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+ce49d66b1ddfeb732c56810c4736e3c3,31002,Ipswich Hinterland,310,Ipswich,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+3a0b86bff1bab2d03baa6b260e578b50,31201,Bowen Basin - North,312,Mackay - Isaac - Whitsunday,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+24c301e049a2077855d3e37ba719b09d,31902,Burnett,319,Wide Bay,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+b5146481a245e50255f5b24319c2711a,30305,Rocklea - Acacia Ridge,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+b899aa15c56fee62bcea0903b59b18fe,30503,Brisbane Inner - North,305,Brisbane Inner City,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+ab5a47d41c51bcd432f515088a070b8b,30302,Holland Park - Yeronga,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+df3533caf8f1bedde6a6633d90819e82,30402,Kenmore - Brookfield - Moggill,304,Brisbane - West,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+8b559bb0b6348d0baedcfd7e3b468f54,30504,Brisbane Inner - West,305,Brisbane Inner City,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+ac4e368758b1e4e2b89f45b7554ac7ab,30202,Chermside,302,Brisbane - North,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+5e5c6be7a4b64ead7fe95a284e013e18,30201,Bald Hills - Everton Park,302,Brisbane - North,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+4fa0d97504185879b6e7524dda47d98b,30204,Sandgate,302,Brisbane - North,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+f18eb5201b7221148de220114667ba96,30502,Brisbane Inner - East,305,Brisbane Inner City,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+bfebf2c52000d2bac1a130520ace5dd7,30203,Nundah,302,Brisbane - North,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+2ec937378ea08e49faa1a6608880d002,30101,Capalaba,301,Brisbane - East,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+fe93fd567b9aafe3cc3372a19309fc6a,30303,Mt Gravatt,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+e1b0e6b958ea38f4dae5f9d24730ef05,30404,The Gap - Enoggera,304,Brisbane - West,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+bc8147ca69573b8a699c18e7ddbcfb48,30301,Carindale,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+3e95b38ce315f12892dee0121e6fad4a,30103,Wynnum - Manly,301,Brisbane - East,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+e3036fb3e0fd60ba20772f6325fa8f60,30403,Sherwood - Indooroopilly,304,Brisbane - West,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+443fbc49b4ab9988d64065d7e2fddf1a,30501,Brisbane Inner,305,Brisbane Inner City,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+cde1d59c5e9400b69a4854735d590888,30304,Nathan,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+93f947b225ac771e805ea9d368c8ae29,31001,Forest Lake - Oxley,310,Ipswich,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+b85b19cea2f0268e105f30d78f668250,30401,Centenary,304,Brisbane - West,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+1d93b3d03e07f30415bb68699463271f,31003,Ipswich Inner,310,Ipswich,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+e3423656a3520cb9a9825048b5cb59aa,30306,Sunnybank,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+b63a9cb5d9cd025826d518de83521e51,31305,Redcliffe,313,Moreton Bay - North,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+ea2486be22140cf8214932e344a07215,31901,Bundaberg,319,Wide Bay,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+7dcf8773e0db912ac8a9bd8914aed99e,31801,Charters Towers - Ayr - Ingham,318,Townsville,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+0a64ba6b57592efd39bc6b27cdc61f57,31502,Outback - North,315,Queensland - Outback,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+61d427b812eea882235a3ae3ce613dd2,31301,Bribie - Beachmere,313,Moreton Bay - North,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+5e07ccf98e67363bad70138b84cfe2cb,31606,Sunshine Coast Hinterland,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+4d0b33b5012968d7184664859cf30a80,31304,Narangba - Burpengary,313,Moreton Bay - North,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+2cf7926aeec52fbe4f1a6ae2a1770329,31302,Caboolture,313,Moreton Bay - North,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+2fd888270070d2f794ec95b2075f8a29,31303,Caboolture Hinterland,313,Moreton Bay - North,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+755945a59ff256394631b079277ab8bc,30601,Cairns - North,306,Cairns,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+0c2b52a946ce2657e1af75ee6cb84898,30602,Cairns - South,306,Cairns,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+12c9572aee915aa05233c43f75e915a6,30603,Innisfail - Cassowary Coast,306,Cairns,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+3340d90f2875506693f0c0a8e693be86,30805,Gladstone,308,Central Queensland,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+4223c8eb2036814ce6c0a9b2d3bf41c1,31602,Caloundra,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+95133894ec11a574d25413576636e5dc,31701,Toowoomba,317,Toowoomba,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+86113dc59e768c1d1a462f18a5d458a0,30703,Granite Belt,307,Darling Downs - Maranoa,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+3cfdef4f1447147029268a257d131552,31903,Gympie - Cooloola,319,Wide Bay,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+c0bf581dc5c2abecaf2385d8845f0c91,30702,Darling Downs - East,307,Darling Downs - Maranoa,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+7c9d8efa5f0fc84385730c20b6a569e3,30604,Port Douglas - Daintree,306,Cairns,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+74b4db7ecf4ff1770156d20fd45a7a6e,30803,Rockhampton,308,Central Queensland,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+5eef269207a5f1914c93407bed2d9ab8,31102,Beenleigh,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+10b83e434ddcd9c79ad2b9be2fd0aa84,31105,Loganlea - Carbrook,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+e68d60edfb709b5834cb5e9286b4ce4b,30907,Ormeau - Oxenford,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+238e625ff1f20b656f8986f42a76092f,30909,Southport,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+69c89914e702d2abe840bd751f5b59c5,30910,Surfers Paradise,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+8d06969939c8f260b8d1db5b900f7653,30903,Gold Coast - North,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+42240455439aa23182bf604e3b202915,30902,Coolangatta,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+68cee18772f6c46a1f5cfe4cda915574,30901,Broadbeach - Burleigh,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+46f3eb0e98ba1f34a396ebc7a9ba9f7c,30908,Robina,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+c4f48c98a227f6dd2cdbd6a30dac6082,30906,Nerang,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+35717dde349c0e37db826b95ca6c44fd,30905,Mudgeeraba - Tallebudgera,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+42aa61c7ccfa95dc4db4d894530def8a,31904,Hervey Bay,319,Wide Bay,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+bd41a065d4640c9dd3c1e06ce9c820dc,31905,Maryborough,319,Wide Bay,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+21964698b7df1cefa6befc89697f5293,31004,Springfield - Redbank,310,Ipswich,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+4f1beaf39805550dd06b5cac412cd19b,31106,Springwood - Kingston,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+435ea5e88223276427a4d4613a7e06a5,31202,Mackay,312,Mackay - Isaac - Whitsunday,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+a57bf18e19b6b17e3d4fbc20561e2055,31601,Buderim,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+913c130aa3a3e9780ee459eadf80c05c,31603,Maroochy,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+9bc792898a1f66e2ed7c2e2407b3fe8c,31605,Noosa,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+a71f9f47d27e10623154025319152a82,31607,Nambour,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+4f2bed48f31aa4f70b89c5e87a60e3e9,31608,Noosa Hinterland,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+d64c331c34bb99731a626c0002467c65,31401,The Hills District,314,Moreton Bay - South,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+c4fa856e631d52fce97c4eb37d17bb19,31403,Strathpine,314,Moreton Bay - South,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+61ff912aec1b33f9ac603a67fb18fd94,31402,North Lakes,314,Moreton Bay - South,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+92945505a99aea57f8d9a7fc2f739595,30102,Cleveland - Stradbroke,301,Brisbane - East,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
+09ec0f40d1fec53253882a9f9f913cbd,31203,Whitsunday,312,Mackay - Isaac - Whitsunday,3RQLD,Rest of Qld,3,Queensland,2024-07-09
+dabae0ad17c002ae7a711aca44636260,39797,Migratory - Offshore - Shipping (Qld),397,Migratory - Offshore - Shipping (Qld),39799,Migratory - Offshore - Shipping (Qld),3,Queensland,2024-07-09
+c703af5c89b1d0bc2e99f540f553f182,49999,No usual address (SA),499,No usual address (SA),49499,No usual address (SA),4,South Australia,2024-07-09
+14919153f8aaf3af893165510756de56,40101,Adelaide City,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+9868de7d15bae3816653aa9fad6cf106,40102,Adelaide Hills,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+99cc8493c2392e2b0f5d61bb0220b474,40104,Campbelltown (SA),401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+9732e202ad7af4dd76eecd5f978cc96e,40701,Fleurieu - Kangaroo Island,407,South Australia - South East,4RSAU,Rest of SA,4,South Australia,2024-07-09
+fd577536e9ceee3d9c2b3b2e6d2e2a88,40602,Outback - North and East,406,South Australia - Outback,4RSAU,Rest of SA,4,South Australia,2024-07-09
+da2c3fbac23ba11ec8a1a36e31578620,40501,Barossa,405,Barossa - Yorke - Mid North,4RSAU,Rest of SA,4,South Australia,2024-07-09
+1faacc3ab6e29cd764380a5129a12631,40201,Gawler - Two Wells,402,Adelaide - North,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+91edf9918caf23ade612be8a563a676b,40502,Lower North,405,Barossa - Yorke - Mid North,4RSAU,Rest of SA,4,South Australia,2024-07-09
+99b824ede6546f5b83b7d2b66e4d8042,40504,Yorke Peninsula,405,Barossa - Yorke - Mid North,4RSAU,Rest of SA,4,South Australia,2024-07-09
+981d34514a093fa94b6d484867e14fac,40703,Murray and Mallee,407,South Australia - South East,4RSAU,Rest of SA,4,South Australia,2024-07-09
+bd1bb6b87180689231804f4ceb383485,40103,Burnside,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+6d8a1d94651a63cd8cb385dc3e96a3a0,40601,Eyre Peninsula and South West,406,South Australia - Outback,4RSAU,Rest of SA,4,South Australia,2024-07-09
+d9e8009b7857b10b3a21819e28379b4d,40403,West Torrens,404,Adelaide - West,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+36165040b1051f2cfde3c3e5c095d3ed,40401,Charles Sturt,404,Adelaide - West,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+ed7c2df00da3928f799751b048ed5ab0,40402,Port Adelaide - West,404,Adelaide - West,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+aea76ed2f98e26f9116049d0376ba275,40702,Limestone Coast,407,South Australia - South East,4RSAU,Rest of SA,4,South Australia,2024-07-09
+f74b25a7dc1504cf5a3b964a990266ff,40301,Holdfast Bay,403,Adelaide - South,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+f0affe8ec1361efcafd1816b5b1c2426,40302,Marion,403,Adelaide - South,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+2f233bb83fcd9c49e2959f96f2463b64,40303,Mitcham,403,Adelaide - South,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+0dd53c8891cc022924207db32a860bb4,40304,Onkaparinga,403,Adelaide - South,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+51fb18046e665c3a0df6457781ae8125,40503,Mid North,405,Barossa - Yorke - Mid North,4RSAU,Rest of SA,4,South Australia,2024-07-09
+3f00436e3415eabeafb77ba1fe5b6f87,40105,Norwood - Payneham - St Peters,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+bd8f44067769dbfb91bd4b4c13c967c2,40202,Playford,402,Adelaide - North,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+920530cb8744c679e3a2ece84f1d5ce4,40203,Port Adelaide - East,402,Adelaide - North,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+a82afc8ee542eaec69da51a6bbc973d4,40204,Salisbury,402,Adelaide - North,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+04a7dfa903d6e9fe93d5ad37913ad5ff,40205,Tea Tree Gully,402,Adelaide - North,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+702f785904a60c6b8b8e5af93f9e412e,40106,Prospect - Walkerville,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+85b88bc0f811d78392c3f2fdc45f9ee2,40107,Unley,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia,2024-07-09
+fc78ca523076710b5fe66966a6715bfc,49797,Migratory - Offshore - Shipping (SA),497,Migratory - Offshore - Shipping (SA),49799,Migratory - Offshore - Shipping (SA),4,South Australia,2024-07-09
+57b8d9ceaa1a98dd5f889f2b9a4854db,59999,No usual address (WA),599,No usual address (WA),59499,No usual address (WA),5,Western Australia,2024-07-09
+6fdcfb5e59ed2e8c4e379a2b779da93a,50901,Albany,509,Western Australia - Wheat Belt,5RWAU,Rest of WA,5,Western Australia,2024-07-09
+61e437816d0d78c62abc93ed2770ac7a,50601,Armadale,506,Perth - South East,5GPER,Greater Perth,5,Western Australia,2024-07-09
+71585b1edc15fa6b66d97a747392bc43,51003,West Pilbara,510,Western Australia - Outback (North),5RWAU,Rest of WA,5,Western Australia,2024-07-09
+86a2e69c428aafb50b38a78f62d35b8d,50101,Augusta - Margaret River - Busselton,501,Bunbury,5RWAU,Rest of WA,5,Western Australia,2024-07-09
+cb24edc0ec341e14fe5108ee6b1493cb,50401,Bayswater - Bassendean,504,Perth - North East,5GPER,Greater Perth,5,Western Australia,2024-07-09
+ffe367e29927354b95526f42fab1e71a,50302,Perth City,503,Perth - Inner,5GPER,Greater Perth,5,Western Australia,2024-07-09
+d6f07f83059edd69be854095a7ddd520,50602,Belmont - Victoria Park,506,Perth - South East,5GPER,Greater Perth,5,Western Australia,2024-07-09
+e558b4076533c2d1423729fc03d79ad6,50902,Wheat Belt - North,509,Western Australia - Wheat Belt,5RWAU,Rest of WA,5,Western Australia,2024-07-09
+081c09225f5f0932d5dff03f505f3089,50903,Wheat Belt - South,509,Western Australia - Wheat Belt,5RWAU,Rest of WA,5,Western Australia,2024-07-09
+f7f8eb12e0f61a9321597157c0d61791,50103,Manjimup,501,Bunbury,5RWAU,Rest of WA,5,Western Australia,2024-07-09
+bd22efb6bdeabb178eec7b0051f764d7,51001,Kimberley,510,Western Australia - Outback (North),5RWAU,Rest of WA,5,Western Australia,2024-07-09
+1a04ae79df0720de2b40a38b48e5cdd2,50102,Bunbury,501,Bunbury,5RWAU,Rest of WA,5,Western Australia,2024-07-09
+12bb430be526cebb26b7248683b51fab,50301,Cottesloe - Claremont,503,Perth - Inner,5GPER,Greater Perth,5,Western Australia,2024-07-09
+563584468af77b2fc03ffa42d5da94cb,50502,Stirling,505,Perth - North West,5GPER,Greater Perth,5,Western Australia,2024-07-09
+2f849d821a8a925a9238d81184f5ef5c,50603,Canning,506,Perth - South East,5GPER,Greater Perth,5,Western Australia,2024-07-09
+7730beeadff43f778e47a7fdbaeaf806,50704,Melville,507,Perth - South West,5GPER,Greater Perth,5,Western Australia,2024-07-09
+af4ae70d0eac8b8fc9bc16fb9fa07741,51104,Mid West,511,Western Australia - Outback (South),5RWAU,Rest of WA,5,Western Australia,2024-07-09
+2ba46450ca83f7d0d90f555479c657a2,51102,Gascoyne,511,Western Australia - Outback (South),5RWAU,Rest of WA,5,Western Australia,2024-07-09
+fc02b61a1b120b332dfda8c6cefb82f9,50705,Rockingham,507,Perth - South West,5GPER,Greater Perth,5,Western Australia,2024-07-09
+21cd1658dfd2507648e76c416ff04265,50701,Cockburn,507,Perth - South West,5GPER,Greater Perth,5,Western Australia,2024-07-09
+b03e9b7b50eaa81eaab314f9bcc41b5a,50702,Fremantle,507,Perth - South West,5GPER,Greater Perth,5,Western Australia,2024-07-09
+78c9993a943c7fc54b2c81d428e9a921,51103,Goldfields,511,Western Australia - Outback (South),5RWAU,Rest of WA,5,Western Australia,2024-07-09
+f0342a4f9b0d5ab5ecc0870e115cd9e3,51101,Esperance,511,Western Australia - Outback (South),5RWAU,Rest of WA,5,Western Australia,2024-07-09
+d681961f197a553613755541b4c77b98,51002,East Pilbara,510,Western Australia - Outback (North),5RWAU,Rest of WA,5,Western Australia,2024-07-09
+389941c918cb59ff6ff1d1f2ac57cc92,50604,Gosnells,506,Perth - South East,5GPER,Greater Perth,5,Western Australia,2024-07-09
+fed9797e75393322ff5d5beddf9773be,50501,Joondalup,505,Perth - North West,5GPER,Greater Perth,5,Western Australia,2024-07-09
+09bc9ab48b2e176030c8351b8aa38226,50605,Kalamunda,506,Perth - South East,5GPER,Greater Perth,5,Western Australia,2024-07-09
+88c6fccd9f242ea10362555ce8306f3a,50402,Mundaring,504,Perth - North East,5GPER,Greater Perth,5,Western Australia,2024-07-09
+7e07d99a704ed310140295332558885a,50703,Kwinana,507,Perth - South West,5GPER,Greater Perth,5,Western Australia,2024-07-09
+df3c83cabeab2f43401dc6a7006c2d2a,50201,Mandurah,502,Mandurah,5GPER,Greater Perth,5,Western Australia,2024-07-09
+026573d44030835fe74c624be25113a1,50403,Swan,504,Perth - North East,5GPER,Greater Perth,5,Western Australia,2024-07-09
+4540c5d4a85c10a627f12ed1f3d3d24e,50606,Serpentine - Jarrahdale,506,Perth - South East,5GPER,Greater Perth,5,Western Australia,2024-07-09
+91d979933e4bf31e16823a0c13e037d5,50607,South Perth,506,Perth - South East,5GPER,Greater Perth,5,Western Australia,2024-07-09
+aafb1ce4fed408a5843cf431a0bbdcb1,50503,Wanneroo,505,Perth - North West,5GPER,Greater Perth,5,Western Australia,2024-07-09
+53cd3288cc9e5ec276f7ac58bfcf2653,59797,Migratory - Offshore - Shipping (WA),597,Migratory - Offshore - Shipping (WA),59799,Migratory - Offshore - Shipping (WA),5,Western Australia,2024-07-09
+09d914fa78ad2c9bc534fead45b3d534,69999,No usual address (Tas.),699,No usual address (Tas.),69499,No usual address (Tas.),6,Tasmania,2024-07-09
+ef2765780c151172587db3234677bb12,60203,North East,602,Launceston and North East,6RTAS,Rest of Tas.,6,Tasmania,2024-07-09
+d1eefdef38b0dc9967b2482ed5676157,60101,Brighton,601,Hobart,6GHOB,Greater Hobart,6,Tasmania,2024-07-09
+1ca9e3440300554e016b695aba2d3aee,60401,Burnie - Ulverstone,604,West and North West,6RTAS,Rest of Tas.,6,Tasmania,2024-07-09
+35309ec8898385cea2e85454a678c50e,60403,West Coast,604,West and North West,6RTAS,Rest of Tas.,6,Tasmania,2024-07-09
+5b60531e7e48b9406f470eb8c7e5ab99,60402,Devonport,604,West and North West,6RTAS,Rest of Tas.,6,Tasmania,2024-07-09
+1b26393c0dbab1e5a039ae09c001d907,60301,Central Highlands (Tas.),603,South East,6RTAS,Rest of Tas.,6,Tasmania,2024-07-09
+4a93e679058284a39a7d6da21038cf5b,60202,Meander Valley - West Tamar,602,Launceston and North East,6RTAS,Rest of Tas.,6,Tasmania,2024-07-09
+5193bdfe211de11f3a444ff6a13e385e,60102,Hobart - North East,601,Hobart,6GHOB,Greater Hobart,6,Tasmania,2024-07-09
+39d96ac1450b2d517807dc8a94b26c17,60106,Sorell - Dodges Ferry,601,Hobart,6GHOB,Greater Hobart,6,Tasmania,2024-07-09
+fd1d25ed94da6ba29824c667a7093312,60103,Hobart - North West,601,Hobart,6GHOB,Greater Hobart,6,Tasmania,2024-07-09
+e929f2dd90fea25ce5af4f75c839f05e,60303,South East Coast,603,South East,6RTAS,Rest of Tas.,6,Tasmania,2024-07-09
+3dc09677e0fdb539a31d497c4fb25f20,60105,Hobart Inner,601,Hobart,6GHOB,Greater Hobart,6,Tasmania,2024-07-09
+4df9b34ea36ad02818ca526edcc64cb2,60104,Hobart - South and West,601,Hobart,6GHOB,Greater Hobart,6,Tasmania,2024-07-09
+d22b000080700bd53bebc101edbb62a8,60302,Huon - Bruny Island,603,South East,6RTAS,Rest of Tas.,6,Tasmania,2024-07-09
+c262222092ac2de460cc1327a41b492b,60201,Launceston,602,Launceston and North East,6RTAS,Rest of Tas.,6,Tasmania,2024-07-09
+41e3e91b7e11bf2eb3192f94a9b1ddb9,69797,Migratory - Offshore - Shipping (Tas.),697,Migratory - Offshore - Shipping (Tas.),69799,Migratory - Offshore - Shipping (Tas.),6,Tasmania,2024-07-09
+13aa1430371637c6332edf6364489fa2,79999,No usual address (NT),799,No usual address (NT),79499,No usual address (NT),7,Northern Territory,2024-07-09
+aae21e1ca430b314ba7e1db08542ec71,70201,Alice Springs,702,Northern Territory - Outback,7RNTE,Rest of NT,7,Northern Territory,2024-07-09
+935c19204ce462ffe29f0b407f20cb23,70202,Barkly,702,Northern Territory - Outback,7RNTE,Rest of NT,7,Northern Territory,2024-07-09
+b7655660da4976f424dcd894ca7e1287,70204,East Arnhem,702,Northern Territory - Outback,7RNTE,Rest of NT,7,Northern Territory,2024-07-09
+9653d0a3230bdd09490bb9e79e1ebfb9,70203,Daly - Tiwi - West Arnhem,702,Northern Territory - Outback,7RNTE,Rest of NT,7,Northern Territory,2024-07-09
+a65c8e4bd3a073a17da57681d1537801,70205,Katherine,702,Northern Territory - Outback,7RNTE,Rest of NT,7,Northern Territory,2024-07-09
+3ff0a6a90d233f48f63179739f794c02,70102,Darwin Suburbs,701,Darwin,7GDAR,Greater Darwin,7,Northern Territory,2024-07-09
+a3e7e9a4765cc0d22aa60df878408547,70101,Darwin City,701,Darwin,7GDAR,Greater Darwin,7,Northern Territory,2024-07-09
+ef09ecc3f64613ab88d86fef58fe25a0,70104,Palmerston,701,Darwin,7GDAR,Greater Darwin,7,Northern Territory,2024-07-09
+99628fa2e8d3bedd870b425c42fc2b74,70103,Litchfield,701,Darwin,7GDAR,Greater Darwin,7,Northern Territory,2024-07-09
+5f64af8aa59512d57e54425cd8c989f2,79797,Migratory - Offshore - Shipping (NT),797,Migratory - Offshore - Shipping (NT),79799,Migratory - Offshore - Shipping (NT),7,Northern Territory,2024-07-09
+efd7fc8aef277698a0f30f3412d67176,89999,No usual address (ACT),899,No usual address (ACT),89499,No usual address (ACT),8,Australian Capital Territory,2024-07-09
+d5bd90ace3359032b81745e6ff4259bc,80105,North Canberra,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,2024-07-09
+26fa990347eb7bdf28528a18de2f3e31,80106,South Canberra,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,2024-07-09
+d8ff1cee5ba71c2867f9dbc20b139f38,80104,Gungahlin,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,2024-07-09
+33bf3f1018b373ca46c8f54e3027e9eb,80101,Belconnen,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,2024-07-09
+c059d7dfefdf0fc36e1f71947e2b5e5a,80107,Tuggeranong,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,2024-07-09
+ef26837175f450f1abc5f92107b9acbf,80108,Weston Creek,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,2024-07-09
+d4e06433451e1503eac985d707b0763b,80109,Woden Valley,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,2024-07-09
+b51869faee0c2357dc5c2c34e4229a80,80103,Canberra East,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,2024-07-09
+ea3fb9221bc639881aaea8d796515fad,80111,Urriarra - Namadgi,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,2024-07-09
+542b0d236eaa6e41b85fcf4d7421ab70,80110,Molonglo,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,2024-07-09
+8cf4ecb5db3bd52916325cf38feb7c01,89797,Migratory - Offshore - Shipping (ACT),897,Migratory - Offshore - Shipping (ACT),89799,Migratory - Offshore - Shipping (ACT),8,Australian Capital Territory,2024-07-09
+d3eb9a9233e52948740d7eb8c3062d14,99999,No usual address (OT),999,No usual address (OT),99499,No usual address (OT),9,Other Territories,2024-07-09
+90b2fb2673e8af20cd32b76d32f97ec0,90103,Jervis Bay,901,Other Territories,9OTER,Other Territories,9,Other Territories,2024-07-09
+4512381fff7667c2c28d35dc4087ce6c,90101,Christmas Island,901,Other Territories,9OTER,Other Territories,9,Other Territories,2024-07-09
+19014176263f15260ae0afc5fc0e45d8,90102,Cocos (Keeling) Islands,901,Other Territories,9OTER,Other Territories,9,Other Territories,2024-07-09
+587b11d4d193d217aa603d0b4d34d95f,90104,Norfolk Island,901,Other Territories,9OTER,Other Territories,9,Other Territories,2024-07-09
+d18ef1982a938e0197f18a39fd008e08,99797,Migratory - Offshore - Shipping (OT),997,Migratory - Offshore - Shipping (OT),99799,Migratory - Offshore - Shipping (OT),9,Other Territories,2024-07-09

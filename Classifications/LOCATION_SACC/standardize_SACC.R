@@ -13,18 +13,20 @@ Major_group <- data %>% select(Major_group, Minor_group) %>% filter(!is.na(Major
 Minor_group <- data %>% select(Minor_group, Countries) %>% filter(!is.na(Minor_group) & !is.na(Countries))
 Countries <- data %>% select(Countries, Description) %>% filter(!is.na(Countries) & !is.na(Description))
 
-Major_group$key <- openssl::md5(as.character(Major_group$Major_group))
-Minor_group$key <- openssl::md5(as.character(Minor_group$Minor_group))
-Countries$key <- openssl::md5(as.character(Countries$Countries))
+#add a date column to all dataframes that has current date
+Major_group$date <- as.Date(Sys.time())
+Minor_group$date <- as.Date(Sys.time())
+Countries$date <- as.Date(Sys.time())
 
-Major_group <- Major_group %>% select(key, everything())
-Minor_group <- Minor_group %>% select(key, everything())
-Countries <- Countries %>% select(key, everything())
+Major_group$Major_group_key <- openssl::md5(as.character(Major_group$Major_group))
+Minor_group$Minor_group_key <- openssl::md5(as.character(Minor_group$Minor_group))
+Countries$Countries_key <- openssl::md5(as.character(Countries$Countries))
+
+Major_group <- Major_group %>% select(Major_group_key, everything())
+Minor_group <- Minor_group %>% select(Minor_group_key, everything())
+Countries <- Countries %>% select(Countries_key, everything())
 #write to CSV
 
 write_csv(Major_group, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_SACC/Output/SACC_Major_group.csv")
 write_csv(Minor_group, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_SACC/Output/SACC_Minor_group.csv")
 write_csv(Countries, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_SACC/Output/SACC_Countries.csv")
-
-
-#read Table 1.3
