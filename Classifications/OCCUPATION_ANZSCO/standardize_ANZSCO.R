@@ -25,23 +25,23 @@ Unit_Group_Data <- Unit_Group_Data %>% select(Unit_Group, Description, Skill_Lev
 Occupation_Data <- Occupation_Data %>% select(Occupation_Code, Description, Skill_Level) %>% filter(!is.na(Occupation_Code) & !is.na(Description) & !is.na(Skill_Level))
 
 #add a date column to all Dataframes that has current date
-Major_Group_Data$Date <- as.Date(Sys.Date())
-Sub_Major_Group_Data$Date <- as.Date(Sys.Date())
-Minor_Group_Data$Date <- as.Date(Sys.Date())
-Unit_Group_Data$Date <- as.Date(Sys.Date())
-Occupation_Data$Date <- as.Date(Sys.Date())
+Major_Group_Data$Major_Group_Date <- today()
+Sub_Major_Group_Data$Sub_Major_Group_Date <- today()
+Minor_Group_Data$Minor_Group_Date <- today()
+Unit_Group_Data$Unit_Group_Date <- today()
+Occupation_Data$Occupation_Date <- today()
 
-Major_Group_Data$Major_Group_key <- openssl::md5(as.character(Major_Group_Data$Major_Group))
-Sub_Major_Group_Data$Sub_Major_Group_key <- openssl::md5(as.character(Sub_Major_Group_Data$Sub_Major_Group))
-Minor_Group_Data$Minor_Group_key <- openssl::md5(as.character(Minor_Group_Data$Minor_Group))
-Unit_Group_Data$Unit_Group_key <- openssl::md5(as.character(Unit_Group_Data$Unit_Group))
-Occupation_Data$Occupation_Code_key <- openssl::md5(as.character(Occupation_Data$Occupation_Code))
+Major_Group_Data$Major_Group_Key <- openssl::md5(as.character(Major_Group_Data$Major_Group))
+Sub_Major_Group_Data$Sub_Major_Group_Key <- openssl::md5(as.character(Sub_Major_Group_Data$Sub_Major_Group))
+Minor_Group_Data$Minor_Group_Key <- openssl::md5(as.character(Minor_Group_Data$Minor_Group))
+Unit_Group_Data$Unit_Group_Key <- openssl::md5(as.character(Unit_Group_Data$Unit_Group))
+Occupation_Data$Occupation_Code_Key <- openssl::md5(as.character(Occupation_Data$Occupation_Code))
 
-Major_Group_Data <- Major_Group_Data %>% select(Major_Group_key, everything())
-Sub_Major_Group_Data <- Sub_Major_Group_Data %>% select(Sub_Major_Group_key, everything())
-Minor_Group_Data <- Minor_Group_Data %>% select(Minor_Group_key, everything())
-Unit_Group_Data <- Unit_Group_Data %>% select(Unit_Group_key, everything())
-Occupation_Data <- Occupation_Data %>% select(Occupation_Code_key, everything())
+Major_Group_Data <- Major_Group_Data %>% select(Major_Group_Key, everything())
+Sub_Major_Group_Data <- Sub_Major_Group_Data %>% select(Sub_Major_Group_Key, everything())
+Minor_Group_Data <- Minor_Group_Data %>% select(Minor_Group_Key, everything())
+Unit_Group_Data <- Unit_Group_Data %>% select(Unit_Group_Key, everything())
+Occupation_Data <- Occupation_Data %>% select(Occupation_Code_Key, everything())
 
 #write to CSV
 
