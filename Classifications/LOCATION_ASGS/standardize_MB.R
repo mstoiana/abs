@@ -85,13 +85,13 @@ MB$date <- as.Date(Sys.time())
 MB$MB_key <- openssl::md5(as.character(MB$MB_CODE_2016))
 MB <- MB %>% select(MB_key, everything())
 #write to CSV
-write_csv(SA1, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/SA1.csv")
-write_csv(SA2, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/SA2.csv")
-write_csv(SA3, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/SA3.csv")
-write_csv(SA4, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/SA4.csv")
-write_csv(GCCSA, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/GCCSA.csv")
-write_csv(State, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/State.csv")
-write_csv(MB, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/MB.csv")
+write_csv(SA1, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_SA1.csv")
+write_csv(SA2, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_SA2.csv")
+write_csv(SA3, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_SA3.csv")
+write_csv(SA4, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_SA4.csv")
+write_csv(GCCSA, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_GCCSA.csv")
+write_csv(State, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_State.csv")
+write_csv(MB, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_MB.csv")
 #TODO
 #AUTOMATE DOWNLOAD & EXTRACTION OF CSV
 
