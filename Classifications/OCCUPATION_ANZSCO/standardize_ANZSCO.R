@@ -2,8 +2,6 @@ library(readxl)
 library(tidyverse)
 library(openssl)
 library(dplyr)
-#TODO
-#FIX SO THAT PREDOM SKILLS ARE SHOWN ON HIGHER LAYER
 #function to import csv
 Occupation_Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/OCCUPATION_ANZSCO/Input/1220.0 anzsco version 1.3 structure v1.xlsx", sheet = "Table 5", skip = 4)
 Major_Group_Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/OCCUPATION_ANZSCO/Input/1220.0 anzsco version 1.3 structure v1.xlsx", sheet = "Table 1", skip = 4)

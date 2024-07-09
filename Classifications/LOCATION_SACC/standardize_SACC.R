@@ -5,15 +5,15 @@ library(dplyr)
 
 #import CSV
 #read excel file sheet Table 1.3
-#data <- read_excel(file_path, sheet = sheet_name, skip = skip)
-data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_SACC/Input/sacc_12690do0001_202402.xlsx", sheet = "Table 1.3", skip = 4)
-colnames(data) <- c("Major_Group", "Minor_Group", "Countries", "Countries_Description")
+#Data <- read_excel(file_path, sheet = sheet_name, skip = skip)
+Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_SACC/Input/sacc_12690do0001_202402.xlsx", sheet = "Table 1.3", skip = 4)
+colnames(Data) <- c("Major_Group", "Minor_Group", "Countries", "Countries_Description")
 
-Major_Group <- data %>% select(Major_Group, Minor_Group) %>% filter(!is.na(Major_Group) & !is.na(Minor_Group))
-Minor_Group <- data %>% select(Minor_Group, Countries) %>% filter(!is.na(Minor_Group) & !is.na(Countries))
-Countries <- data %>% select(Countries, Countries_Description) %>% filter(!is.na(Countries) & !is.na(Countries_Description))
+Major_Group <- Data %>% select(Major_Group, Minor_Group) %>% filter(!is.na(Major_Group) & !is.na(Minor_Group))
+Minor_Group <- Data %>% select(Minor_Group, Countries) %>% filter(!is.na(Minor_Group) & !is.na(Countries))
+Countries <- Data %>% select(Countries, Countries_Description) %>% filter(!is.na(Countries) & !is.na(Countries_Description))
 
-#add a Date column to all dataframes that has current Date
+#add a Date column to all Dataframes that has current Date
 Major_Group$Major_Group_Date <- today()
 Minor_Group$Minor_Group_Date <- today()
 Countries$Countries_Date <- today()
