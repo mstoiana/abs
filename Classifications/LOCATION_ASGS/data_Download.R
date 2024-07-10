@@ -1,9 +1,10 @@
 library(httr)
 library(readr)
+library(readxl)
 
-#base_path <- "C:/Users/joshu/OneDrive/Documents/GIthub/abs/"
-#dest_path <- paste0(base_path, "Classifications/LOCATION_ASGS/Download/")
-#extract_path <- paste0(base_path, "Classifications/LOCATION_ASGS/Input/")
+base_path <- "C:/Users/joshu/OneDrive/Documents/GIthub/abs/"
+dest_path <- paste0(base_path, "Classifications/LOCATION_ASGS/Download/")
+extract_path <- paste0(base_path, "Classifications/LOCATION_ASGS/Input/")
 
 unzip_file <- function(zip_path, dest_path){
   unzip(zip_path, exdir = dest_path)
@@ -26,11 +27,13 @@ download_file <- function(url, dest_path, extract_path, file_name){
   }
 }
 
-#read from csv function
-url_from_csv <- function(csv_path, dest_path, extract_pat){
-  urls_df <- read_csv(csv_path, skip = 1, col_names = c("url", "file_name"))
+#read from excel function
+url_from_excel <- function(excel_path, dest_path, extract_path){
+  urls_df <- read_excel(excel_path, skip = 1, col_names = c("url", "file_name"))
   for (i in 1:nrow(urls_df)) {
     download_file(urls_df$url[i], dest_path, extract_path, urls_df$file_name[i])
   }
 }
-url_from_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Download/data_source.csv"), dest_path, extract_path)
+
+#Exampple
+url_from_excel(paste0(base_path, "Classifications/LOCATION_ASGS/Download/MB_Data_source.xlsx"), dest_path, extract_path)
