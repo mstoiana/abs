@@ -39,7 +39,8 @@ Narrow_Group <- Narrow_Group %>% select(Narrow_Group_Key, everything())
 Cultural_Ethnic_Group <- Cultural_Ethnic_Group %>% select(Cultural_Ethnic_Group_Key, everything())
 Supplementary_Group <- Supplementary_Group %>% select(Supplementary_Group_Key, everything())
 
-write_csv(Broad_Group, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/DEMOGRAPHIC_ASCCEG/Output/ASCCEG_Broad_Group.csv")
-write_csv(Narrow_Group, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/DEMOGRAPHIC_ASCCEG/Output/ASCCEG_Narrow_Group.csv")
-write_csv(Cultural_Ethnic_Group, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/DEMOGRAPHIC_ASCCEG/Output/ASCCEG_Cultural_Ethnic_Group.csv")
-write_csv(Supplementary_Group, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/DEMOGRAPHIC_ASCCEG/Output/ASCCEG_Supplementary_Group.csv")
+write_csv(Broad_Group, paste0(base_path, "Classifications/DEMOGRAPHIC_ASCCEG/Output/ASCCEG_Broad_Group.csv"))
+write_csv(Narrow_Group, paste0(base_path, "Classifications/DEMOGRAPHIC_ASCCEG/Output/ASCCEG_Narrow_Group.csv"))
+write_csv(Cultural_Ethnic_Group, paste0(base_path, "Classifications/DEMOGRAPHIC_ASCCEG/Output/ASCCEG_Cultural_ethnic_Group.csv"))
+write_csv(Supplementary_Group, paste0(base_path, "Classifications/DEMOGRAPHIC_ASCCEG/Output/ASCCEG_Supplementary_Group.csv"))
+
