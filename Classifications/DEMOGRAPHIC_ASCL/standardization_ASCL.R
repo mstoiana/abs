@@ -3,7 +3,16 @@ library(tidyverse)
 library(openssl)
 library(dplyr)
 
-Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/DEMOGRAPHIC_ASCL/Input/ASCL_12670DO0001_201703.xls", sheet = "Table 1.3", skip = 4)
+base_path <- "C:/Users/joshu/OneDrive/Documents/GIthub/abs/"
+scripts_path <- paste0(base_path, "/Scripts/data_Download.R")
+source(scripts_path)
+dest_path <- paste0(base_path, "Classifications/DEMOGRAPHIC_ASCL/Download/")
+extract_path <- paste0(base_path, "Classifications/DEMOGRAPHIC_ASCL/Input/")
+
+url <- "https://www.abs.gov.au/statistics/classifications/australian-standard-classification-languages-ascl/2016/ASCL_12670DO0001_201703.xls"
+download_file(url, dest_path, extract_path, "ASCL_12670DO0001_201703.xls")
+
+Data <- read_excel(paste0(base_path, "Classifications/DEMOGRAPHIC_ASCL/Input/ASCL_12670DO0001_201703.xls"), sheet = "Table 1.3", skip = 4)
 
 colnames(Data) <- c("Broad_Group", "Narrow_Group_2","Narrow_Group_3","Narrow_Group_3_Description", "Language_Code", "Language_Description")
 

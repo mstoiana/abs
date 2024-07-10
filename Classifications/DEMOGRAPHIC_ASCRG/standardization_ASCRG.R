@@ -3,8 +3,18 @@ library(tidyverse)
 library(openssl)
 library(dplyr)
 
-Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/DEMOGRAPHIC_ASCRG/Input/ASCRG_12660DO0001_202303.xlsx", sheet = "Table 1.3", skip = 4)
-Supplementary_Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/DEMOGRAPHIC_ASCRG/Input/ASCRG_12660DO0001_202303.xlsx", sheet = "Table 2", skip = 4)
+base_path <- "C:/Users/joshu/OneDrive/Documents/GIthub/abs/"
+scripts_path <- paste0(base_path, "/Scripts/data_Download.R")
+source(scripts_path)
+dest_path <- paste0(base_path, "Classifications/DEMOGRAPHIC_ASCRG/Download/")
+extract_path <- paste0(base_path, "Classifications/DEMOGRAPHIC_ASCRG/Input/")
+
+url <- "https://www.abs.gov.au/statistics/classifications/australian-standard-classification-religious-groups/mar-2024/ASCRG_12660DO0001_202303.xlsx"
+download_file(url, dest_path, extract_path, "ASCRG_12660DO0001_202303.xlsx")
+
+Data <- read_excel(paste0(base_path, "Classifications/DEMOGRAPHIC_ASCRG/Input/ASCRG_12660DO0001_202303.xlsx"), sheet = "Table 1.3", skip = 4)
+Supplementary_Data <- read_excel(paste0(base_path, "Classifications/DEMOGRAPHIC_ASCRG/Input/ASCRG_12660DO0001_202303.xlsx"), sheet = "Table 2", skip = 4)
+
 colnames(Data) <- c("Broad_Group", "Narrow_Group","Group_Code","Religious_Group")
 colnames(Supplementary_Data) <- c("Supplementary_Code", "Supplementary_Label")
 
