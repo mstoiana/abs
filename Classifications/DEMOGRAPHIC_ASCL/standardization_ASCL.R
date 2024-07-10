@@ -36,10 +36,11 @@ Narrow_Group_2 <- Narrow_Group_2 %>% select(Narrow_Group_2_Key, everything())
 Narrow_Group_3 <- Narrow_Group_3 %>% select(Narrow_Group_3_Key, everything())
 Language <- Language %>% select(Language_Key, everything())
 
-write.csv(Broad_Group, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/DEMOGRAPHIC_ASCL/Output/Broad_Group.csv", row.names = FALSE)
-write.csv(Narrow_Group_2, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/DEMOGRAPHIC_ASCL/Output/Narrow_Group_2.csv", row.names = FALSE)
-write.csv(Narrow_Group_3, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/DEMOGRAPHIC_ASCL/Output/Narrow_Group_3.csv", row.names = FALSE)
-write.csv(Language, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/DEMOGRAPHIC_ASCL/Output/Language.csv", row.names = FALSE)
+write.csv(Broad_Group, paste0(base_path, "Classifications/DEMOGRAPHIC_ASCL/Output/Broad_Group.csv"), row.names = FALSE)
+write.csv(Narrow_Group_2, paste0(base_path, "Classifications/DEMOGRAPHIC_ASCL/Output/Narrow_Group_2.csv"), row.names = FALSE)
+write.csv(Narrow_Group_3, paste0(base_path, "Classifications/DEMOGRAPHIC_ASCL/Output/Narrow_Group_3.csv"), row.names = FALSE)
+write.csv(Language, paste0(base_path, "Classifications/DEMOGRAPHIC_ASCL/Output/Language.csv"), row.names = FALSE)
+
 
 
 

@@ -52,13 +52,11 @@ Unit_Group_Data <- Unit_Group_Data %>% select(Unit_Group_Key, everything())
 Occupation_Data <- Occupation_Data %>% select(Occupation_Code_Key, everything())
 
 #write to CSV
-
-write_csv(Major_Group_Data, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/OCCUPATION_ANZSCO/Output/ANZSCO_Major_Group.csv")
-write_csv(Sub_Major_Group_Data, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/OCCUPATION_ANZSCO/Output/ANZSCO_Sub_Major_Group.csv")
-write_csv(Minor_Group_Data, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/OCCUPATION_ANZSCO/Output/ANZSCO_Minor_Group.csv")
-write_csv(Unit_Group_Data, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/OCCUPATION_ANZSCO/Output/ANZSCO_Unit_Group.csv")
-write_csv(Occupation_Data, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/OCCUPATION_ANZSCO/Output/ANZSCO_Occupation_Code.csv")
-
+write_csv(Major_Group_Data, paste0(base_path, "Classifications/OCCUPATION_ANZSCO/Output/ANZSCO_Major_Group.csv"))
+write_csv(Sub_Major_Group_Data, paste0(base_path, "Classifications/OCCUPATION_ANZSCO/Output/ANZSCO_Sub_Major_Group.csv"))
+write_csv(Minor_Group_Data, paste0(base_path, "Classifications/OCCUPATION_ANZSCO/Output/ANZSCO_Minor_Group.csv"))
+write_csv(Unit_Group_Data, paste0(base_path, "Classifications/OCCUPATION_ANZSCO/Output/ANZSCO_Unit_Group.csv"))
+write_csv(Occupation_Data, paste0(base_path, "Classifications/OCCUPATION_ANZSCO/Output/ANZSCO_Occupation_Code.csv"))
 
 
 

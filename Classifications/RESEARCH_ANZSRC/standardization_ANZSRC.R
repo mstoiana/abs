@@ -53,11 +53,12 @@ FOR_Divisions <- FOR_Divisions %>% select(FOR_Divisions_Key, everything())
 FOR_Groups <- FOR_Groups %>% select(FOR_Groups_Key, everything())
 FOR_Fields <- FOR_Fields %>% select(FOR_Fields_Key, everything())
 
-write_csv(SEO_Divisions, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/RESEARCH_ANZSRC/Output/SEO_Divisions.csv")
-write_csv(SEO_Groups, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/RESEARCH_ANZSRC/Output/SEO_Groups.csv")
-write_csv(SEO_Objectives, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/RESEARCH_ANZSRC/Output/SEO_Objectives.csv")
+write_csv(SEO_Divisions, paste0(base_path, "Classifications/RESEARCH_ANZSRC/Output/SEO_Divisions.csv"))
+write_csv(SEO_Groups, paste0(base_path, "Classifications/RESEARCH_ANZSRC/Output/SEO_Groups.csv"))
+write_csv(SEO_Objectives, paste0(base_path, "Classifications/RESEARCH_ANZSRC/Output/SEO_Objectives.csv"))
 
-write_csv(FOR_Divisions, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/RESEARCH_ANZSRC/Output/FOR_Divisions.csv")
-write_csv(FOR_Groups, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/RESEARCH_ANZSRC/Output/FOR_Groups.csv")
-write_csv(FOR_Fields, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/RESEARCH_ANZSRC/Output/FOR_Fields.csv")
+write_csv(FOR_Divisions, paste0(base_path, "Classifications/RESEARCH_ANZSRC/Output/FOR_Divisions.csv"))
+write_csv(FOR_Groups, paste0(base_path, "Classifications/RESEARCH_ANZSRC/Output/FOR_Groups.csv"))
+write_csv(FOR_Fields, paste0(base_path, "Classifications/RESEARCH_ANZSRC/Output/FOR_Fields.csv"))
+
 

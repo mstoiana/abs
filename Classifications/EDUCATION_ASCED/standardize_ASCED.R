@@ -52,15 +52,13 @@ Narrow_Fields <- Narrow_Fields %>% select(Narrow_Fields_Key, everything())
 Detailed_Fields <- Detailed_Fields %>% select(Detailed_Fields_Key, everything())
 
 #write to CSV
+write_csv(Broad_Level, paste0(base_path, "Classifications/Education_ASCED/Output/EDUCATION_ASCED_LEVEL/ASCED_Broad_Level.csv"))
+write_csv(Narrow_Level, paste0(base_path, "Classifications/Education_ASCED/Output/EDUCATION_ASCED_LEVEL/ASCED_Narrow_Level.csv"))
+write_csv(Detailed_Level, paste0(base_path, "Classifications/Education_ASCED/Output/EDUCATION_ASCED_LEVEL/ASCED_Detailed_Level.csv"))
 
-write_csv(Broad_Level, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/EDUCATION_ASCED/Output/EDUCATION_ASCED_LEVEL/ASCED_Broad_Level.csv")
-write_csv(Narrow_Level, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/EDUCATION_ASCED/Output/EDUCATION_ASCED_LEVEL/ASCED_Narrow_Level.csv")
-write_csv(Detailed_Level, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/EDUCATION_ASCED/Output/EDUCATION_ASCED_LEVEL/ASCED_Detailed_Level.csv")
-
-write_csv(Broad_Fields, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/EDUCATION_ASCED/Output/EDUCATION_ASCED_FIELD/ASCED_Broad_Fields.csv")
-write_csv(Narrow_Fields, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/EDUCATION_ASCED/Output/EDUCATION_ASCED_FIELD/ASCED_Narrow_Fields.csv")
-write_csv(Detailed_Fields, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/EDUCATION_ASCED/Output/EDUCATION_ASCED_FIELD/ASCED_Detailed_Fields.csv")
-
+write_csv(Broad_Fields, paste0(base_path, "Classifications/Education_ASCED/Output/EDUCATION_ASCED_FIELD/ASCED_Broad_Fields.csv"))
+write_csv(Narrow_Fields, paste0(base_path, "Classifications/Education_ASCED/Output/EDUCATION_ASCED_FIELD/ASCED_Narrow_Fields.csv"))
+write_csv(Detailed_Fields, paste0(base_path, "Classifications/Education_ASCED/Output/EDUCATION_ASCED_FIELD/ASCED_Detailed_Fields.csv"))
 
                                                                                   
 

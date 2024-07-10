@@ -32,7 +32,7 @@ Major_Group <- Major_Group %>% select(Major_Group_Key, everything())
 Minor_Group <- Minor_Group %>% select(Minor_Group_Key, everything())
 Countries <- Countries %>% select(Countries_Key, everything())
 #write to CSV
+write_CSV(Major_Group, paste0(base_path, "Classifications/LOCATION_SACC/Output/SACC_Major_Group.csv"))
+write_CSV(Minor_Group, paste0(base_path, "Classifications/LOCATION_SACC/Output/SACC_Minor_Group.csv"))
+write_CSV(Countries, paste0(base_path, "Classifications/LOCATION_SACC/Output/SACC_Countries.csv"))
 
-write_csv(Major_Group, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_SACC/Output/SACC_Major_Group.csv")
-write_csv(Minor_Group, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_SACC/Output/SACC_Minor_Group.csv")
-write_csv(Countries, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_SACC/Output/SACC_Countries.csv")
