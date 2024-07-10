@@ -2,44 +2,47 @@ library(readxl)
 library(tidyverse)
 library(openssl)
 library(dplyr)
-library(httr)
-library(readr)
-
-base_path <- "C:/Users/joshu/OneDrive/Documents/GIthub/abs/"
 
 #function to import csv 
-# Default base path
-default_base_path <- "C:/Users/joshu/OneDrive/Documents/GIthub/abs/"
 import_csv <- function (path) {
   data <- read_csv(path)
   return(data)
 }
 
+#download zip file from address and then extract to path
+# download_extract_zip <- function (url, path) {
+#   download.file(url, "temp.zip")
+#   unzip("temp.zip", exdir = path)
+#   #delete the zip file
+#   file.remove("temp.zip")
+# }
+# download_extract_zip("https://www.abs.gov.au/AUSSTATS/subscriber.nsf/log?openagent&1270055001_mb_2016_nsw_csv.zip&1270.0.55.001&Data%20Cubes&1FC672E70A77D52FCA257FED0013A0F7&0&July%202016&12.07.2016&Latest", "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/")
+
 #import all states meshblock lists
-NSW <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/MB_2016_NSW.csv"))
-VIC <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/MB_2016_VIC.csv"))
-QLD <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/MB_2016_QLD.csv"))
-SA <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/MB_2016_SA.csv"))
-WA <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/MB_2016_WA.csv"))
-TAS <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/MB_2016_TAS.csv"))
-NT <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/MB_2016_NT.csv"))
-ACT <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/MB_2016_ACT.csv"))
-OT <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/MB_2016_OT.csv"))
+NSW <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/MB_2016_NSW.csv")
+VIC <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/MB_2016_VIC.csv")
+QLD <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/MB_2016_QLD.csv")
+SA <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/MB_2016_SA.csv")
+WA <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/MB_2016_WA.csv")
+TAS <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/MB_2016_TAS.csv")
+NT <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/MB_2016_NT.csv")
+ACT <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/MB_2016_ACT.csv")
+OT <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/MB_2016_OT.csv")
 
 #import all LGA lists
-LGA_NSW <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_NSW.csv"))
-LGA_VIC <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_VIC.csv"))
-LGA_QLD <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_QLD.csv"))
-LGA_SA <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_SA.csv"))
-LGA_WA <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_WA.csv"))
-LGA_TAS <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_TAS.csv"))
-LGA_NT <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_NT.csv"))
-LGA_ACT <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_ACT.csv"))
-LGA_OT <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_OT.csv"))
+LGA_NSW <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_NSW.csv")
+LGA_VIC <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_VIC.csv")
+LGA_QLD <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_QLD.csv")
+LGA_SA <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_SA.csv")
+LGA_WA <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_WA.csv")
+LGA_TAS <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_TAS.csv")
+LGA_NT <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_NT.csv")
+LGA_ACT <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_ACT.csv")
+LGA_OT <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/LGA/LGA_2020_OT.csv")
 
 #Import non abs data
-UCL_Data <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/SA1_UCL_SOSR_SOS_2016_AUST.csv"))
-SUA_Data <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/SA2_SUA_2016_AUST.csv"))
+UCL_Data <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/SA1_UCL_SOSR_SOS_2016_AUST.csv")
+SUA_Data <- import_csv("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Input/SA2_SUA_2016_AUST.csv")
 
 SA1_UCL <- UCL_Data %>% select(SA1_MAINCODE_2016, SA1_7DIGITCODE_2016, UCL_CODE_2016,UCL_NAME_2016, SOSR_CODE_2016, SOSR_NAME_2016, SOS_CODE_2016, SOS_NAME_2016)
 SA2_SUA <- SUA_Data %>% select(SA2_MAINCODE_2016, SA2_5DIGITCODE_2016, SA2_NAME_2016, SUA_CODE_2016, SUA_NAME_2016)
@@ -126,17 +129,17 @@ LGA <- LGA %>% select(LGA_Key, everything())
 
 
 #write to CSV
-write_csv(LGA, paste0(base_path, "Classifications/LOCATION_ASGS/Output/ASGS_LGA.csv"))
-write_csv(SA1, paste0(base_path, "Classifications/LOCATION_ASGS/Output/ASGS_SA1.csv"))
-write_csv(SA2, paste0(base_path, "Classifications/LOCATION_ASGS/Output/ASGS_SA2.csv"))
-write_csv(SA3, paste0(base_path, "Classifications/LOCATION_ASGS/Output/ASGS_SA3.csv"))
-write_csv(SA4, paste0(base_path, "Classifications/LOCATION_ASGS/Output/ASGS_SA4.csv"))
-write_csv(GCCSA, paste0(base_path, "Classifications/LOCATION_ASGS/Output/ASGS_GCCSA.csv"))
-write_csv(State, paste0(base_path, "Classifications/LOCATION_ASGS/Output/ASGS_State.csv"))
-write_csv(SA1_UCL, paste0(base_path, "Classifications/LOCATION_ASGS/Output/ASGS_SA1_UCL.csv"))
-write_csv(SA2_SUA, paste0(base_path, "Classifications/LOCATION_ASGS/Output/ASGS_SA2_SUA.csv"))
-write_csv(SOSR, paste0(base_path, "Classifications/LOCATION_ASGS/Output/ASGS_SOSR.csv"))
-write_csv(Meshblock, paste0(base_path, "Classifications/LOCATION_ASGS/Output/ASGS_Meshblock.csv"))
+write_csv(SA1, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_SA1.csv")
+write_csv(SA2, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_SA2.csv")
+write_csv(SA3, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_SA3.csv")
+write_csv(SA4, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_SA4.csv")
+write_csv(GCCSA, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_GCCSA.csv")
+write_csv(State, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_State.csv")
+write_csv(Meshblock, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_MB.csv")
+write_csv(SA1_UCL, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_SA1_UCL.csv")
+write_csv(SA2_SUA, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_SA2_SUA.csv")
+write_csv(SOSR, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_SOSR.csv")
+write_csv(LGA, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/LOCATION_ASGS/Output/ASGS_LGA.csv")
 #TODO
 #AUTOMATE DOWNLOAD & EXTRACTION OF CSV
 
