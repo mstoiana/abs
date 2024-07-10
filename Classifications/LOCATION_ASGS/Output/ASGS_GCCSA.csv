@@ -1,35 +1,35 @@
-GCCSA_Key,GCCSA_CODE_2016,GCCSA_NAME_2016,STATE_CODE_2016,STATE_NAME_2016,GCCSA_Date
-4f1730a9b124eea813b992edebc06840,19499,No usual address (NSW),1,New South Wales,2024-07-09
-9bf60722e66bf41b392bb484154dc2e0,1RNSW,Rest of NSW,1,New South Wales,2024-07-09
-c48056a6d0143eb772da7d5a7a4944c9,1GSYD,Greater Sydney,1,New South Wales,2024-07-09
-7c9a78d4cbeacba4b35f3b445d01f055,19799,Migratory - Offshore - Shipping (NSW),1,New South Wales,2024-07-09
-eeb50c25084a234f1efc530be0857d35,29499,No usual address (Vic.),2,Victoria,2024-07-09
-3e7bcd36fc9c34bcfca647653cfbdc56,2RVIC,Rest of Vic.,2,Victoria,2024-07-09
-6de04c994f1fb5f8e675e0b10d44f04e,2GMEL,Greater Melbourne,2,Victoria,2024-07-09
-599708672e8b3790d67dbf4379f75355,29799,Migratory - Offshore - Shipping (Vic.),2,Victoria,2024-07-09
-37d92d59a2b02e0256aa1d2bddcfa50d,39499,No usual address (Qld),3,Queensland,2024-07-09
-ce3326310cd9bc21b1740cc8995a1624,3RQLD,Rest of Qld,3,Queensland,2024-07-09
-e6fb15f26d28bcb832a15235e1f9a0cc,3GBRI,Greater Brisbane,3,Queensland,2024-07-09
-149994a079ddd43eab8cb827dfae9d1f,39799,Migratory - Offshore - Shipping (Qld),3,Queensland,2024-07-09
-2685e06135430bf8e58da9c94f8e89bb,49499,No usual address (SA),4,South Australia,2024-07-09
-50e66818299fa1f7bac151118e27b0c4,4GADE,Greater Adelaide,4,South Australia,2024-07-09
-f52cb9eed4d34b61671003fa7b0656aa,4RSAU,Rest of SA,4,South Australia,2024-07-09
-a1704d0e0e4e27286e4cb1c6b3810215,49799,Migratory - Offshore - Shipping (SA),4,South Australia,2024-07-09
-784cb5cdf36b1a12b1e8d70c70d6dd35,59499,No usual address (WA),5,Western Australia,2024-07-09
-8b805a6962c7b065ce470f2d883508a2,5RWAU,Rest of WA,5,Western Australia,2024-07-09
-14081fe3a28e731555a64a9f405b61ef,5GPER,Greater Perth,5,Western Australia,2024-07-09
-478dd73fd7ab78e89d99d5ae767f8001,59799,Migratory - Offshore - Shipping (WA),5,Western Australia,2024-07-09
-eafe3b34c187bf70fdba568313c8007b,69499,No usual address (Tas.),6,Tasmania,2024-07-09
-8afbcf1eff18bfb6c43d85fd53b35879,6RTAS,Rest of Tas.,6,Tasmania,2024-07-09
-bbcfec01834384910888c16500b2fbf5,6GHOB,Greater Hobart,6,Tasmania,2024-07-09
-650cfd773949162abff9d025cc7497ab,69799,Migratory - Offshore - Shipping (Tas.),6,Tasmania,2024-07-09
-e062f192e9f5176c6389f0e6ef538632,79499,No usual address (NT),7,Northern Territory,2024-07-09
-516d801acc9936b6b037569f7b027f62,7RNTE,Rest of NT,7,Northern Territory,2024-07-09
-b2ac87ebc54f9a729a47d9577da69d14,7GDAR,Greater Darwin,7,Northern Territory,2024-07-09
-95452ea29caea2a49ecc4d1c10789c67,79799,Migratory - Offshore - Shipping (NT),7,Northern Territory,2024-07-09
-cf5fcbc29e9aa4e29fa8b2974e9648c2,89499,No usual address (ACT),8,Australian Capital Territory,2024-07-09
-3df13aec76afb685ec911d35311676ee,8ACTE,Australian Capital Territory,8,Australian Capital Territory,2024-07-09
-72ffa9e58f3ed5ae518747e9afa26625,89799,Migratory - Offshore - Shipping (ACT),8,Australian Capital Territory,2024-07-09
-05ad02e1ecb6957d5882cd13fb67ca75,99499,No usual address (OT),9,Other Territories,2024-07-09
-fcf39c279d9e738507dbe08e9b33350b,9OTER,Other Territories,9,Other Territories,2024-07-09
-a4d945774122580022b6bb79edfaa1c4,99799,Migratory - Offshore - Shipping (OT),9,Other Territories,2024-07-09
+GCCSA_Key,GCCSA_CODE_2016,GCCSA_NAME_2016,STATE_CODE_2016,GCCSA_Date
+4f1730a9b124eea813b992edebc06840,19499,No usual address (NSW),1,2024-07-10
+9bf60722e66bf41b392bb484154dc2e0,1RNSW,Rest of NSW,1,2024-07-10
+c48056a6d0143eb772da7d5a7a4944c9,1GSYD,Greater Sydney,1,2024-07-10
+7c9a78d4cbeacba4b35f3b445d01f055,19799,Migratory - Offshore - Shipping (NSW),1,2024-07-10
+eeb50c25084a234f1efc530be0857d35,29499,No usual address (Vic.),2,2024-07-10
+3e7bcd36fc9c34bcfca647653cfbdc56,2RVIC,Rest of Vic.,2,2024-07-10
+6de04c994f1fb5f8e675e0b10d44f04e,2GMEL,Greater Melbourne,2,2024-07-10
+599708672e8b3790d67dbf4379f75355,29799,Migratory - Offshore - Shipping (Vic.),2,2024-07-10
+37d92d59a2b02e0256aa1d2bddcfa50d,39499,No usual address (Qld),3,2024-07-10
+ce3326310cd9bc21b1740cc8995a1624,3RQLD,Rest of Qld,3,2024-07-10
+e6fb15f26d28bcb832a15235e1f9a0cc,3GBRI,Greater Brisbane,3,2024-07-10
+149994a079ddd43eab8cb827dfae9d1f,39799,Migratory - Offshore - Shipping (Qld),3,2024-07-10
+2685e06135430bf8e58da9c94f8e89bb,49499,No usual address (SA),4,2024-07-10
+50e66818299fa1f7bac151118e27b0c4,4GADE,Greater Adelaide,4,2024-07-10
+f52cb9eed4d34b61671003fa7b0656aa,4RSAU,Rest of SA,4,2024-07-10
+a1704d0e0e4e27286e4cb1c6b3810215,49799,Migratory - Offshore - Shipping (SA),4,2024-07-10
+784cb5cdf36b1a12b1e8d70c70d6dd35,59499,No usual address (WA),5,2024-07-10
+8b805a6962c7b065ce470f2d883508a2,5RWAU,Rest of WA,5,2024-07-10
+14081fe3a28e731555a64a9f405b61ef,5GPER,Greater Perth,5,2024-07-10
+478dd73fd7ab78e89d99d5ae767f8001,59799,Migratory - Offshore - Shipping (WA),5,2024-07-10
+eafe3b34c187bf70fdba568313c8007b,69499,No usual address (Tas.),6,2024-07-10
+8afbcf1eff18bfb6c43d85fd53b35879,6RTAS,Rest of Tas.,6,2024-07-10
+bbcfec01834384910888c16500b2fbf5,6GHOB,Greater Hobart,6,2024-07-10
+650cfd773949162abff9d025cc7497ab,69799,Migratory - Offshore - Shipping (Tas.),6,2024-07-10
+e062f192e9f5176c6389f0e6ef538632,79499,No usual address (NT),7,2024-07-10
+516d801acc9936b6b037569f7b027f62,7RNTE,Rest of NT,7,2024-07-10
+b2ac87ebc54f9a729a47d9577da69d14,7GDAR,Greater Darwin,7,2024-07-10
+95452ea29caea2a49ecc4d1c10789c67,79799,Migratory - Offshore - Shipping (NT),7,2024-07-10
+cf5fcbc29e9aa4e29fa8b2974e9648c2,89499,No usual address (ACT),8,2024-07-10
+3df13aec76afb685ec911d35311676ee,8ACTE,Australian Capital Territory,8,2024-07-10
+72ffa9e58f3ed5ae518747e9afa26625,89799,Migratory - Offshore - Shipping (ACT),8,2024-07-10
+05ad02e1ecb6957d5882cd13fb67ca75,99499,No usual address (OT),9,2024-07-10
+fcf39c279d9e738507dbe08e9b33350b,9OTER,Other Territories,9,2024-07-10
+a4d945774122580022b6bb79edfaa1c4,99799,Migratory - Offshore - Shipping (OT),9,2024-07-10
