@@ -3,11 +3,17 @@ library(tidyverse)
 library(openssl)
 library(dplyr)
 
-#import CSV and read both Table 1 and Table 2
-#data <- read_excel(file_path, sheet = sheet_name, skip = skip)
+base_path <- "C:/Users/joshu/OneDrive/Documents/GIthub/abs/"
+scripts_path <- paste0(base_path, "/Scripts/data_Download.R")
+source(scripts_path)
+dest_path <- paste0(base_path, "Classifications/Education_ASCED/Download/")
+extract_path <- paste0(base_path, "Classifications/Education_ASCED/Input/")
 
-Level_Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/EDUCATION_ASCED/Input/1272.0 australian standard classification of education (asced) structures.xlsx", sheet = "Table 1", skip = 4)
-Field_Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/EDUCATION_ASCED/Input/1272.0 australian standard classification of education (asced) structures.xlsx", sheet = "Table 2", skip = 4)
+url <- "https://www.abs.gov.au/statistics/classifications/australian-standard-classification-education-asced/2001/1272.0%20australian%20standard%20classification%20of%20education%20%28asced%29%20structures.xlsx"
+download_file(url, dest_path, extract_path, "1272.0 australian standard classification of education (asced) structures.xlsx")
+
+Level_Data <- read_excel(paste0(base_path, "Classifications/Education_ASCED/Input/1272.0 australian standard classification of education (asced) structures.xlsx"), sheet = "Table 1", skip = 4)
+Field_Data <-read_excel(paste0(base_path, "Classifications/Education_ASCED/Input/1272.0 australian standard classification of education (asced) structures.xlsx"), sheet = "Table 2", skip = 4)
 
 colnames(Level_Data) <- c("Broad_Level","Narrow_Level","Detailed_Level", "Level_Description")
 colnames(Field_Data) <- c("Broad_Fields","Narrow_Fields","Detailed_Fields", "Field_Description")
