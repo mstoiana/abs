@@ -3,8 +3,18 @@ library(tidyverse)
 library(openssl)
 library(dplyr)
 
-Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/DEMOGRAPHIC_ASCCEG/Input/12490do0001_201912.xls", sheet = "Table 1.3", skip = 4)
-Supplementary_Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/DEMOGRAPHIC_ASCCEG/Input/12490do0001_201912.xls", sheet = "Table 2", skip = 3)
+base_path <- "C:/Users/joshu/OneDrive/Documents/GIthub/abs/"
+scripts_path <- paste0(base_path, "/Scripts/data_Download.R")
+source(scripts_path)
+dest_path <- paste0(base_path, "Classifications/DEMOGRAPHIC_ASCCEG/Download/")
+extract_path <- paste0(base_path, "Classifications/DEMOGRAPHIC_ASCCEG/Input/")
+
+url <- "https://www.abs.gov.au/statistics/classifications/australian-standard-classification-cultural-and-ethnic-groups-ascceg/2019/12490do0001_201912.xls"
+download_file(url, dest_path, extract_path, "12490do0001_201912.xls")
+
+Data <- read_excel(paste0(base_path, "Classifications/DEMOGRAPHIC_ASCCEG/Input/12490do0001_201912.xls"), sheet = "Table 1.3", skip = 4)
+Supplementary_Data <- read_excel(paste0(base_path, "Classifications/DEMOGRAPHIC_ASCCEG/Input/12490do0001_201912.xls"), sheet = "Table 2", skip = 3)
+
 colnames(Data) <- c("Broad_Group", "Narrow_Group","Group_Code","Cultural_Ethnic_Group")
 colnames(Supplementary_Data) <- c("Supplementary_Code", "Code_Description")
 
