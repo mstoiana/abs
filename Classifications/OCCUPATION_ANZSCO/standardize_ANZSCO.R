@@ -2,12 +2,22 @@ library(readxl)
 library(tidyverse)
 library(openssl)
 library(dplyr)
-#function to import csv
-Occupation_Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/OCCUPATION_ANZSCO/Input/1220.0 anzsco version 1.3 structure v1.xlsx", sheet = "Table 5", skip = 4)
-Major_Group_Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/OCCUPATION_ANZSCO/Input/1220.0 anzsco version 1.3 structure v1.xlsx", sheet = "Table 1", skip = 4)
-Sub_Major_Group_Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/OCCUPATION_ANZSCO/Input/1220.0 anzsco version 1.3 structure v1.xlsx", sheet = "Table 2", skip = 4)
-Minor_Group_Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/OCCUPATION_ANZSCO/Input/1220.0 anzsco version 1.3 structure v1.xlsx", sheet = "Table 3", skip = 4)
-Unit_Group_Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/OCCUPATION_ANZSCO/Input/1220.0 anzsco version 1.3 structure v1.xlsx", sheet = "Table 4", skip = 4)
+
+base_path <- "C:/Users/joshu/OneDrive/Documents/GIthub/abs/"
+scripts_path <- paste0(base_path, "/Scripts/data_Download.R")
+source(scripts_path)
+dest_path <- paste0(base_path, "Classifications/OCCUPATION_ANZSCO/Download/")
+extract_path <- paste0(base_path, "Classifications/OCCUPAITON_ANZSCO/Input/")
+
+url <- "https://www.abs.gov.au/statistics/classifications/anzsco-australian-and-new-zealand-standard-classification-occupations/2022/anzsco%202022%20structure%20062023.xlsx"
+download_file(url, dest_path, extract_path, "1220.0 anzsco version 1.3 structure v1.xlsx")
+
+Occupation_Data <- read_excel(paste0(base_path, "Classifications/OCCUPATION_ANZSCO/Input/1220.0 anzsco version 1.3 structure v1.xlsx"), sheet = "Table 5", skip = 4)
+Major_Group_Data <- read_excel(paste0(base_path, "Classifications/OCCUPATION_ANZSCO/Input/1220.0 anzsco version 1.3 structure v1.xlsx"), sheet = "Table 1", skip = 4)
+Sub_Major_Group_Data <- read_excel(paste0(base_path, "Classifications/OCCUPATION_ANZSCO/Input/1220.0 anzsco version 1.3 structure v1.xlsx"), sheet = "Table 2", skip = 4)
+Minor_Group_Data <- read_excel(paste0(base_path, "Classifications/OCCUPATION_ANZSCO/Input/1220.0 anzsco version 1.3 structure v1.xlsx"), sheet = "Table 3", skip = 4)
+Unit_Group_Data <- read_excel(paste0(base_path, "Classifications/OCCUPATION_ANZSCO/Input/1220.0 anzsco version 1.3 structure v1.xlsx"), sheet = "Table 4", skip = 4)
+
 colnames(Occupation_Data) <- c("Major_Group", "Sub_Major_Group", "Minor_Group","Unit_Group","Occupation_Code","Description","Skill_Level")
 colnames(Major_Group_Data) <- c("Major_Group", "Description","Predominant_Skill_Levels")
 colnames(Sub_Major_Group_Data) <- c("Major_Group", "Sub_Major_Group", "Description","Predominant_Skill_Levels")

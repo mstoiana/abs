@@ -3,9 +3,20 @@ library(tidyverse)
 library(openssl)
 library(dplyr)
 
+base_path <- "C:/Users/joshu/OneDrive/Documents/GIthub/abs/"
+scripts_path <- paste0(base_path, "/Scripts/data_Download.R")
+source(scripts_path)
+dest_path <- paste0(base_path, "Classifications/RESEARCH_ANZSRC/Download/")
+extract_path <- paste0(base_path, "Classifications/RESEARCH_ANZSRC/Input/")
+
+url <- "https://www.abs.gov.au/statistics/classifications/australian-and-new-zealand-standard-research-classification-anzsrc/2020/anzsrc2020_seo.xlsx"
+download_file(url, dest_path, extract_path, "anzsrc2020_seo.xlsx")
+url <- "https://www.abs.gov.au/statistics/classifications/australian-and-new-zealand-standard-research-classification-anzsrc/2020/anzsrc2020_for.xlsx"
+download_file(url, dest_path, extract_path, "anzsrc2020_for.xlsx")
+
 # Load the data
 SEO_Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/RESEARCH_ANZSRC/Input/anzsrc2020_seo.xlsx", sheet = "Table 3", skip = 7)
-FOR_Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/RESEARCH_ANZSRC/Input/anzsrc2020_seo.xlsx", sheet = "Table 3", skip = 7)
+FOR_Data <- read_excel("C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/RESEARCH_ANZSRC/Input/anzsrc2020_for.xlsx", sheet = "Table 3", skip = 7)
 
 colnames(SEO_Data) <- c("SEO_Division", "SEO_Group", "SEO_Objective", "SEO_Description")
 colnames(FOR_Data) <- c("FOR_Division", "FOR_Group", "FOR_Field", "FOR_Description")
@@ -30,10 +41,10 @@ SEO_Divisions$SEO_Divisions_Key <- openssl::md5(SEO_Divisions$SEO_Division)
 SEO_Groups$SEO_Groups_Key <- openssl::md5(SEO_Groups$SEO_Group)
 SEO_Objectives$SEO_Objectives_Key <- openssl::md5(SEO_Objectives$SEO_Objective)
 
-FOR_Divisions$FOR_Divisions_Key <- openssl::md5(FOR_Divisions$FOR_Division)
-FOR_Groups$FOR_Groups_Key <- openssl::md5(FOR_Groups$FOR_Group)
-FOR_Fields$FOR_Fields_Key <- openssl::md5(FOR_Fields$FOR_Field)
-
+FOR_Divisions$FOR_Divisions_Key <- openssl::md5(as.character(FOR_Divisions$FOR_Division))
+FOR_Groups$FOR_Groups_Key <- openssl::md5(as.character(FOR_Groups$FOR_Group))
+FOR_Fields$FOR_Fields_Key <- openssl::md5(as.character(FOR_Fields$FOR_Field))
+                                  
 SEO_Divisions <- SEO_Divisions %>% select(SEO_Divisions_Key, everything())
 SEO_Groups <- SEO_Groups %>% select(SEO_Groups_Key, everything())
 SEO_Objectives <- SEO_Objectives %>% select(SEO_Objectives_Key, everything())
