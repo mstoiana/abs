@@ -34,16 +34,6 @@ read_sdmx_data <- function(providerId = "ABS", resource = "data", flowRef = "ALC
   return(data_df)
 }
 
-# Function to process data and add metadata
-process_to_bronze <- function(data_df) {
-  #distinct 
-  distinct_data_df <- unique(data_df)
-  # Add process_id and load_datetime columns
-  distinct_data_df$process_id <- UUIDgenerate()
-  distinct_data_df$load_datetime <- Sys.time()
-  
-  return(distinct_data_df)
-}
 # Example usage of the function
 # data <- read_sdmx_data()
 
@@ -63,8 +53,5 @@ save_csv  <- function(data_df, file_path) {
 #Example usage
 #save_csv(df,"C:/Users/User/Documents/data.csv")
 
-#Encryption
 
-sdmx <- read_sdmx_data()
-bsdmx <- process_to_bronze(sdmx)
-save_csv(bsdmx, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/bsdmx.csv")
+
