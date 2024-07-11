@@ -5,7 +5,6 @@ Standardize_MB <- function(base_path) {
   library(tidyverse)
   library(openssl)
   library(dplyr)
-  library(httr)
   library(readr)
 
   scripts_path <- paste0(base_path, "/Scripts/data_Download.R")
@@ -130,8 +129,6 @@ Standardize_MB <- function(base_path) {
   Meshblock <- Meshblock %>% select(Meshblock_Key, everything())
   LGA <- LGA %>% select(LGA_Key, everything())
 
-
-
 #write to CSV
   write_csv(LGA, paste0(base_path, "Classifications/LOCATION_ASGS/Output/ASGS_LGA.csv"))
   write_csv(SA1, paste0(base_path, "Classifications/LOCATION_ASGS/Output/ASGS_SA1.csv"))
@@ -147,7 +144,7 @@ Standardize_MB <- function(base_path) {
  
   end_time <- Sys.time()
  
-  print("Task Complete")
+  print("MB Task Complete")
   print(paste0("Time taken: ", end_time - start_time))
 }
 

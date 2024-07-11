@@ -47,7 +47,7 @@ Standardize_ASCCEG <- function(base_path) {
   
   end_time <- Sys.time()
   
-  print("Task Complete")
+  print("ASCCEG Task Complete")
   print(paste0("Time taken: ", end_time - start_time))
 }
 
