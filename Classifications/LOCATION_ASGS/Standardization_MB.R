@@ -1,4 +1,4 @@
-Standardize_MB <- function(base_path) {
+standardize_MB <- function(base_path) {
   start_time <- Sys.time()
 
   library(readxl)
@@ -148,5 +148,5 @@ Standardize_MB <- function(base_path) {
   print(paste0("Time taken: ", end_time - start_time))
 }
 
-Standardize_MB("C:/Users/Josh/OneDrive/Documents/GIthub/abs/")
+standardize_MB("C:/Users/Josh/OneDrive/Documents/GIthub/abs/")
 
