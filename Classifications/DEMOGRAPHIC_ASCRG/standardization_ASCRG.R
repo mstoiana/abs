@@ -23,7 +23,6 @@ Narrow_Group <- Data %>% select(Narrow_Group,Group_Code) %>% filter(!is.na(Narro
 Religious_Group <- Data %>% select(Group_Code, Religious_Group) %>% filter(!is.na(Group_Code) & !is.na(Religious_Group))
 Supplementary_Data <- Supplementary_Data %>% filter(!is.na(Supplementary_Code) & !is.na(Supplementary_Label))
 
-
 Broad_Group$Broad_Group_Date <- today()
 Narrow_Group$Narrow_Group_Date <- today()
 Religious_Group$Religious_Group_Date <- today()
@@ -39,10 +38,8 @@ Narrow_Group <- Narrow_Group %>% select(Narrow_Group_Key, everything())
 Religious_Group <- Religious_Group %>% select(Religious_Group_Key, everything())
 Supplementary_Data <- Supplementary_Data %>% select(Supplementary_Key, everything())
 
-write_csv(Broad_Group, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/DEMOGRAPHIC_ASCRG/Output/ASCRG_Broad_Group.csv")
-write_csv(Narrow_Group, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/DEMOGRAPHIC_ASCRG/Output/ASCRG_Narrow_Group.csv")
-write_csv(Religious_Group, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/DEMOGRAPHIC_ASCRG/Output/ASCRG_Religious_Group.csv")
-write_csv(Supplementary_Data, "C:/Users/joshu/OneDrive/Documents/GIthub/abs/Classifications/DEMOGRAPHIC_ASCRG/Output/ASCRG_Supplementary_Data.csv")
-
-
+write_csv(Broad_Group, paste0(base_path, "Classifications/DEMOGRAPHIC_ASCRG/Output/ASCRG_Broad_Group.csv"))
+write_csv(Narrow_Group, paste0(base_path, "Classifications/DEMOGRAPHIC_ASCRG/Output/ASCRG_Narrow_Group.csv"))
+write_csv(Religious_Group, paste0(base_path, "Classifications/DEMOGRAPHIC_ASCRG/Output/ASCRG_Religious_Group.csv"))
+write_csv(Supplementary_Data, paste0(base_path, "Classifications/DEMOGRAPHIC_ASCRG/Output/ASCRG_Supplementary_Data.csv"))
 
