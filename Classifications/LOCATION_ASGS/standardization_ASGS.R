@@ -1,11 +1,10 @@
-standardize_MB <- function(base_path) {
+standardize_ASGS <- function(base_path) {
   start_time <- Sys.time()
 
   library(readxl)
   library(tidyverse)
   library(openssl)
   library(dplyr)
-  library(readr)
 
   scripts_path <- paste0(base_path, "/Scripts/data_Download.R")
   source(scripts_path)
@@ -148,5 +147,5 @@ standardize_MB <- function(base_path) {
   print(paste0("Time taken: ", end_time - start_time))
 }
 
-standardize_MB("C:/Users/Josh/OneDrive/Documents/GIthub/abs/")
+standardize_ASGS("C:/Users/Josh/OneDrive/Documents/GIthub/abs/")
 

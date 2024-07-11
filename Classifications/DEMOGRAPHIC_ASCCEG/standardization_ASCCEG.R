@@ -1,4 +1,4 @@
-Standardize_ASCCEG <- function(base_path) {
+standardize_ASCCEG <- function(base_path) {
   start_time <- Sys.time()
   
   library(readxl)
@@ -51,4 +51,4 @@ Standardize_ASCCEG <- function(base_path) {
   print(paste0("Time taken: ", end_time - start_time))
 }
 
-Standardize_ASCCEG("C:/Users/Josh/OneDrive/Documents/GIthub/abs/")
+standardize_ASCCEG("C:/Users/Josh/OneDrive/Documents/GIthub/abs/")

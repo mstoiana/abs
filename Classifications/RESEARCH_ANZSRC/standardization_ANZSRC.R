@@ -1,5 +1,5 @@
 
-Standardize_ANZSRC <- function(base_path){
+standardize_ANZSRC <- function(base_path){
   start_time <- Sys.time()
   
   library(readxl)
@@ -69,5 +69,5 @@ Standardize_ANZSRC <- function(base_path){
   print(paste0("Time taken: ", end_time - start_time))
 }
 
-Standardize_ANZSRC("C:/Users/Josh/OneDrive/Documents/GIthub/abs/")
+standardize_ANZSRC("C:/Users/Josh/OneDrive/Documents/GIthub/abs/")
 

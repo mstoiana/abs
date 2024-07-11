@@ -1,0 +1,4 @@
+readxl
+tidyverse
+openssl
+dplyr
