@@ -52,6 +52,3 @@ standardize_ASCRG <- function(base_path) {
 }
 
 standardize_ASCRG("C:/Users/Josh/OneDrive/Documents/GIthub/abs/")
-
-
-

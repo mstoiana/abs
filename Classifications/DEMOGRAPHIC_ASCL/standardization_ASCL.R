@@ -49,5 +49,3 @@ standardize_ASCL <- function(base_path) {
 }
 
 standardize_ASCL("C:/Users/Josh/OneDrive/Documents/GIthub/abs/")
-
-

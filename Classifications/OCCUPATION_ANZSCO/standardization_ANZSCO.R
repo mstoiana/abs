@@ -67,6 +67,3 @@ standardize_ANZSCO <- function(base_path){
 }
 
 standardize_ANZSCO("C:/Users/Josh/OneDrive/Documents/GIthub/abs/")
-
-
-

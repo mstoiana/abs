@@ -46,5 +46,4 @@ retrieve_Classifications <- function(base_path) {
   print(paste0("Time taken: ", end_time - start_time))
 }
 
-
 retrieve_Classifications("C:/Users/Josh/OneDrive/Documents/GIthub/abs/")
