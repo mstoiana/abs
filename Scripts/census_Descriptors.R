@@ -9,6 +9,7 @@ scripts_path <- paste0(base_path, "/Scripts/data_Download.R")
 source(scripts_path)
 dest_path <- paste0(base_path, "Census/Metadata/Download/")
 extract_path <- paste0(base_path, "Census/Metadata/Input/")
+output_path <- paste0(base_path, "Census/Metadata/Input/")
 
 download_census_data("2021", "GCP", "SA2", "AUS", dest_path, extract_path, TRUE)
 #get list of all files in directory Census/Metadata/Input/Metadata
@@ -45,8 +46,6 @@ setColumns <- function(df) {
 geog_def <- read_excel_sheets(geog_def_source)
 data_def <- read_excel_sheets(data_def_source)
 
-library(data.table)
-
 split_data_frames <- function(df_list) {
   split_dfs <- list()
   
@@ -62,6 +61,8 @@ split_data_frames <- function(df_list) {
     
     for (category_name in names(split_list)) {
       cat_df <- split_list[[category_name]]
+      cat_df[, (3):= as.character(.SD[[3]])]
+      cat_df[, AGSS_Key := sapply(.SD[[3]], openssl::md5), .SDcols = 3]
       
       # Check if this category already exists in split_dfs
       if (category_name %in% names(split_dfs)) {
@@ -94,3 +95,19 @@ data_def_process <- function(data_def) {
   return(data_def)
 }
 data_def <- data_def_process(data_def)
+
+for (name in names(split_list_of_dfs)) {
+  df <- split_list_of_dfs[[name]]
+  # Ensure the 3rd column is a character vector
+  df[, 3] <- as.character(df[, 3])
+  # Apply openssl::md5 to each element of the 3rd column and store the result in a new column
+  df$md5 <- sapply(df[, 3], openssl::md5)
+  # Assign the modified dataframe back to the list
+  split_list_of_dfs[[name]] <- df
+}
+
+#export the dataframes in split_list as csvs
+for (name in names(split_list_of_dfs)) {
+  df <- split_list_of_dfs[[name]]
+  write.csv(df, paste0(extract_path, name, ".csv"), row.names = FALSE)
+}
