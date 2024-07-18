@@ -44,8 +44,7 @@ setColumns <- function(df) {
 
 geog_def <- read_excel_sheets(geog_def_source)
 data_def <- read_excel_sheets(data_def_source)
-#write a function to go through each table and seperate all the row with the same column value into seperate dataframes with the name of the column value
-#if a dataframe already exists with the same name, append the rows to the existing dataframe if they are not in it already
+
 library(data.table)
 
 split_data_frames <- function(df_list) {
@@ -101,9 +100,3 @@ data_def <- data_def_process(data_def)
 
 
 
-
-
-#
-
-
-#https://www.abs.gov.au/census/find-census-data/datapacks/download/2021_GCP_SA2_for_AUS_short-header.zip
