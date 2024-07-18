@@ -3,6 +3,7 @@ library(tidyverse)
 library(openssl)
 library(dplyr)
 library(data.table)
+
 base_path <- "C:/Users/joshu/OneDrive/Documents/GIthub/abs/"
 scripts_path <- paste0(base_path, "/Scripts/data_Download.R")
 source(scripts_path)
@@ -16,6 +17,7 @@ files <- list.files(extract_path, full.names = TRUE) # Get full paths
 #select from files list file with geog in it
 geog_def_source <- files[grepl("geog", files)]
 data_def_source <- files[grepl("DataPack", files)]
+
 #read each table in the excel file and create dataframe based on tablename
 read_excel_sheets <- function(file) {
   tables <- excel_sheets(file)
@@ -38,9 +40,7 @@ setColumns <- function(df) {
   }
   return(df)
 }
-
 # Apply the function to your dataframe
-
 
 geog_def <- read_excel_sheets(geog_def_source)
 data_def <- read_excel_sheets(data_def_source)
@@ -81,8 +81,6 @@ split_data_frames <- function(df_list) {
 
 split_list_of_dfs <- split_data_frames(geog_def)
 
-
-
 #process data definitions 
 data_def_process <- function(data_def) {
   #process table 1
@@ -96,7 +94,3 @@ data_def_process <- function(data_def) {
   return(data_def)
 }
 data_def <- data_def_process(data_def)
-
-
-
-
