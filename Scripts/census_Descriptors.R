@@ -9,13 +9,11 @@ scripts_path <- paste0(base_path, "/Scripts/data_Download.R")
 source(scripts_path)
 dest_path <- paste0(base_path, "Census/Metadata/Download/")
 extract_path <- paste0(base_path, "Census/Metadata/Input/")
-output_path <- paste0(base_path, "Census/Metadata/Input/")
+output_path <- paste0(base_path, "Census/Metadata/Output/")
 
 download_census_data("2021", "GCP", "SA2", "AUS", dest_path, extract_path, TRUE)
-#get list of all files in directory Census/Metadata/Input/Metadata
 extract_path <- paste0(extract_path, "Metadata/")
 files <- list.files(extract_path, full.names = TRUE) # Get full paths
-#select from files list file with geog in it
 geog_def_source <- files[grepl("geog", files)]
 data_def_source <- files[grepl("DataPack", files)]
 
@@ -41,8 +39,6 @@ setColumns <- function(df) {
   }
   return(df)
 }
-# Apply the function to your dataframe
-
 geog_def <- read_excel_sheets(geog_def_source)
 data_def <- read_excel_sheets(data_def_source)
 
@@ -61,8 +57,6 @@ split_data_frames <- function(df_list) {
     
     for (category_name in names(split_list)) {
       cat_df <- split_list[[category_name]]
-      cat_df[, (3):= as.character(.SD[[3]])]
-      cat_df[, AGSS_Key := sapply(.SD[[3]], openssl::md5), .SDcols = 3]
       
       # Check if this category already exists in split_dfs
       if (category_name %in% names(split_dfs)) {
@@ -96,18 +90,22 @@ data_def_process <- function(data_def) {
 }
 data_def <- data_def_process(data_def)
 
-for (name in names(split_list_of_dfs)) {
-  df <- split_list_of_dfs[[name]]
-  # Ensure the 3rd column is a character vector
-  df[, 3] <- as.character(df[, 3])
-  # Apply openssl::md5 to each element of the 3rd column and store the result in a new column
-  df$md5 <- sapply(df[, 3], openssl::md5)
-  # Assign the modified dataframe back to the list
-  split_list_of_dfs[[name]] <- df
-}
+#export data def as two seperate csvs
+write.csv(data_def[1], paste0(output_path, "/data_def_tables.csv"), row.names = FALSE)
+write.csv(data_def[2], paste0(output_path, "/data_def_columns.csv"), row.names = FALSE)
 
-#export the dataframes in split_list as csvs
+output_path <- paste0(base_path, "Census/Metadata/Output/AGSS/")
+
 for (name in names(split_list_of_dfs)) {
   df <- split_list_of_dfs[[name]]
-  write.csv(df, paste0(extract_path, name, ".csv"), row.names = FALSE)
+  write.csv(df, paste0(output_path, name, ".csv"), row.names = FALSE)
+}
+#read each csv and create a column called AGSS_Key
+files <- list.files(output_path, full.names = TRUE)
+for (file in files) {
+  df <- fread(file)
+  df$AGSS_Key <- file
+  #add value to the AGSS_key which is the AGSS_Code_2021 
+  df$AGSS_Key <- openssl::md5(as.character(df$AGSS_Code_2021))
+  write.csv(df, file, row.names = FALSE)
 }
