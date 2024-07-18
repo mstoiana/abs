@@ -6,19 +6,13 @@ standardize_ASGS <- function(base_path) {
   library(openssl)
   library(dplyr)
 
-  scripts_path <- paste0(base_path, "/Scripts/data_Download.R")
+  scripts_path <- paste0(base_path, "Scripts/data_Download.R")
   source(scripts_path)
   dest_path <- paste0(base_path, "Classifications/LOCATION_ASGS/Download/")
   extract_path <- paste0(base_path, "Classifications/LOCATION_ASGS/Input/")
 
   url_from_excel(paste0(base_path, "Classifications/LOCATION_ASGS/Download/MB_Data_source.xlsx"), dest_path, extract_path)
   url_from_excel(paste0(base_path, "Classifications/LOCATION_ASGS/Download/LGA_Data_source.xlsx"), dest_path, extract_path)
-  
- 
-  import_csv <- function(file_path) {
-    data <- read_csv(file_path)
-    return(data)
-  }
 
 #import all states meshblock lists
   NSW <- import_csv(paste0(base_path, "Classifications/LOCATION_ASGS/Input/MB_2016_NSW.csv"))
