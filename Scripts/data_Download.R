@@ -10,6 +10,11 @@ unzip_file <- function(zip_path, dest_path){
   unzip(zip_path, exdir = dest_path)
 }
 
+import_csv <- function(file_path) {
+  data <- read_csv(file_path)
+  return(data)
+}
+
 download_file <- function(url, dest_path, extract_path, file_name){
   # Ensure the destination directory exists
   if (!dir.exists(dest_path)) {
@@ -26,6 +31,31 @@ download_file <- function(url, dest_path, extract_path, file_name){
     file.remove(full_dest_path)
   }
 }
+#https://www.abs.gov.au/census/find-census-data/datapacks/download/2021_GCP_SA1_for_AUS_short-header.zip
+
+
+download_census_data <- function(c_year, c_pack, c_geo, c_area, dest_path, extract_path, metadata){
+  url <- paste0("https://www.abs.gov.au/census/find-census-data/datapacks/download/", c_year, "_", c_pack, "_", c_geo, "_for_", c_area, "_short-header.zip")
+  file_name <- paste0(c_year, "_", c_pack, "_", c_geo, "_for_", c_area, "_short-header.zip")
+  download_file(url, dest_path, extract_path, file_name)
+  files <- list.files(extract_path, full.names = TRUE) # Get full paths
+  if (metadata == TRUE){
+    for (file_path in files){
+      if (!grepl("Metadata", file_path)){
+        if (file.info(file_path)$isdir){
+          # Use unlink to remove directories
+          unlink(file_path, recursive = TRUE)
+        } else {
+          # Use file.remove for files
+          file.remove(file_path)
+        }
+      }
+    }
+  }
+}
+
+
+
 
 #read from excel function
 url_from_excel <- function(excel_path, dest_path, extract_path){

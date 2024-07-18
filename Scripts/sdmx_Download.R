@@ -19,4 +19,8 @@ read_sdmx_data <- function(providerId = "ABS", resource = "data", flowRef = "ALC
   return(data_df)
 }
 
-read_sdmx_data(,,"")
+# save file to csv function
+save_to_csv <- function(data, file_path) {
+  write.csv(data, file = file_path)
+}
+
