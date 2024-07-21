@@ -2,10 +2,6 @@ library(httr)
 library(readr)
 library(readxl)
 
-#base_path <- "C:/Users/joshu/OneDrive/Documents/GIthub/abs/"
-#dest_path <- paste0(base_path, "Classifications/LOCATION_ASGS/Download/")
-#extract_path <- paste0(base_path, "Classifications/LOCATION_ASGS/Input/")
-
 unzip_file <- function(zip_path, dest_path){
   unzip(zip_path, exdir = dest_path)
 }
@@ -15,6 +11,32 @@ import_csv <- function(file_path) {
   return(data)
 }
 
+#' Download a File from a URL and Optionally Extract It
+#'
+#' This function downloads a file from a specified URL to a destination path, and if the file is a zip archive,
+#' it extracts the contents to a specified extraction path and then deletes the original zip file.
+#'
+#' @param url The URL from which the file should be downloaded.
+#' @param dest_path The directory path where the downloaded file should be saved. The function checks if this
+#'                  directory exists and creates it if it does not.
+#' @param extract_path The directory path where the contents of the zip file should be extracted, applicable
+#'                     only if the downloaded file is a zip archive.
+#' @param file_name The name to be given to the downloaded file. This name is used both for saving the file
+#'                  and, in the case of a zip file, for naming the extracted folder.
+#'
+#' @details The function first checks if the destination directory exists and creates it if necessary. It then
+#'          downloads the file using the `GET` function from the `httr` package, specifying the full destination
+#'          path and setting `overwrite = TRUE` to replace any existing file with the same name. If the downloaded
+#'          file is a zip archive (as determined by its file name ending in ".zip"), the function calls another
+#'          function `unzip_file` to extract its contents to the specified extraction path and then deletes the
+#'          original zip file to save space.
+#'
+#' @return None.
+#'
+#' @examples
+#' download_file("http://example.com/data.zip", "path/to/destination", "path/to/extract", "data.zip")
+#' This example downloads a zip file from the specified URL, saves it as "data.zip" in the specified destination
+#' path, extracts its contents to the specified extraction path, and then deletes the original zip file.
 download_file <- function(url, dest_path, extract_path, file_name){
   # Ensure the destination directory exists
   if (!dir.exists(dest_path)) {
