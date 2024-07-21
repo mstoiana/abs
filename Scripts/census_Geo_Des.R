@@ -4,6 +4,7 @@ library(openssl)
 library(dplyr)
 library(data.table)
 
+# change the base path to the location of the abs folder
 base_path <- "C:/Users/joshu/OneDrive/Documents/GIthub/abs/"
 scripts_path <- paste0(base_path, "/Scripts/data_Download.R")
 source(scripts_path)
@@ -39,6 +40,7 @@ setColumns <- function(df) {
   }
   return(df)
 }
+
 geog_def <- read_excel_sheets(geog_def_source)
 data_def <- read_excel_sheets(data_def_source)
 
@@ -60,12 +62,13 @@ split_data_frames <- function(df_list) {
       
       # Check if this category already exists in split_dfs
       if (category_name %in% names(split_dfs)) {
-        # Combine existing and new data frames, then remove duplicates
+        # If so, Combine existing and new data frames, then remove duplicates
         combined_df <- rbind(split_dfs[[category_name]], cat_df)
         # Ensure the combined data frame is unique
         unique_combined_df <- unique(combined_df)
         split_dfs[[category_name]] <- unique_combined_df
       } else {
+        #if this is first occurence of category, add it to the list
         split_dfs[[category_name]] <- cat_df
       }
     }
