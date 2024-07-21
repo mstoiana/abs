@@ -27,12 +27,9 @@ download_file <- function(url, dest_path, extract_path, file_name){
   
   if (grepl(".zip$", full_dest_path)){
     unzip_file(full_dest_path, extract_path)
-    # Optionally, delete the ZIP file after unzipping
     file.remove(full_dest_path)
   }
 }
-#https://www.abs.gov.au/census/find-census-data/datapacks/download/2021_GCP_SA1_for_AUS_short-header.zip
-
 
 download_census_data <- function(c_year, c_pack, c_geo, c_area, dest_path, extract_path, metadata){
   url <- paste0("https://www.abs.gov.au/census/find-census-data/datapacks/download/", c_year, "_", c_pack, "_", c_geo, "_for_", c_area, "_short-header.zip")
@@ -53,9 +50,6 @@ download_census_data <- function(c_year, c_pack, c_geo, c_area, dest_path, extra
     }
   }
 }
-
-
-
 
 #read from excel function
 url_from_excel <- function(excel_path, dest_path, extract_path){
