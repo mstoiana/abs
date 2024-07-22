@@ -1,25 +1,29 @@
 
-standardize_ANZSRC <- function(base_path){
+standardize_ANZSRC <- function(){
   start_time <- Sys.time()
   
   library(readxl)
   library(tidyverse)
   library(openssl)
   library(dplyr)
+  library(here)
 
-  scripts_path <- paste0(base_path, "/Scripts/data_Download.R")
+  base_path <- here()
+  scripts_path <- here("Scripts", "data_Download.R")
   source(scripts_path)
-  dest_path <- paste0(base_path, "Classifications/RESEARCH_ANZSRC/Download/")
-  extract_path <- paste0(base_path, "Classifications/RESEARCH_ANZSRC/Input/")
+  dest_path <- here("Classifications", "RESEARCH_ANZSRC", "Download")
+  extract_path <- here("Classifications", "RESEARCH_ANZSRC", "Input")
+  dest_path
+
   url <- "https://www.abs.gov.au/statistics/classifications/australian-and-new-zealand-standard-research-classification-anzsrc/2020/anzsrc2020_seo.xlsx"
   download_file(url, dest_path, extract_path, "anzsrc2020_seo.xlsx")
   url <- "https://www.abs.gov.au/statistics/classifications/australian-and-new-zealand-standard-research-classification-anzsrc/2020/anzsrc2020_for.xlsx"
   download_file(url, dest_path, extract_path, "anzsrc2020_for.xlsx")
 
 # Load the data
-  SEO_Data <- read_excel(paste0(extract_path, "anzsrc2020_seo.xlsx"), sheet = "Table 3", skip = 7)
-  FOR_Data <- read_excel(paste0(extract_path, "anzsrc2020_for.xlsx"), sheet = "Table 3", skip = 7)
-
+  SEO_Data <- read_excel(file.path(extract_path, "anzsrc2020_seo.xlsx"), sheet = "Table 3", skip = 7)
+  FOR_Data <- read_excel(file.path(extract_path, "anzsrc2020_for.xlsx"), sheet = "Table 3", skip = 7)
+  
   colnames(SEO_Data) <- c("SEO_Division", "SEO_Group", "SEO_Objective", "SEO_Description")
   colnames(FOR_Data) <- c("FOR_Division", "FOR_Group", "FOR_Field", "FOR_Description")
 
@@ -55,18 +59,18 @@ standardize_ANZSRC <- function(base_path){
   FOR_Groups <- FOR_Groups %>% select(FOR_Groups_Key, everything())
   FOR_Fields <- FOR_Fields %>% select(FOR_Fields_Key, everything())
 
-  write_csv(SEO_Divisions, paste0(base_path, "Classifications/RESEARCH_ANZSRC/Output/SEO_Divisions.csv"))
-  write_csv(SEO_Groups, paste0(base_path, "Classifications/RESEARCH_ANZSRC/Output/SEO_Groups.csv"))
-  write_csv(SEO_Objectives, paste0(base_path, "Classifications/RESEARCH_ANZSRC/Output/SEO_Objectives.csv"))
+  write_csv(SEO_Divisions, here("Classifications", "RESEARCH_ANZSRC", "Output", "SEO_Divisions.csv"))
+  write_csv(SEO_Groups, here("Classifications", "RESEARCH_ANZSRC", "Output", "SEO_Groups.csv"))
+  write_csv(SEO_Objectives, here("Classifications", "RESEARCH_ANZSRC", "Output", "SEO_Objectives.csv"))
 
-  write_csv(FOR_Divisions, paste0(base_path, "Classifications/RESEARCH_ANZSRC/Output/FOR_Divisions.csv"))
-  write_csv(FOR_Groups, paste0(base_path, "Classifications/RESEARCH_ANZSRC/Output/FOR_Groups.csv"))
-  write_csv(FOR_Fields, paste0(base_path, "Classifications/RESEARCH_ANZSRC/Output/FOR_Fields.csv"))
+  write_csv(FOR_Divisions, here("Classifications", "RESEARCH_ANZSRC", "Output", "FOR_Divisions.csv"))
+  write_csv(FOR_Groups, here("Classifications", "RESEARCH_ANZSRC", "Output", "FOR_Groups.csv"))
+  write_csv(FOR_Fields, here("Classifications", "RESEARCH_ANZSRC", "Output", "FOR_Fields.csv"))
   
   end_time <- Sys.time()
   
-  print("Task Complete")
+  print("ANZSRC Task Complete")
   print(paste0("Time taken: ", end_time - start_time))
 }
 
-standardize_ANZSRC("C:/Users/Josh/OneDrive/Documents/GIthub/abs/")
+standardize_ANZSRC()

@@ -1,20 +1,22 @@
-standardize_SACC <- function(base_path) {
+standardize_SACC <- function() {
   start_time <- Sys.time()
   
   library(readxl)
   library(tidyverse)
   library(openssl)
   library(dplyr)
+  library(here)
 
-  scripts_path <- paste0(base_path, "/Scripts/data_Download.R")
+  base_path <- here()
+  scripts_path <- here("Scripts", "data_Download.R")
   source(scripts_path)
-  dest_path <- paste0(base_path, "Classifications/Location_SACC/Download/")
-  extract_path <- paste0(base_path, "Classifications/Location_SACC/Input/")
+  dest_path <- here("Classifications", "Location_SACC", "Download")
+  extract_path <- here("Classifications", "Location_SACC", "Input")
 
   url <- "https://www.abs.gov.au/statistics/classifications/standard-australian-classification-countries-sacc/2016/sacc_12690do0001_202402.xlsx"
   download_file(url, dest_path, extract_path, "sacc_12690do0001_202402.xlsx")
   
-  Data <- read_excel(paste0(base_path, "Classifications/LOCATION_SACC/Input/sacc_12690do0001_202402.xlsx"), sheet = "Table 1.3", skip = 4)
+  Data <- read_excel(here("Classifications", "LOCATION_SACC", "Input", "sacc_12690do0001_202402.xlsx"), sheet = "Table 1.3", skip = 4)
   colnames(Data) <- c("Major_Group", "Minor_Group", "Countries", "Countries_Description")
 
   Major_Group <- Data %>% select(Major_Group, Minor_Group) %>% filter(!is.na(Major_Group) & !is.na(Minor_Group))
@@ -35,9 +37,9 @@ standardize_SACC <- function(base_path) {
 Countries <- Countries %>% select(Countries_Key, everything())
 #write to CSV
 
-  write_csv(Major_Group, paste0(base_path, "Classifications/LOCATION_SACC/Output/SACC_Major_Group.csv"))
-  write_csv(Minor_Group, paste0(base_path, "Classifications/LOCATION_SACC/Output/SACC_Minor_Group.csv"))
-  write_csv(Countries, paste0(base_path, "Classifications/LOCATION_SACC/Output/SACC_Countries.csv"))
+  write_csv(Major_Group, here("Classifications", "LOCATION_SACC", "Output", "SACC_Major_Group.csv"))
+  write_csv(Minor_Group, here("Classifications", "LOCATION_SACC", "Output", "SACC_Minor_Group.csv"))
+  write_csv(Countries, here("Classifications", "LOCATION_SACC", "Output", "SACC_Countries.csv"))
   
   end_time <- Sys.time()
   
@@ -45,4 +47,4 @@ Countries <- Countries %>% select(Countries_Key, everything())
   print(paste0("Time taken: ", end_time - start_time))
 }
 
-standardize_SACC("C:/Users/Josh/OneDrive/Documents/GIthub/abs/")
+standardize_SACC()

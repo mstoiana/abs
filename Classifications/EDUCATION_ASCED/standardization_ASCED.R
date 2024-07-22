@@ -1,22 +1,24 @@
-standardize_ASCED <- function(base_path) {
+standardize_ASCED <- function() {
   start_time <- Sys.time()
   
   library(readxl)
   library(tidyverse)
   library(openssl)
   library(dplyr)
+  library(here)
 
-  scripts_path <- paste0(base_path, "/Scripts/data_Download.R")
+  base_path <- here()
+  scripts_path <- here("Scripts", "data_Download.R")
   source(scripts_path)
-  dest_path <- paste0(base_path, "Classifications/Education_ASCED/Download/")
-  extract_path <- paste0(base_path, "Classifications/Education_ASCED/Input/")
+  dest_path <- here("Classifications", "Education_ASCED", "Download")
+  extract_path <- here("Classifications", "Education_ASCED", "Input")
 
   url <- "https://www.abs.gov.au/statistics/classifications/australian-standard-classification-education-asced/2001/1272.0%20australian%20standard%20classification%20of%20education%20%28asced%29%20structures.xlsx"
   download_file(url, dest_path, extract_path, "1272.0 australian standard classification of education (asced) structures.xlsx")
 
-  Level_Data <- read_excel(paste0(base_path, "Classifications/Education_ASCED/Input/1272.0 australian standard classification of education (asced) structures.xlsx"), sheet = "Table 1", skip = 4)
-  Field_Data <-read_excel(paste0(base_path, "Classifications/Education_ASCED/Input/1272.0 australian standard classification of education (asced) structures.xlsx"), sheet = "Table 2", skip = 4)
-
+  Level_Data <- read_excel(here("Classifications", "Education_ASCED", "Input", "1272.0 australian standard classification of education (asced) structures.xlsx"), sheet = "Table 1", skip = 4)
+  Field_Data <- read_excel(here("Classifications", "Education_ASCED", "Input", "1272.0 australian standard classification of education (asced) structures.xlsx"), sheet = "Table 2", skip = 4)
+  
   colnames(Level_Data) <- c("Broad_Level","Narrow_Level","Detailed_Level", "Level_Description")
   colnames(Field_Data) <- c("Broad_Fields","Narrow_Fields","Detailed_Fields", "Field_Description")
 
@@ -54,13 +56,13 @@ standardize_ASCED <- function(base_path) {
   Detailed_Fields <- Detailed_Fields %>% select(Detailed_Fields_Key, everything())
 
 #write to CSV
-  write_csv(Broad_Level, paste0(base_path, "Classifications/Education_ASCED/Output/EDUCATION_ASCED_LEVEL/ASCED_Broad_Level.csv"))
-  write_csv(Narrow_Level, paste0(base_path, "Classifications/Education_ASCED/Output/EDUCATION_ASCED_LEVEL/ASCED_Narrow_Level.csv"))
-  write_csv(Detailed_Level, paste0(base_path, "Classifications/Education_ASCED/Output/EDUCATION_ASCED_LEVEL/ASCED_Detailed_Level.csv"))
+  write_csv(Broad_Level, here("Classifications", "Education_ASCED", "Output", "ASCED_Broad_Level.csv"))
+  write_csv(Narrow_Level, here("Classifications", "Education_ASCED", "Output", "ASCED_Narrow_Level.csv"))
+  write_csv(Detailed_Level, here("Classifications", "Education_ASCED", "Output", "ASCED_Detailed_Level.csv"))
 
-  write_csv(Broad_Fields, paste0(base_path, "Classifications/Education_ASCED/Output/EDUCATION_ASCED_FIELD/ASCED_Broad_Fields.csv"))
-  write_csv(Narrow_Fields, paste0(base_path, "Classifications/Education_ASCED/Output/EDUCATION_ASCED_FIELD/ASCED_Narrow_Fields.csv"))
-  write_csv(Detailed_Fields, paste0(base_path, "Classifications/Education_ASCED/Output/EDUCATION_ASCED_FIELD/ASCED_Detailed_Fields.csv"))
+  write_csv(Broad_Fields, here("Classifications", "Education_ASCED", "Output", "ASCED_Broad_Fields.csv"))
+  write_csv(Narrow_Fields, here("Classifications", "Education_ASCED", "Output", "ASCED_Narrow_Fields.csv"))
+  write_csv(Detailed_Fields, here("Classifications", "Education_ASCED", "Output", "ASCED_Detailed_Fields.csv"))
   
   end_time <- Sys.time()
   
@@ -68,4 +70,4 @@ standardize_ASCED <- function(base_path) {
   print(paste0("Time taken: ", end_time - start_time))
 }
 
-standardize_ASCED("C:/Users/Josh/OneDrive/Documents/GIthub/abs/")
+standardize_ASCED()
