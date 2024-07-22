@@ -1,4 +1,4 @@
-retrieve_Classifications <- function(base_path) {
+retrieve_Classifications <- function() {
   start_time <- Sys.time()
   
   if (!require("readxl")) {
@@ -17,10 +17,16 @@ retrieve_Classifications <- function(base_path) {
     install.packages("dplyr")
   }
   
+  if (!require("here")) {
+    install.packages("here")
+  }
+  
   library(readxl)
   library(tidyverse)
   library(openssl)
   library(dplyr)
+  library(here)
+  base_path <- here::here()
   
   source(paste0(base_path, "/Classifications/DEMOGRAPHIC_ASCCEG/standardization_ASCCEG.R"))
   source(paste0(base_path, "/Classifications/DEMOGRAPHIC_ASCRG/standardization_ASCRG.R"))
@@ -46,4 +52,4 @@ retrieve_Classifications <- function(base_path) {
   print(paste0("Time taken: ", end_time - start_time))
 }
 
-retrieve_Classifications("C:/Users/Josh/OneDrive/Documents/GIthub/abs/")
+retrieve_Classifications()

@@ -3,17 +3,25 @@ library(tidyverse)
 library(openssl)
 library(dplyr)
 library(data.table)
+library(here)
 
-# change the base path to the location of the abs folder
-base_path <- "C:/Users/joshu/OneDrive/Documents/GIthub/abs/"
-scripts_path <- paste0(base_path, "/Scripts/data_Download.R")
+base_path <- here()
+scripts_path <- here("Scripts", "data_Download.R")
 source(scripts_path)
-dest_path <- paste0(base_path, "Census/Metadata/Download/")
-extract_path <- paste0(base_path, "Census/Metadata/Input/")
-output_path <- paste0(base_path, "Census/Metadata/Output/")
+dest_path <- here("Census", "Metadata", "Download")
+extract_path <- here("Census", "Metadata", "Input")
+output_path <- here("Census", "Metadata", "Output")
+
+# Create directories if they do not exist
+paths <- list(dest_path, extract_path, output_path)
+lapply(paths, function(path) {
+  if (!dir.exists(path)) {
+    dir.create(path, recursive = TRUE)
+  }
+})
 
 download_census_data("2021", "GCP", "SA2", "AUS", dest_path, extract_path, TRUE)
-extract_path <- paste0(extract_path, "Metadata/")
+extract_path <- here("Census", "Metadata", "Input", "Metadata")
 files <- list.files(extract_path, full.names = TRUE) # Get full paths
 geog_def_source <- files[grepl("geog", files)]
 data_def_source <- files[grepl("DataPack", files)]
@@ -94,10 +102,14 @@ data_def_process <- function(data_def) {
 data_def <- data_def_process(data_def)
 
 #export data def as two seperate csvs
-write.csv(data_def[1], paste0(output_path, "/data_def_tables.csv"), row.names = FALSE)
-write.csv(data_def[2], paste0(output_path, "/data_def_columns.csv"), row.names = FALSE)
+write.csv(data_def[1], here(output_path, "data_def_tables.csv"), row.names = FALSE)
+write.csv(data_def[2], here(output_path, "data_def_columns.csv"), row.names = FALSE)
+output_path <- here("Census", "Metadata", "Output", "AGSS")
 
-output_path <- paste0(base_path, "Census/Metadata/Output/AGSS/")
+# Check if the directory exists, if not, create it
+if (!dir.exists(output_path)) {
+  dir.create(output_path, recursive = TRUE)
+}
 
 for (name in names(split_list_of_dfs)) {
   df <- split_list_of_dfs[[name]]
