@@ -91,6 +91,19 @@ download_census_data <- function(c_year, c_pack, c_geo, c_area, dest_path, extra
       }
     }
   }
+  else (
+    for (file_path in files){
+      if (grepl("Metadata", file_path)){
+        if (file.info(file_path)$isdir){
+          # Use unlink to remove directories
+          unlink(file_path, recursive = TRUE)
+        } else {
+          # Use file.remove for files
+          file.remove(file_path)
+        }
+      }
+    }
+  )
 }
 
 #read from excel function
