@@ -1,4 +1,0 @@
-readxl
-tidyverse
-openssl
-dplyr
